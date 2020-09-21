@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**LuckierDodge/LuckierDodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's some text.
 
-Here are some ideas to get you started:
+* List 1
+* List 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Item 1
+1. Item 2
+1. Item 3
+
+[GitHub](https://github.com)
+
