@@ -1,13 +1,5 @@
-# Hello World!
+# Hey there 👋
 
-Here's some text.
+Welcome to my GitHub profile! This is where I keep a good chunk of the code that I write for 💻/📱/🤖. Feel free to poke around and see what's going on here, or, head over to [my website](https://ryandlewis.dev) to find out more about your's truly!
 
-* List 1
-* List 2
-
-1. Item 1
-1. Item 2
-1. Item 3
-
-[GitHub](https://github.com)
-
+Anyways, support open source projects, and be nice to each other out there!
