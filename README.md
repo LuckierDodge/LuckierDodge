@@ -1,10 +1,10 @@
-### Hallo!
+## 👋 Hallo!
 
 I'm Ryan, a Software Developer, Roboticist, Researcher, Student, and well-rounded nerd who wears many hats, both figuratively and literally.
 
 You can learn more about me at my [website](https://ryandlewis.dev), or check out some fun metrics below!
 
-#### Here's what I've been working on recently
+### 💻 Stuff I've been working on
 
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 day ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 days ago)
@@ -17,20 +17,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (5 months ago)
 - [LuckierDodge/eratosthenes-sieve](https://github.com/LuckierDodge/eratosthenes-sieve) - Simple test project for an implementation of the Sieve of Eratosthenes (5 months ago)
 
-#### My recent Pull Requests
-
-- [Updated license and maintainer info](https://github.com/AD-SDL/ot2_workcell/pull/8) on [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) (1 month ago)
-- [Reformatting, Cleanup, and Standardization](https://github.com/AD-SDL/ot2_workcell/pull/6) on [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) (2 months ago)
-- [Added launch_drive_control.py](https://github.com/NIURoverTeam/AdBoxtra/pull/4) on [NIURoverTeam/AdBoxtra](https://github.com/NIURoverTeam/AdBoxtra) (6 months ago)
-- [Drive control](https://github.com/NIURoverTeam/AdBoxtra/pull/3) on [NIURoverTeam/AdBoxtra](https://github.com/NIURoverTeam/AdBoxtra) (6 months ago)
-- [Merge in Initial Package Setup](https://github.com/NIURoverTeam/AdBoxtra/pull/1) on [NIURoverTeam/AdBoxtra](https://github.com/NIURoverTeam/AdBoxtra) (8 months ago)
-- [Dev](https://github.com/LuckierDodge/website/pull/2) on [LuckierDodge/website](https://github.com/LuckierDodge/website) (8 months ago)
-- [Added sponsorship info](https://github.com/NIURoverTeam/niurover-website/pull/2) on [NIURoverTeam/niurover-website](https://github.com/NIURoverTeam/niurover-website) (1 year ago)
-- [Text updates](https://github.com/NIURoverTeam/niurover-website/pull/1) on [NIURoverTeam/niurover-website](https://github.com/NIURoverTeam/niurover-website) (1 year ago)
-- [Code cleanup](https://github.com/NIURoverTeam/RoverCoreOS/pull/41) on [NIURoverTeam/RoverCoreOS](https://github.com/NIURoverTeam/RoverCoreOS) (2 years ago)
-- [Bring in Rover 5 Model to master](https://github.com/NIURoverTeam/RoverCoreOS/pull/40) on [NIURoverTeam/RoverCoreOS](https://github.com/NIURoverTeam/RoverCoreOS) (2 years ago)
-
-#### My recent website posts
+### ✍ My recent writing
 
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (6 months ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (6 months ago)
@@ -38,7 +25,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [A (Belated) Hello World!](https://ryandlewis.dev/posts/helloworld/) (1 year ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (6 months ago)
 
-#### Recent Stars
+### ⭐ Things I've starred lately
 
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (1 day ago)
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (2 days ago)
@@ -51,7 +38,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service (1 week ago)
 - [Zaedus/Pop-nord](https://github.com/Zaedus/Pop-nord) - System76 Pop GTK&#43; Theme inspired by the amazing Nord color scheme. (1 week ago)
 
-#### Check out some of my recent followers
+### 🤓 Some fellow nerds who follow me!
 
 - [adugyan](https://github.com/adugyan)
 - [esin](https://github.com/esin)
