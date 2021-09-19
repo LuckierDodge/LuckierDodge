@@ -1,30 +1,25 @@
-### Hallo!
+## Hallo!
 
 I'm Ryan, a Software Developer, Roboticist, Researcher, Student, and well-rounded nerd who wears many hats, both figuratively and literally.
 
 You can learn more about me at my [website](https://ryandlewis.dev), or check out some fun metrics below!
 
-#### Here's what I've been working on recently
+### 💻 Stuff I've been working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### My recent website posts
+### My recent writing
 {{range rss "https://ryandlewis.dev/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### Recent Stars
+### Things I've starred lately
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### Check out some of my recent followers
+### Some fellow nerds who follow me!
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
