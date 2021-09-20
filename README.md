@@ -17,13 +17,18 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (5 months ago)
 - [LuckierDodge/NFA_Evaluator](https://github.com/LuckierDodge/NFA_Evaluator) - Evaluating whether or not a Nondeterministic Finite Automata accepts or rejects different words (5 months ago)
 
-### ✍ My recent writing
+### ✍ My recent writing and projects
 
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (6 months ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (6 months ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (6 months ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (9 months ago)
 - [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (10 months ago)
+- [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (1 year ago)
+- [🐋 dockerfiles](https://ryandlewis.dev/projects/dockerfiles/) (1 year ago)
+- [🌐 website](https://ryandlewis.dev/projects/website/) (1 year ago)
+- [A (Belated) Hello World!](https://ryandlewis.dev/posts/helloworld/) (1 year ago)
+- [👓 AoT_Windows_MR_Vis](https://ryandlewis.dev/projects/aot_wmr_vis/) (1 year ago)
 
 ### ⭐ Things I've starred lately
 
@@ -45,6 +50,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [sudeep-chandra](https://github.com/sudeep-chandra)
 - [fivemoreminutes](https://github.com/fivemoreminutes)
 - [tli228](https://github.com/tli228)
+- [reneeverly](https://github.com/reneeverly)
+- [waffleston](https://github.com/waffleston)
+- [halBRY](https://github.com/halBRY)
+- [curtgrimes](https://github.com/curtgrimes)
+- [leoankita](https://github.com/leoankita)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=luckierdodge&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
