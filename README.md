@@ -6,11 +6,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 day ago)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 days ago)
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (6 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 days ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 days ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 week ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (3 weeks ago)
-- [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (1 month ago)
+- [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (2 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (3 months ago)
 - [LuckierDodge/NFA_Evaluator](https://github.com/LuckierDodge/NFA_Evaluator) - Evaluating whether or not a Nondeterministic Finite Automata accepts or rejects different words (5 months ago)
 - [LuckierDodge/iOS-Final-Project](https://github.com/LuckierDodge/iOS-Final-Project) - Final Project for Advanced iOS, a kanban-style Taskboard using a tabbed view controller. (5 months ago)
@@ -27,12 +27,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (1 day ago)
-- [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (2 days ago)
-- [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth (4 days ago)
-- [sequenceplanner/r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS 2 Rust bindings (5 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (6 days ago)
-- [tomahawk-player/tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player (6 days ago)
+- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (2 days ago)
+- [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (3 days ago)
+- [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth (5 days ago)
+- [sequenceplanner/r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS 2 Rust bindings (6 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
+- [tomahawk-player/tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player (1 week ago)
 - [mrvnklm/homeassistant-desktop](https://github.com/mrvnklm/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron (1 week ago)
 - [wmutschl/quickemu](https://github.com/wmutschl/quickemu) - The amazing Quickemu; as seen on YouTube (1 week ago)
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service (1 week ago)
