@@ -9,8 +9,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-### ✍ My recent writing
-{{range rss "https://ryandlewis.dev/feed.xml" 5}}
+### ✍ My recent writing and projects
+{{range rss "https://ryandlewis.dev/feed.xml" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -20,7 +20,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 {{- end}}
 
 ### 🤓 Some fellow nerds who follow me!
-{{range followers 5}}
+{{range followers 10}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
