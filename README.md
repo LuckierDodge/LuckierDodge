@@ -27,6 +27,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (today)
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (2 days ago)
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (3 days ago)
 - [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth (5 days ago)
@@ -36,7 +37,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [mrvnklm/homeassistant-desktop](https://github.com/mrvnklm/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron (1 week ago)
 - [wmutschl/quickemu](https://github.com/wmutschl/quickemu) - The amazing Quickemu; as seen on YouTube (1 week ago)
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service (1 week ago)
-- [Zaedus/Pop-nord](https://github.com/Zaedus/Pop-nord) - System76 Pop GTK&#43; Theme inspired by the amazing Nord color scheme. (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
