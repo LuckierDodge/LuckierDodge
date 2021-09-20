@@ -12,10 +12,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (3 weeks ago)
 - [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (2 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (3 months ago)
-- [LuckierDodge/NFA_Evaluator](https://github.com/LuckierDodge/NFA_Evaluator) - Evaluating whether or not a Nondeterministic Finite Automata accepts or rejects different words (5 months ago)
-- [LuckierDodge/iOS-Final-Project](https://github.com/LuckierDodge/iOS-Final-Project) - Final Project for Advanced iOS, a kanban-style Taskboard using a tabbed view controller. (5 months ago)
-- [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (5 months ago)
 - [LuckierDodge/eratosthenes-sieve](https://github.com/LuckierDodge/eratosthenes-sieve) - Simple test project for an implementation of the Sieve of Eratosthenes (5 months ago)
+- [LuckierDodge/AndroidFinalProject](https://github.com/LuckierDodge/AndroidFinalProject) - Final Project for CSCI 428, a WearOS remote control for Daydream (5 months ago)
+- [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (5 months ago)
+- [LuckierDodge/NFA_Evaluator](https://github.com/LuckierDodge/NFA_Evaluator) - Evaluating whether or not a Nondeterministic Finite Automata accepts or rejects different words (5 months ago)
 
 ### ✍ My recent writing
 
