@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (2 days ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (3 days ago)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (4 days ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (3 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (4 days ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (5 days ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (3 weeks ago)
 - [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (2 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (3 months ago)
@@ -32,10 +32,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (1 day ago)
-- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (3 days ago)
-- [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (4 days ago)
-- [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth (6 days ago)
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (2 days ago)
+- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (4 days ago)
+- [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (5 days ago)
+- [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth (1 week ago)
 - [sequenceplanner/r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS 2 Rust bindings (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [tomahawk-player/tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player (1 week ago)
