@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (today)
 - [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (today)
 - [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (today)
 - [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (today)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth (1 week ago)
 - [sequenceplanner/r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS 2 Rust bindings (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
-- [tomahawk-player/tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
