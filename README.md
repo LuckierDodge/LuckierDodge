@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (today)
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (2 days ago)
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (4 days ago)
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (5 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [tomahawk-player/tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player (1 week ago)
 - [mrvnklm/homeassistant-desktop](https://github.com/mrvnklm/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron (1 week ago)
 - [wmutschl/quickemu](https://github.com/wmutschl/quickemu) - The amazing Quickemu; as seen on YouTube (1 week ago)
-- [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
