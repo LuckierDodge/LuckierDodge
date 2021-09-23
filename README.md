@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (today)
 - [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (1 day ago)
 - [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (1 day ago)
 - [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (1 day ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (6 days ago)
 - [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth (1 week ago)
 - [sequenceplanner/r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS 2 Rust bindings (1 week ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
