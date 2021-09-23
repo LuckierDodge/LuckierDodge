@@ -40,7 +40,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (3 days ago)
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (5 days ago)
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (6 days ago)
-- [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth (1 week ago)
+- [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth (1 week ago)
 - [sequenceplanner/r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS 2 Rust bindings (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
