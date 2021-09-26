@@ -6,21 +6,21 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (6 days ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 week ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
-- [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (3 weeks ago)
+- [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (4 weeks ago)
 - [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (2 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (3 months ago)
-- [LuckierDodge/eratosthenes-sieve](https://github.com/LuckierDodge/eratosthenes-sieve) - Simple test project for an implementation of the Sieve of Eratosthenes (5 months ago)
-- [LuckierDodge/AndroidFinalProject](https://github.com/LuckierDodge/AndroidFinalProject) - Final Project for CSCI 428, a WearOS remote control for Daydream (5 months ago)
-- [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (5 months ago)
-- [LuckierDodge/NFA_Evaluator](https://github.com/LuckierDodge/NFA_Evaluator) - Evaluating whether or not a Nondeterministic Finite Automata accepts or rejects different words (5 months ago)
+- [LuckierDodge/eratosthenes-sieve](https://github.com/LuckierDodge/eratosthenes-sieve) - Simple test project for an implementation of the Sieve of Eratosthenes (6 months ago)
+- [LuckierDodge/AndroidFinalProject](https://github.com/LuckierDodge/AndroidFinalProject) - Final Project for CSCI 428, a WearOS remote control for Daydream (6 months ago)
+- [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (6 months ago)
+- [LuckierDodge/NFA_Evaluator](https://github.com/LuckierDodge/NFA_Evaluator) - Evaluating whether or not a Nondeterministic Finite Automata accepts or rejects different words (6 months ago)
 
 ### ✍ My recent writing and projects
 
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (6 months ago)
-- [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (6 months ago)
+- [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (7 months ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (7 months ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (9 months ago)
 - [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (10 months ago)
@@ -32,12 +32,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (2 days ago)
-- [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (3 days ago)
-- [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (3 days ago)
-- [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (3 days ago)
-- [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (3 days ago)
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (5 days ago)
+- [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (3 days ago)
+- [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (4 days ago)
+- [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (4 days ago)
+- [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (4 days ago)
+- [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (4 days ago)
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (6 days ago)
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (1 week ago)
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (1 week ago)
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth (1 week ago)
