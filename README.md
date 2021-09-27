@@ -22,7 +22,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (6 months ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (7 months ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (7 months ago)
-- [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (9 months ago)
+- [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (10 months ago)
 - [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (10 months ago)
 - [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (1 year ago)
 - [🐋 dockerfiles](https://ryandlewis.dev/projects/dockerfiles/) (1 year ago)
@@ -32,12 +32,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (3 days ago)
-- [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (4 days ago)
-- [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (4 days ago)
-- [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (4 days ago)
-- [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (4 days ago)
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (6 days ago)
+- [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (4 days ago)
+- [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (5 days ago)
+- [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (5 days ago)
+- [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (5 days ago)
+- [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (5 days ago)
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (1 week ago)
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (1 week ago)
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (1 week ago)
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth (1 week ago)
