@@ -32,15 +32,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (5 days ago)
-- [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (6 days ago)
-- [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (6 days ago)
-- [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (6 days ago)
-- [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (6 days ago)
+- [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (6 days ago)
+- [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (1 week ago)
+- [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (1 week ago)
+- [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (1 week ago)
+- [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (1 week ago)
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (1 week ago)
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (1 week ago)
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (1 week ago)
-- [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth (1 week ago)
+- [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth (2 weeks ago)
 - [sequenceplanner/r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS 2 Rust bindings (2 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
