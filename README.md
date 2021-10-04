@@ -32,14 +32,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs. (today)
-- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (today)
+- [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs. (1 day ago)
+- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (1 day ago)
 - [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (1 week ago)
 - [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (1 week ago)
 - [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (1 week ago)
 - [legend-zeratul/conky-dials](https://github.com/legend-zeratul/conky-dials) -  (1 week ago)
 - [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (1 week ago)
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (1 week ago)
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (2 weeks ago)
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (2 weeks ago)
 - [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (2 weeks ago)
 
