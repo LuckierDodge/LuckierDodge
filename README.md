@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) - Per-device scrolling prefs on macOS. (today)
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs. (1 day ago)
 - [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (1 day ago)
 - [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-20, Mint 18-20 and more. (1 week ago)
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone. (2 weeks ago)
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git (2 weeks ago)
-- [XRobots/Pedrail](https://github.com/XRobots/Pedrail) -  (2 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
