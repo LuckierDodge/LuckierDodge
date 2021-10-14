@@ -32,6 +32,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (today)
+- [joseluis/huion-linux-drivers](https://github.com/joseluis/huion-linux-drivers) - Linux user-space drivers for Huion Graphic Tablets (today)
+- [DIGImend/digimend-kernel-drivers](https://github.com/DIGImend/digimend-kernel-drivers) - DIGImend graphics tablet drivers for the Linux kernel (today)
 - [marxjohnson/quickemu_gui](https://github.com/marxjohnson/quickemu_gui) -  (1 day ago)
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (1 day ago)
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a &#34;bare metal&#34; operating system for Raspberry Pi 4 (2 days ago)
@@ -39,9 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) - Per-device scrolling prefs on macOS. (1 week ago)
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs. (1 week ago)
 - [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (1 week ago)
-- [brcoding/TaleSpireHtmlSlabGeneration](https://github.com/brcoding/TaleSpireHtmlSlabGeneration) - Javascript slab generator (3 weeks ago)
-- [Y0ngg4n/fluffy_board](https://github.com/Y0ngg4n/fluffy_board) - A Flutter Whiteboard (3 weeks ago)
-- [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) -  (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
