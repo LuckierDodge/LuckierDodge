@@ -24,9 +24,4 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=luckierdodge&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-_Stat card powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-
 I used the awesome [readme-scribe](https://github.com/muesli/readme-scribe) to create this README, and you can too!
-
