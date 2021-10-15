@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (today)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (6 days ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (1 week ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (3 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (4 weeks ago)
 - [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (2 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (3 months ago)
@@ -56,9 +56,4 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [curtgrimes](https://github.com/curtgrimes)
 - [leoankita](https://github.com/leoankita)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=luckierdodge&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-_Stat card powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-
 I used the awesome [readme-scribe](https://github.com/muesli/readme-scribe) to create this README, and you can too!
-
