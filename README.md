@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (today)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 day ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (3 weeks ago)
@@ -32,12 +32,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak. (today)
-- [facontidavide/Treexy](https://github.com/facontidavide/Treexy) - Fast, hierarchical, sparse Voxel Grid (2 days ago)
-- [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site (6 days ago)
-- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (1 week ago)
-- [joseluis/huion-linux-drivers](https://github.com/joseluis/huion-linux-drivers) - Linux user-space drivers for Huion Graphic Tablets (1 week ago)
-- [DIGImend/digimend-kernel-drivers](https://github.com/DIGImend/digimend-kernel-drivers) - DIGImend graphics tablet drivers for the Linux kernel (1 week ago)
+- [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak. (1 day ago)
+- [facontidavide/Treexy](https://github.com/facontidavide/Treexy) - Fast, hierarchical, sparse Voxel Grid (3 days ago)
+- [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site (1 week ago)
+- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (2 weeks ago)
+- [joseluis/huion-linux-drivers](https://github.com/joseluis/huion-linux-drivers) - Linux user-space drivers for Huion Graphic Tablets (2 weeks ago)
+- [DIGImend/digimend-kernel-drivers](https://github.com/DIGImend/digimend-kernel-drivers) - DIGImend graphics tablet drivers for the Linux kernel (2 weeks ago)
 - [marxjohnson/quickemu_gui](https://github.com/marxjohnson/quickemu_gui) -  (2 weeks ago)
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (2 weeks ago)
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a &#34;bare metal&#34; operating system for Raspberry Pi 4 (2 weeks ago)
