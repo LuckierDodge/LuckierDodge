@@ -7,6 +7,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### 💻 Stuff I've been working on
 
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 day ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (6 days ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (3 weeks ago)
@@ -15,7 +16,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (7 months ago)
 - [LuckierDodge/BT_Myographic_Gamepad](https://github.com/LuckierDodge/BT_Myographic_Gamepad) - Simple Arduino Code powering a muscle sensing gamepad controller (7 months ago)
 - [LuckierDodge/AndroidFinalProject](https://github.com/LuckierDodge/AndroidFinalProject) - Final Project for CSCI 428, a WearOS remote control for Daydream (7 months ago)
-- [LuckierDodge/eratosthenes-sieve](https://github.com/LuckierDodge/eratosthenes-sieve) - Simple test project for an implementation of the Sieve of Eratosthenes (7 months ago)
 
 ### ✍ My recent writing and projects
 
