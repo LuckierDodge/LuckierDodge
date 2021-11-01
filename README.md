@@ -15,7 +15,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (4 months ago)
 - [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (7 months ago)
 - [LuckierDodge/BT_Myographic_Gamepad](https://github.com/LuckierDodge/BT_Myographic_Gamepad) - Simple Arduino Code powering a muscle sensing gamepad controller (7 months ago)
-- [LuckierDodge/AndroidFinalProject](https://github.com/LuckierDodge/AndroidFinalProject) - Final Project for CSCI 428, a WearOS remote control for Daydream (7 months ago)
+- [LuckierDodge/eratosthenes-sieve](https://github.com/LuckierDodge/eratosthenes-sieve) - Simple test project for an implementation of the Sieve of Eratosthenes (7 months ago)
 
 ### ✍ My recent writing and projects
 
