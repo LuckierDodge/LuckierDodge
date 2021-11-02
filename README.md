@@ -33,7 +33,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### ⭐ Things I've starred lately
 
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak. (6 days ago)
-- [facontidavide/Treexy](https://github.com/facontidavide/Treexy) - Fast, hierarchical, sparse Voxel Grid (1 week ago)
+- [facontidavide/Broxoli](https://github.com/facontidavide/Broxoli) - Fast, hierarchical, sparse Voxel Grid (1 week ago)
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site (1 week ago)
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (2 weeks ago)
 - [joseluis/huion-linux-drivers](https://github.com/joseluis/huion-linux-drivers) - Linux user-space drivers for Huion Graphic Tablets (2 weeks ago)
