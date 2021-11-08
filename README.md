@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (today)
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak. (1 week ago)
 - [facontidavide/Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid (2 weeks ago)
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [marxjohnson/quickemu_gui](https://github.com/marxjohnson/quickemu_gui) -  (3 weeks ago)
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (3 weeks ago)
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a &#34;bare metal&#34; operating system for Raspberry Pi 4 (3 weeks ago)
-- [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
