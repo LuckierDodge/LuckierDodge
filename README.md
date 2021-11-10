@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3. (today)
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (2 days ago)
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak. (2 weeks ago)
 - [facontidavide/Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [DIGImend/digimend-kernel-drivers](https://github.com/DIGImend/digimend-kernel-drivers) - DIGImend graphics tablet drivers for the Linux kernel (3 weeks ago)
 - [marxjohnson/quickemu_gui](https://github.com/marxjohnson/quickemu_gui) -  (4 weeks ago)
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (4 weeks ago)
-- [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a &#34;bare metal&#34; operating system for Raspberry Pi 4 (4 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
