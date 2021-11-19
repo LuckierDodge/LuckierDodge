@@ -41,7 +41,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [joseluis/huion-linux-drivers](https://github.com/joseluis/huion-linux-drivers) - Linux user-space drivers for Huion Graphic Tablets (1 month ago)
 - [DIGImend/digimend-kernel-drivers](https://github.com/DIGImend/digimend-kernel-drivers) - DIGImend graphics tablet drivers for the Linux kernel (1 month ago)
 - [marxjohnson/quickemu_gui](https://github.com/marxjohnson/quickemu_gui) -  (1 month ago)
-- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (1 month ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
