@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (today)
 - [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (2 days ago)
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3. (1 week ago)
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (1 month ago)
 - [joseluis/huion-linux-drivers](https://github.com/joseluis/huion-linux-drivers) - Linux user-space drivers for Huion Graphic Tablets (1 month ago)
 - [DIGImend/digimend-kernel-drivers](https://github.com/DIGImend/digimend-kernel-drivers) - DIGImend graphics tablet drivers for the Linux kernel (1 month ago)
-- [marxjohnson/quickemu_gui](https://github.com/marxjohnson/quickemu_gui) -  (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
