@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (5 days ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (6 days ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (1 week ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (3 weeks ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (3 weeks ago)
@@ -15,12 +15,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (1 month ago)
 - [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (4 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (5 months ago)
-- [LuckierDodge/NFAE_Evaluator](https://github.com/LuckierDodge/NFAE_Evaluator) - Theory of Computation Assignment 3 - Evaluating whether or not an NFA w/ e-moves accepts or rejects different words (7 months ago)
+- [LuckierDodge/NFAE_Evaluator](https://github.com/LuckierDodge/NFAE_Evaluator) - Theory of Computation Assignment 3 - Evaluating whether or not an NFA w/ e-moves accepts or rejects different words (8 months ago)
 
 ### ✍ My recent writing and projects
 
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (8 months ago)
-- [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (8 months ago)
+- [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (9 months ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (9 months ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (11 months ago)
 - [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (1 year ago)
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (2 days ago)
-- [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (4 days ago)
+- [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (3 days ago)
+- [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (5 days ago)
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3. (2 weeks ago)
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (2 weeks ago)
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak. (4 weeks ago)
