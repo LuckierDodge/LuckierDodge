@@ -19,7 +19,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (8 months ago)
+- [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (9 months ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (9 months ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (9 months ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (1 year ago)
