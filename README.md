@@ -27,7 +27,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (1 year ago)
 - [🐋 dockerfiles](https://ryandlewis.dev/projects/dockerfiles/) (1 year ago)
 - [🌐 website](https://ryandlewis.dev/projects/website/) (1 year ago)
-- [A (Belated) Hello World!](https://ryandlewis.dev/posts/helloworld/) (1 year ago)
+- [A (Belated) Hello World!](https://ryandlewis.dev/posts/helloworld/) (2 years ago)
 - [👓 AoT_Windows_MR_Vis](https://ryandlewis.dev/projects/aot_wmr_vis/) (2 years ago)
 
 ### ⭐ Things I've starred lately
