@@ -32,6 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (today)
+- [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (today)
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium&#39;s like reading time estimation. (1 month ago)
 - [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (1 month ago)
 - [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (1 month ago)
@@ -40,8 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak. (2 months ago)
 - [facontidavide/Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid (2 months ago)
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site (2 months ago)
-- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (2 months ago)
-- [joseluis/huion-linux-drivers](https://github.com/joseluis/huion-linux-drivers) - Linux user-space drivers for Huion Graphic Tablets (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
