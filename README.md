@@ -19,21 +19,21 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (9 months ago)
+- [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (10 months ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (10 months ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (10 months ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (1 year ago)
 - [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (1 year ago)
 - [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (1 year ago)
-- [🐋 dockerfiles](https://ryandlewis.dev/projects/dockerfiles/) (1 year ago)
+- [🐋 dockerfiles](https://ryandlewis.dev/projects/dockerfiles/) (2 years ago)
 - [🌐 website](https://ryandlewis.dev/projects/website/) (2 years ago)
 - [A (Belated) Hello World!](https://ryandlewis.dev/posts/helloworld/) (2 years ago)
 - [👓 AoT_Windows_MR_Vis](https://ryandlewis.dev/projects/aot_wmr_vis/) (2 years ago)
 
 ### ⭐ Things I've starred lately
 
-- [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (2 days ago)
-- [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (2 days ago)
+- [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (3 days ago)
+- [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (3 days ago)
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium&#39;s like reading time estimation. (1 month ago)
 - [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (1 month ago)
 - [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (1 month ago)
