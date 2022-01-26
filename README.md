@@ -32,9 +32,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (1 day ago)
-- [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (2 weeks ago)
-- [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (2 weeks ago)
+- [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (2 days ago)
+- [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (3 weeks ago)
+- [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (3 weeks ago)
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium&#39;s like reading time estimation. (1 month ago)
 - [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (2 months ago)
 - [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (2 months ago)
