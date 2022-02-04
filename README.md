@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (today)
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (1 week ago)
 - [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (1 month ago)
 - [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3. (2 months ago)
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (2 months ago)
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak. (3 months ago)
-- [facontidavide/Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
