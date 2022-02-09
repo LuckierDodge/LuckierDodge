@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [pspachos/RSSI-Dataset](https://github.com/pspachos/RSSI-Dataset) -  (today)
 - [neurobionics/neurobionicspi](https://github.com/neurobionics/neurobionicspi) - Builds a custom Raspberry Pi image for robotics (5 days ago)
 - [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (5 days ago)
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (2 months ago)
 - [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (2 months ago)
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3. (3 months ago)
-- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
