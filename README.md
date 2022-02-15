@@ -11,7 +11,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (3 months ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (3 months ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (3 months ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (3 months ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (4 months ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (4 months ago)
 - [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (6 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (7 months ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [pspachos/RSSI-Dataset](https://github.com/pspachos/RSSI-Dataset) -  (5 days ago)
+- [pspachos/RSSI-Dataset](https://github.com/pspachos/RSSI-Dataset) -  (6 days ago)
 - [neurobionics/neurobionicspi](https://github.com/neurobionics/neurobionicspi) - Builds a custom Raspberry Pi image for robotics (1 week ago)
 - [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (1 week ago)
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (3 weeks ago)
