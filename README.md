@@ -13,7 +13,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (3 months ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (4 months ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (4 months ago)
-- [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (6 months ago)
+- [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (7 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (8 months ago)
 - [LuckierDodge/DFA_Evaluator](https://github.com/LuckierDodge/DFA_Evaluator) - Evaluating whether or not a Deterministic Finite Automata accepts or rejects different words (10 months ago)
 
@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) - The English version of 14 lectures on visual SLAM. (1 day ago)
 - [pspachos/RSSI-Dataset](https://github.com/pspachos/RSSI-Dataset) -  (1 week ago)
 - [neurobionics/neurobionicspi](https://github.com/neurobionics/neurobionicspi) - Builds a custom Raspberry Pi image for robotics (1 week ago)
 - [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium&#39;s like reading time estimation. (2 months ago)
 - [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (2 months ago)
 - [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (2 months ago)
-- [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
