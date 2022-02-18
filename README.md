@@ -21,7 +21,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (11 months ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (11 months ago)
-- [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (11 months ago)
+- [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (1 year ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (1 year ago)
 - [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (1 year ago)
 - [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (1 year ago)
@@ -32,16 +32,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) - The English version of 14 lectures on visual SLAM. (1 day ago)
+- [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) - The English version of 14 lectures on visual SLAM. (2 days ago)
 - [pspachos/RSSI-Dataset](https://github.com/pspachos/RSSI-Dataset) -  (1 week ago)
-- [neurobionics/neurobionicspi](https://github.com/neurobionics/neurobionicspi) - Builds a custom Raspberry Pi image for robotics (1 week ago)
-- [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (1 week ago)
+- [neurobionics/neurobionicspi](https://github.com/neurobionics/neurobionicspi) - Builds a custom Raspberry Pi image for robotics (2 weeks ago)
+- [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (2 weeks ago)
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (3 weeks ago)
 - [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (1 month ago)
 - [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (1 month ago)
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium&#39;s like reading time estimation. (2 months ago)
 - [ori-drs/allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) - ROS compatible tool to generate Allan Deviation plots  (2 months ago)
-- [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (2 months ago)
+- [sawyerbfuller/python-control](https://github.com/sawyerbfuller/python-control) -  The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
