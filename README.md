@@ -32,11 +32,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) - The English version of 14 lectures on visual SLAM. (4 days ago)
+- [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) - The English version of 14 lectures on visual SLAM. (5 days ago)
 - [pspachos/RSSI-Dataset](https://github.com/pspachos/RSSI-Dataset) -  (1 week ago)
 - [neurobionics/neurobionicspi](https://github.com/neurobionics/neurobionicspi) - Builds a custom Raspberry Pi image for robotics (2 weeks ago)
 - [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (2 weeks ago)
-- [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (3 weeks ago)
+- [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (4 weeks ago)
 - [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (1 month ago)
 - [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (1 month ago)
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium&#39;s like reading time estimation. (2 months ago)
