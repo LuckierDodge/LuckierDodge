@@ -7,7 +7,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### 💻 Stuff I've been working on
 
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (today)
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 day ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (today)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 week ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (3 months ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (4 months ago)
@@ -19,7 +19,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (1 day ago)
+- [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (today)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (11 months ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (1 year ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (1 year ago)
