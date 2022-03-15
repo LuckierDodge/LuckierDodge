@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (4 days ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (5 days ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 week ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (3 months ago)
@@ -25,14 +25,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (1 year ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (1 year ago)
 - [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (1 year ago)
-- [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (1 year ago)
+- [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (2 years ago)
 - [🐋 dockerfiles](https://ryandlewis.dev/projects/dockerfiles/) (2 years ago)
 - [🌐 website](https://ryandlewis.dev/projects/website/) (2 years ago)
 - [A (Belated) Hello World!](https://ryandlewis.dev/posts/helloworld/) (2 years ago)
 
 ### ⭐ Things I've starred lately
 
-- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (today)
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 day ago)
 - [skx/rss2email](https://github.com/skx/rss2email) - Convert RSS feeds to emails (1 week ago)
 - [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) - The English version of 14 lectures on visual SLAM. (3 weeks ago)
 - [pspachos/RSSI-Dataset](https://github.com/pspachos/RSSI-Dataset) -  (1 month ago)
