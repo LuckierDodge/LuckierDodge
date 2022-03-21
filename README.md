@@ -32,6 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [jinjidechuanchuanxiang/catkin_ws_for_RMP](https://github.com/jinjidechuanchuanxiang/catkin_ws_for_RMP) - ROS support package for RMP chassis, through which you can drive the RMP chassis and get the chassis status information. (today)
+- [SMARTlab-Purdue/SMARTmBOT](https://github.com/SMARTlab-Purdue/SMARTmBOT) - The goal of this repository is to introduce a new, customizable, scalable, and fully opensource mobile robot platform, called SMARTmBOT. This repository provides a guide, and all design files and source codes so that you can build your own SMARTmBOT. SMARTmBOT can be useful for studying the basics of robotics, especially mobile robotics. It can also be used to study advanced topics such as swarm robotics. (today)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 week ago)
 - [skx/rss2email](https://github.com/skx/rss2email) - Convert RSS feeds to emails (2 weeks ago)
 - [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) - The English version of 14 lectures on visual SLAM. (1 month ago)
@@ -40,8 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (1 month ago)
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (1 month ago)
 - [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (2 months ago)
-- [TilBlechschmidt/obsidian-plugin-abcjs](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) - Plugin which renders music notations from code blocks (2 months ago)
-- [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium&#39;s like reading time estimation. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
