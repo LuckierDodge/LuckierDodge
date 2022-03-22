@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api  (today)
 - [jinjidechuanchuanxiang/catkin_ws_for_RMP](https://github.com/jinjidechuanchuanxiang/catkin_ws_for_RMP) - ROS support package for RMP chassis, through which you can drive the RMP chassis and get the chassis status information. (1 day ago)
 - [SMARTlab-Purdue/SMARTmBOT](https://github.com/SMARTlab-Purdue/SMARTmBOT) - The goal of this repository is to introduce a new, customizable, scalable, and fully opensource mobile robot platform, called SMARTmBOT. This repository provides a guide, and all design files and source codes so that you can build your own SMARTmBOT. SMARTmBOT can be useful for studying the basics of robotics, especially mobile robotics. It can also be used to study advanced topics such as swarm robotics. (1 day ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [neurobionics/neurobionicspi](https://github.com/neurobionics/neurobionicspi) - Builds a custom Raspberry Pi image for robotics (1 month ago)
 - [nununo/ansible-role-proxmox-haos-install](https://github.com/nununo/ansible-role-proxmox-haos-install) - Ansible role to install Home Assistant OS as a Proxmox VM (1 month ago)
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient (1 month ago)
-- [curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin) - Add interactive metronomes to your Obsidian notes (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
