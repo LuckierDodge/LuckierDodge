@@ -15,7 +15,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (6 months ago)
 - [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (8 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (9 months ago)
-- [LuckierDodge/iOS-Final-Project](https://github.com/LuckierDodge/iOS-Final-Project) - Final Project for Advanced iOS, a kanban-style Taskboard using a tabbed view controller. (1 year ago)
 
 ### ✍ My recent writing and projects
 
