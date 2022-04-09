@@ -7,7 +7,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### 💻 Stuff I've been working on
 
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (4 weeks ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 month ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (4 months ago)
@@ -31,7 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [ksassnowski/utgars-chronicles.app](https://github.com/ksassnowski/utgars-chronicles.app) - Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online. (6 days ago)
+- [ksassnowski/utgars-chronicles.app](https://github.com/ksassnowski/utgars-chronicles.app) - Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online. (1 week ago)
 - [honghaow/FORK](https://github.com/honghaow/FORK) -  (1 week ago)
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list (2 weeks ago)
 - [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api  (2 weeks ago)
