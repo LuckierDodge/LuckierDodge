@@ -31,16 +31,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (2 days ago)
-- [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment (2 days ago)
+- [Schiff-Lab/Generalized-Unscented-Transform](https://github.com/Schiff-Lab/Generalized-Unscented-Transform) - Generalized unscented transform for probability distributions (1 day ago)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (3 days ago)
+- [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment (3 days ago)
 - [ksassnowski/utgars-chronicles.app](https://github.com/ksassnowski/utgars-chronicles.app) - Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online. (1 week ago)
 - [honghaow/FORK](https://github.com/honghaow/FORK) -  (2 weeks ago)
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list (2 weeks ago)
-- [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api  (2 weeks ago)
+- [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api  (3 weeks ago)
 - [jinjidechuanchuanxiang/catkin_ws_for_RMP](https://github.com/jinjidechuanchuanxiang/catkin_ws_for_RMP) - ROS support package for RMP chassis, through which you can drive the RMP chassis and get the chassis status information. (3 weeks ago)
 - [SMARTlab-Purdue/SMARTmBOT](https://github.com/SMARTlab-Purdue/SMARTmBOT) - The goal of this repository is to introduce a new, customizable, scalable, and fully opensource mobile robot platform, called SMARTmBOT. This repository provides a guide, and all design files and source codes so that you can build your own SMARTmBOT. SMARTmBOT can be useful for studying the basics of robotics, especially mobile robotics. It can also be used to study advanced topics such as swarm robotics. (3 weeks ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (4 weeks ago)
-- [skx/rss2email](https://github.com/skx/rss2email) - Convert RSS feeds to emails (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
