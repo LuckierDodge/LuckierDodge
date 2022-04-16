@@ -31,11 +31,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (today)
-- [Schiff-Lab/Generalized-Unscented-Transform](https://github.com/Schiff-Lab/Generalized-Unscented-Transform) - Generalized unscented transform for probability distributions (4 days ago)
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (6 days ago)
-- [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment (6 days ago)
-- [ksassnowski/utgars-chronicles.app](https://github.com/ksassnowski/utgars-chronicles.app) - Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online. (1 week ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (1 day ago)
+- [Schiff-Lab/Generalized-Unscented-Transform](https://github.com/Schiff-Lab/Generalized-Unscented-Transform) - Generalized unscented transform for probability distributions (5 days ago)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (1 week ago)
+- [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment (1 week ago)
+- [ksassnowski/utgars-chronicles.app](https://github.com/ksassnowski/utgars-chronicles.app) - Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online. (2 weeks ago)
 - [honghaow/FORK](https://github.com/honghaow/FORK) -  (2 weeks ago)
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list (3 weeks ago)
 - [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api  (3 weeks ago)
