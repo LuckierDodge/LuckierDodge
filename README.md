@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (today)
 - [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (1 day ago)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (1 week ago)
 - [Schiff-Lab/Generalized-Unscented-Transform](https://github.com/Schiff-Lab/Generalized-Unscented-Transform) - Generalized unscented transform for probability distributions (2 weeks ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [honghaow/FORK](https://github.com/honghaow/FORK) -  (1 month ago)
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list (1 month ago)
 - [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api  (1 month ago)
-- [jinjidechuanchuanxiang/catkin_ws_for_RMP](https://github.com/jinjidechuanchuanxiang/catkin_ws_for_RMP) - ROS support package for RMP chassis, through which you can drive the RMP chassis and get the chassis status information. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
