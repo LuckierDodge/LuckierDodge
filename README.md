@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (3 days ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (4 days ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
@@ -31,14 +31,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (2 days ago)
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (2 days ago)
-- [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (3 days ago)
+- [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (3 days ago)
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (3 days ago)
+- [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (4 days ago)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (2 weeks ago)
 - [Schiff-Lab/Generalized-Unscented-Transform](https://github.com/Schiff-Lab/Generalized-Unscented-Transform) - Generalized unscented transform for probability distributions (2 weeks ago)
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (2 weeks ago)
-- [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment (2 weeks ago)
-- [ksassnowski/utgars-chronicles.app](https://github.com/ksassnowski/utgars-chronicles.app) - Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online. (3 weeks ago)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (3 weeks ago)
+- [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment (3 weeks ago)
+- [ksassnowski/utgars-chronicles.app](https://github.com/ksassnowski/utgars-chronicles.app) - Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online. (4 weeks ago)
 - [honghaow/FORK](https://github.com/honghaow/FORK) -  (1 month ago)
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list (1 month ago)
 
