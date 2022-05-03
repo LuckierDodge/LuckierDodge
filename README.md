@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (6 days ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 week ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (5 months ago)
@@ -31,9 +31,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (5 days ago)
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (5 days ago)
-- [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (6 days ago)
+- [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (6 days ago)
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (6 days ago)
+- [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (1 week ago)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (2 weeks ago)
 - [Schiff-Lab/Generalized-Unscented-Transform](https://github.com/Schiff-Lab/Generalized-Unscented-Transform) - Generalized unscented transform for probability distributions (3 weeks ago)
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (3 weeks ago)
