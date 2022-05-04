@@ -12,7 +12,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (5 months ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (6 months ago)
-- [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (6 months ago)
+- [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (7 months ago)
 - [AD-SDL/ot2_workcell](https://github.com/AD-SDL/ot2_workcell) - A collection of ROS2 packages which work in tandem to operate the Opentrons OT2-based liquid handling operations of Argonne National Laboratory&#39;s Rapid Prototyping Lab (ANL RPL). (9 months ago)
 - [LuckierDodge/liquidhandling](https://github.com/LuckierDodge/liquidhandling) - Mirror of https://xgitlab.cels.anl.gov/rarvind/liquidhandling (10 months ago)
 
@@ -31,8 +31,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (6 days ago)
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (6 days ago)
+- [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (1 week ago)
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (1 week ago)
 - [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (1 week ago)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (2 weeks ago)
 - [Schiff-Lab/Generalized-Unscented-Transform](https://github.com/Schiff-Lab/Generalized-Unscented-Transform) - Generalized unscented transform for probability distributions (3 weeks ago)
