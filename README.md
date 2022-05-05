@@ -31,7 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (today)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 day ago)
 - [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (1 week ago)
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (1 week ago)
 - [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (1 week ago)
