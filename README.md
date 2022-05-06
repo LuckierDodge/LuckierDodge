@@ -6,10 +6,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 day ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (2 days ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 months ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (2 months ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (5 months ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (6 months ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (7 months ago)
@@ -18,12 +18,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (1 month ago)
+- [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (2 months ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (1 year ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (1 year ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (1 year ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (1 year ago)
-- [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (1 year ago)
+- [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (2 years ago)
 - [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (2 years ago)
 - [🐋 dockerfiles](https://ryandlewis.dev/projects/dockerfiles/) (2 years ago)
 - [🌐 website](https://ryandlewis.dev/projects/website/) (2 years ago)
@@ -31,11 +31,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 day ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 days ago)
 - [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (1 week ago)
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (1 week ago)
 - [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (1 week ago)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (2 weeks ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (3 weeks ago)
 - [Schiff-Lab/Generalized-Unscented-Transform](https://github.com/Schiff-Lab/Generalized-Unscented-Transform) - Generalized unscented transform for probability distributions (3 weeks ago)
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (3 weeks ago)
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment (3 weeks ago)
