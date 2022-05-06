@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course (today)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 days ago)
 - [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (1 week ago)
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (1 week ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]  (3 weeks ago)
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment (3 weeks ago)
 - [ksassnowski/utgars-chronicles.app](https://github.com/ksassnowski/utgars-chronicles.app) - Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online. (1 month ago)
-- [honghaow/FORK](https://github.com/honghaow/FORK) -  (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
