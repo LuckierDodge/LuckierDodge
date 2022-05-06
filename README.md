@@ -6,10 +6,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 day ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (2 days ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 months ago)
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (2 months ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (5 months ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (6 months ago)
 - [AD-SDL/hudson-liquidhandling](https://github.com/AD-SDL/hudson-liquidhandling) -  (7 months ago)
@@ -18,6 +18,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
+- [Introducing &#34;DM&#39;s Log: Supplemental&#34;](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (1 day ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (2 months ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (1 year ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (1 year ago)
@@ -27,7 +28,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [📚 LuckierDodge](https://ryandlewis.dev/projects/README/) (2 years ago)
 - [🐋 dockerfiles](https://ryandlewis.dev/projects/dockerfiles/) (2 years ago)
 - [🌐 website](https://ryandlewis.dev/projects/website/) (2 years ago)
-- [A (Belated) Hello World!](https://ryandlewis.dev/posts/helloworld/) (2 years ago)
 
 ### ⭐ Things I've starred lately
 
