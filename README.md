@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (2 days ago)
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (3 days ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (3 days ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (4 days ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 months ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (5 months ago)
@@ -18,7 +18,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [Introducing &#34;DM&#39;s Log: Supplemental&#34;](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (2 days ago)
+- [Introducing &#34;DM&#39;s Log: Supplemental&#34;](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (3 days ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (2 months ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (1 year ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (1 year ago)
@@ -31,8 +31,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course (1 day ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (3 days ago)
+- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course (2 days ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (4 days ago)
 - [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (1 week ago)
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (1 week ago)
 - [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (1 week ago)
