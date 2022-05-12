@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (6 days ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 week ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 week ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (3 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 months ago)
@@ -18,7 +18,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [Introducing &#34;DM&#39;s Log: Supplemental&#34;](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (6 days ago)
+- [Introducing &#34;DM&#39;s Log: Supplemental&#34;](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (1 week ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (2 months ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (1 year ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (1 year ago)
@@ -31,9 +31,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you&#39;ve ever seen (3 days ago)
-- [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily (3 days ago)
-- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course (5 days ago)
+- [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you&#39;ve ever seen (4 days ago)
+- [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily (4 days ago)
+- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course (6 days ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 week ago)
 - [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (2 weeks ago)
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (2 weeks ago)
