@@ -31,6 +31,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [KittyGiraudel/eleventy-plugin-footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes) - An 11ty plugin to render accessible footnotes with Liquid (today)
+- [ootz0rz/DNDBeyond-DM-Screen](https://github.com/ootz0rz/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen. (today)
 - [TeaWithLucas/DNDBeyond-DM-Screen](https://github.com/TeaWithLucas/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen. (today)
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (today)
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products (today)
@@ -39,8 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 weeks ago)
 - [JupiterBroadcasting/nixos-challenge](https://github.com/JupiterBroadcasting/nixos-challenge) - NixOS Challenge (3 weeks ago)
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows (3 weeks ago)
-- [ntnu-arl/gbplanner_ros](https://github.com/ntnu-arl/gbplanner_ros) - Graph-based Exploration Planner for Subterranean Environments (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
