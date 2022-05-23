@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (today)
 - [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python (today)
 - [linorobot/linorobot2](https://github.com/linorobot/linorobot2) - Autonomous mobile robots (2WD, 4WD, Mecanum Drive) (3 days ago)
 - [linorobot/linorobot](https://github.com/linorobot/linorobot) - Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive) (3 days ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (5 days ago)
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products (5 days ago)
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you&#39;ve ever seen (2 weeks ago)
-- [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily (2 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
