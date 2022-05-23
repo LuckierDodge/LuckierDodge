@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python (today)
 - [linorobot/linorobot2](https://github.com/linorobot/linorobot2) - Autonomous mobile robots (2WD, 4WD, Mecanum Drive) (3 days ago)
 - [linorobot/linorobot](https://github.com/linorobot/linorobot) - Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive) (3 days ago)
 - [KittyGiraudel/eleventy-plugin-footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes) - An 11ty plugin to render accessible footnotes with Liquid (5 days ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products (5 days ago)
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you&#39;ve ever seen (2 weeks ago)
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily (2 weeks ago)
-- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course (2 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
