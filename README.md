@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (6 days ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (3 weeks ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 month ago)
@@ -19,7 +19,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### ✍ My recent writing and projects
 
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (1 week ago)
-- [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (2 weeks ago)
+- [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (3 weeks ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (2 months ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (1 year ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (1 year ago)
@@ -31,13 +31,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note. (today)
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (today)
-- [foxweb/vim-pedal](https://github.com/foxweb/vim-pedal) - Vim pedal is a USB HID device for more comfortable text editing for Vim users. (1 day ago)
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (2 days ago)
-- [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python (2 days ago)
-- [linorobot/linorobot2](https://github.com/linorobot/linorobot2) - Autonomous mobile robots (2WD, 4WD, Mecanum Drive) (5 days ago)
-- [linorobot/linorobot](https://github.com/linorobot/linorobot) - Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive) (5 days ago)
+- [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note. (1 day ago)
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 day ago)
+- [foxweb/vim-pedal](https://github.com/foxweb/vim-pedal) - Vim pedal is a USB HID device for more comfortable text editing for Vim users. (2 days ago)
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (3 days ago)
+- [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python (3 days ago)
+- [linorobot/linorobot2](https://github.com/linorobot/linorobot2) - Autonomous mobile robots (2WD, 4WD, Mecanum Drive) (6 days ago)
+- [linorobot/linorobot](https://github.com/linorobot/linorobot) - Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive) (6 days ago)
 - [KittyGiraudel/eleventy-plugin-footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes) - An 11ty plugin to render accessible footnotes with Liquid (1 week ago)
 - [ootz0rz/DNDBeyond-DM-Screen](https://github.com/ootz0rz/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen. (1 week ago)
 - [TeaWithLucas/DNDBeyond-DM-Screen](https://github.com/TeaWithLucas/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen. (1 week ago)
