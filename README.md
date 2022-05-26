@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [disko/dictalchemy3](https://github.com/disko/dictalchemy3) - Adds asdict() and fromdict() to SQLAlchemy declarative models (today)
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - This repository is a set of open-source packages for building performant and reliable multiplayer experiences. (today)
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note. (1 day ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 day ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [linorobot/linorobot2](https://github.com/linorobot/linorobot2) - Autonomous mobile robots (2WD, 4WD, Mecanum Drive) (6 days ago)
 - [linorobot/linorobot](https://github.com/linorobot/linorobot) - Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive) (6 days ago)
 - [KittyGiraudel/eleventy-plugin-footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes) - An 11ty plugin to render accessible footnotes with Liquid (1 week ago)
-- [ootz0rz/DNDBeyond-DM-Screen](https://github.com/ootz0rz/DNDBeyond-DM-Screen) - The script aims to provide a simple DM screen by displaying handy stats and info on the campaign screen. (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
