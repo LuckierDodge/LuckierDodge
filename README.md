@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - 📊 Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] (today)
 - [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving (today)
 - [disko/dictalchemy3](https://github.com/disko/dictalchemy3) - Adds asdict() and fromdict() to SQLAlchemy declarative models (5 days ago)
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - This repository is a set of open-source packages for building performant and reliable multiplayer experiences. (5 days ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (1 week ago)
 - [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python (1 week ago)
 - [linorobot/linorobot2](https://github.com/linorobot/linorobot2) - Autonomous mobile robots (2WD, 4WD, Mecanum Drive) (1 week ago)
-- [linorobot/linorobot](https://github.com/linorobot/linorobot) - Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive) (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
