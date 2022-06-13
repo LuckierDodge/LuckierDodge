@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (today)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (3 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (4 weeks ago)
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 month ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 month ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (6 months ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (7 months ago)
@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (today)
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (today)
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (1 week ago)
 - [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - 📊 Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] (1 week ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note. (2 weeks ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (2 weeks ago)
 - [foxweb/vim-pedal](https://github.com/foxweb/vim-pedal) - Vim pedal is a USB HID device for more comfortable text editing for Vim users. (2 weeks ago)
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
