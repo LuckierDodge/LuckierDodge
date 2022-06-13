@@ -39,8 +39,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note. (2 weeks ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (2 weeks ago)
 - [foxweb/vim-pedal](https://github.com/foxweb/vim-pedal) - Vim pedal is a USB HID device for more comfortable text editing for Vim users. (2 weeks ago)
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (2 weeks ago)
-- [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python (2 weeks ago)
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (3 weeks ago)
+- [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
