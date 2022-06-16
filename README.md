@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (today)
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (3 days ago)
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (3 days ago)
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (2 weeks ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - This repository is a set of open-source packages for building performant and reliable multiplayer experiences. (3 weeks ago)
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note. (3 weeks ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (3 weeks ago)
-- [foxweb/vim-pedal](https://github.com/foxweb/vim-pedal) - Vim pedal is a USB HID device for more comfortable text editing for Vim users. (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
