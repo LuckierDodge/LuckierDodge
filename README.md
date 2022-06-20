@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (6 days ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 week ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 months ago)
@@ -31,9 +31,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (3 days ago)
-- [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (6 days ago)
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (6 days ago)
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (4 days ago)
+- [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 week ago)
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (1 week ago)
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (2 weeks ago)
 - [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - 📊 Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] (2 weeks ago)
 - [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving (2 weeks ago)
