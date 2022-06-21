@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (today)
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (5 days ago)
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 week ago)
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (1 week ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [disko/dictalchemy3](https://github.com/disko/dictalchemy3) - Adds asdict() and fromdict() to SQLAlchemy declarative models (3 weeks ago)
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - This repository is a set of open-source packages for building performant and reliable multiplayer experiences. (3 weeks ago)
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note. (3 weeks ago)
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
