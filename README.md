@@ -31,8 +31,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [KumarRobotics/ublox](https://github.com/KumarRobotics/ublox) - A driver for ublox gps (3 days ago)
-- [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (4 days ago)
+- [KumarRobotics/ublox](https://github.com/KumarRobotics/ublox) - A driver for ublox gps (4 days ago)
+- [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (5 days ago)
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (1 week ago)
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 week ago)
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (1 week ago)
