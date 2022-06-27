@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (today)
-- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 week ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 day ago)
+- [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 months ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (7 months ago)
@@ -18,7 +18,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (1 day ago)
+- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (2 days ago)
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (1 month ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (1 month ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (3 months ago)
@@ -31,11 +31,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [KumarRobotics/ublox](https://github.com/KumarRobotics/ublox) - A driver for ublox gps (4 days ago)
-- [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (5 days ago)
+- [KumarRobotics/ublox](https://github.com/KumarRobotics/ublox) - A driver for ublox gps (5 days ago)
+- [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (6 days ago)
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (1 week ago)
-- [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 week ago)
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (1 week ago)
+- [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (2 weeks ago)
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (2 weeks ago)
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (3 weeks ago)
 - [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - 📊 Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] (3 weeks ago)
 - [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving (3 weeks ago)
