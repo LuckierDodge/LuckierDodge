@@ -30,6 +30,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [osrf/rocker](https://github.com/osrf/rocker) - A tool to run docker containers with overlays and convenient options for things like GUIs etc. (today)
 - [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection (1 day ago)
 - [KumarRobotics/ublox](https://github.com/KumarRobotics/ublox) - A driver for ublox gps (1 week ago)
 - [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (1 week ago)
@@ -39,7 +40,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (4 weeks ago)
 - [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - 📊 Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] (4 weeks ago)
 - [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving (4 weeks ago)
-- [disko/dictalchemy3](https://github.com/disko/dictalchemy3) - Adds asdict() and fromdict() to SQLAlchemy declarative models (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
