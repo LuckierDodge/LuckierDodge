@@ -17,7 +17,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (2 weeks ago)
+- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (3 weeks ago)
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (1 month ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (2 months ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (4 months ago)
@@ -35,7 +35,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection (2 weeks ago)
 - [KumarRobotics/ublox](https://github.com/KumarRobotics/ublox) - A driver for ublox gps (3 weeks ago)
 - [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (3 weeks ago)
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (4 weeks ago)
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (1 month ago)
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 month ago)
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (1 month ago)
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (1 month ago)
