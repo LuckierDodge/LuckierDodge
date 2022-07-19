@@ -30,6 +30,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [segwayrmp/segway_rmp](https://github.com/segwayrmp/segway_rmp) - ROS package for interfacing with Segway&#39;s RMP{50,100,200,400} series robotic platforms. (today)
 - [sea-bass/pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping (1 week ago)
 - [osrf/rocker](https://github.com/osrf/rocker) - A tool to run docker containers with overlays and convenient options for things like GUIs etc. (2 weeks ago)
 - [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection (3 weeks ago)
@@ -39,7 +40,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 month ago)
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (1 month ago)
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (1 month ago)
-- [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - 📊 Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
