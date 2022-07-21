@@ -30,6 +30,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (today)
 - [jinjidechuanchuanxiang/ROS2_ws_for_RMP220](https://github.com/jinjidechuanchuanxiang/ROS2_ws_for_RMP220) - ROS2.0 support package for Segway RMP chassis, through which you can drive the RMP220 chassis and get the chassis status information. (2 days ago)
 - [segwayrmp/segway_rmp](https://github.com/segwayrmp/segway_rmp) - ROS package for interfacing with Segway&#39;s RMP{50,100,200,400} series robotic platforms. (2 days ago)
 - [sea-bass/pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping (2 weeks ago)
@@ -39,7 +40,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (1 month ago)
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (1 month ago)
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 month ago)
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
