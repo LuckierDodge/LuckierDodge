@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 day ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 days ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (4 weeks ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 month ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (8 months ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (8 months ago)
@@ -30,6 +30,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [ihuicatl/jupyterlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - A URDF viewer and editor extension for JupyterLab. (today)
 - [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (3 days ago)
 - [jinjidechuanchuanxiang/ROS2_ws_for_RMP220](https://github.com/jinjidechuanchuanxiang/ROS2_ws_for_RMP220) - ROS2.0 support package for Segway RMP chassis, through which you can drive the RMP220 chassis and get the chassis status information. (5 days ago)
 - [segwayrmp/segway_rmp](https://github.com/segwayrmp/segway_rmp) - ROS package for interfacing with Segway&#39;s RMP{50,100,200,400} series robotic platforms. (5 days ago)
@@ -39,7 +40,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [KumarRobotics/ublox](https://github.com/KumarRobotics/ublox) - A driver for ublox gps (1 month ago)
 - [LORD-MicroStrain/ntrip_client](https://github.com/LORD-MicroStrain/ntrip_client) - ROS NTRIP client (1 month ago)
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework (1 month ago)
-- [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
