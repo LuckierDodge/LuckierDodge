@@ -8,7 +8,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (1 month ago)
 - [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (8 months ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (9 months ago)
@@ -29,8 +29,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (1 day ago)
-- [ihuicatl/jupyterlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - A URDF viewer and editor extension for JupyterLab. (6 days ago)
+- [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (2 days ago)
+- [ihuicatl/jupyterlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - A URDF viewer and editor extension for JupyterLab. (1 week ago)
 - [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (1 week ago)
 - [jinjidechuanchuanxiang/ROS2_ws_for_RMP220](https://github.com/jinjidechuanchuanxiang/ROS2_ws_for_RMP220) - ROS2.0 support package for Segway RMP chassis, through which you can drive the RMP220 chassis and get the chassis status information. (1 week ago)
 - [segwayrmp/segway_rmp](https://github.com/segwayrmp/segway_rmp) - ROS package for interfacing with Segway&#39;s RMP{50,100,200,400} series robotic platforms. (1 week ago)
