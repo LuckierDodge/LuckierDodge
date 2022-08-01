@@ -29,7 +29,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (2 days ago)
+- [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (3 days ago)
 - [ihuicatl/jupyterlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - A URDF viewer and editor extension for JupyterLab. (1 week ago)
 - [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (1 week ago)
 - [jinjidechuanchuanxiang/ROS2_ws_for_RMP220](https://github.com/jinjidechuanchuanxiang/ROS2_ws_for_RMP220) - ROS2.0 support package for Segway RMP chassis, through which you can drive the RMP220 chassis and get the chassis status information. (1 week ago)
