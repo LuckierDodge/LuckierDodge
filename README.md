@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (today)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (1 day ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 weeks ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (3 weeks ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (4 days ago)
+- [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (5 days ago)
 - [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (3 weeks ago)
 - [ihuicatl/jupyterlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - A URDF viewer and editor extension for JupyterLab. (1 month ago)
 - [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (1 month ago)
