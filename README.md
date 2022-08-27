@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (2 days ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (3 days ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 weeks ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 weeks ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (3 weeks ago)
 - [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (3 weeks ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [srmainwaring/ros_ign_rover](https://github.com/srmainwaring/ros_ign_rover) - An example demonstrating how to use the ROS2 - Ignition bridge for a skid-steer rover controlled by ArduPilot (1 day ago)
-- [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (6 days ago)
+- [srmainwaring/ros_ign_rover](https://github.com/srmainwaring/ros_ign_rover) - An example demonstrating how to use the ROS2 - Ignition bridge for a skid-steer rover controlled by ArduPilot (2 days ago)
+- [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (1 week ago)
 - [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (4 weeks ago)
 - [ihuicatl/jupyterlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - A URDF viewer and editor extension for JupyterLab. (1 month ago)
 - [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (1 month ago)
@@ -41,7 +41,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [segwayrmp/segway_rmp](https://github.com/segwayrmp/segway_rmp) - ROS package for interfacing with Segway&#39;s RMP{50,100,200,400} series robotic platforms. (1 month ago)
 - [sea-bass/pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping (1 month ago)
 - [osrf/rocker](https://github.com/osrf/rocker) - A tool to run docker containers with overlays and convenient options for things like GUIs etc. (1 month ago)
-- [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection (1 month ago)
+- [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
