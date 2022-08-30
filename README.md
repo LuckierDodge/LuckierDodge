@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (today)
 - [srmainwaring/ros_gz_rover](https://github.com/srmainwaring/ros_gz_rover) - An example demonstrating how to use the ROS2 - Ignition bridge for a skid-steer rover controlled by ArduPilot (5 days ago)
 - [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (1 week ago)
 - [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [segwayrmp/segway_rmp](https://github.com/segwayrmp/segway_rmp) - ROS package for interfacing with Segway&#39;s RMP{50,100,200,400} series robotic platforms. (1 month ago)
 - [sea-bass/pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping (1 month ago)
 - [osrf/rocker](https://github.com/osrf/rocker) - A tool to run docker containers with overlays and convenient options for things like GUIs etc. (2 months ago)
-- [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
