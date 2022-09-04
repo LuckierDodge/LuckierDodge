@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [NVIDIA-ISAAC-ROS/isaac_ros_nvblox](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox) - Hardware-accelerated 3D scene reconstruction and Nav2 local costmap provider using nvblox (today)
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard (1 day ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (5 days ago)
 - [srmainwaring/ros_gz_rover](https://github.com/srmainwaring/ros_gz_rover) - An example demonstrating how to use the ROS2 - Ignition bridge for a skid-steer rover controlled by ArduPilot (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (1 month ago)
 - [jinjidechuanchuanxiang/ROS2_ws_for_RMP220](https://github.com/jinjidechuanchuanxiang/ROS2_ws_for_RMP220) - ROS2.0 support package for Segway RMP chassis, through which you can drive the RMP220 chassis and get the chassis status information. (1 month ago)
 - [segwayrmp/segway_rmp](https://github.com/segwayrmp/segway_rmp) - ROS package for interfacing with Segway&#39;s RMP{50,100,200,400} series robotic platforms. (1 month ago)
-- [sea-bass/pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
