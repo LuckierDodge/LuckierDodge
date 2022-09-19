@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (2 days ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 days ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (3 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (3 days ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (1 month ago)
@@ -32,16 +32,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [swri-robotics/swri_console](https://github.com/swri-robotics/swri_console) - Replacement for rqt_console (5 days ago)
-- [hatchbed/log_view](https://github.com/hatchbed/log_view) - log_view provides a ncurses based terminal GUI for viewing and filtering published ROS log messages. (5 days ago)
+- [swri-robotics/swri_console](https://github.com/swri-robotics/swri_console) - Replacement for rqt_console (6 days ago)
+- [hatchbed/log_view](https://github.com/hatchbed/log_view) - log_view provides a ncurses based terminal GUI for viewing and filtering published ROS log messages. (6 days ago)
 - [NVIDIA-ISAAC-ROS/isaac_ros_nvblox](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox) - Hardware-accelerated 3D scene reconstruction and Nav2 local costmap provider using nvblox (2 weeks ago)
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard (2 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (2 weeks ago)
 - [srmainwaring/ros_gz_rover](https://github.com/srmainwaring/ros_gz_rover) - An example demonstrating how to use the ROS2 - Ignition bridge for a skid-steer rover controlled by ArduPilot (3 weeks ago)
-- [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (4 weeks ago)
+- [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (1 month ago)
 - [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (1 month ago)
 - [ihuicatl/jupyterlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - A URDF viewer and editor extension for JupyterLab. (1 month ago)
-- [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (1 month ago)
+- [lakoliu/Furtherance](https://github.com/lakoliu/Furtherance) - Track your time without being tracked (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
