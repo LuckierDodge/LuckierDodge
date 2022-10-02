@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [linuxserver/budge](https://github.com/linuxserver/budge) -  (today)
 - [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards (1 week ago)
 - [UMich-CURLY/husky_inekf](https://github.com/UMich-CURLY/husky_inekf) -  (1 week ago)
 - [swri-robotics/swri_console](https://github.com/swri-robotics/swri_console) - Replacement for rqt_console (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 month ago)
 - [srmainwaring/ros_gz_rover](https://github.com/srmainwaring/ros_gz_rover) - An example demonstrating how to use the ROS2 - Ignition bridge for a skid-steer rover controlled by ArduPilot (1 month ago)
 - [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (1 month ago)
-- [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
