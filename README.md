@@ -6,10 +6,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (1 day ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 day ago)
-- [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (5 days ago)
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (4 weeks ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (2 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 days ago)
+- [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (6 days ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (2 months ago)
 - [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (2 months ago)
@@ -19,7 +19,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ✍ My recent writing and projects
 
-- [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (4 weeks ago)
+- [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (1 month ago)
 - [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (3 months ago)
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (4 months ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (5 months ago)
@@ -32,13 +32,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [linuxserver/budge](https://github.com/linuxserver/budge) -  (today)
+- [linuxserver/budge](https://github.com/linuxserver/budge) -  (1 day ago)
 - [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards (1 week ago)
 - [UMich-CURLY/husky_inekf](https://github.com/UMich-CURLY/husky_inekf) -  (1 week ago)
 - [swri-robotics/swri_console](https://github.com/swri-robotics/swri_console) - Replacement for rqt_console (2 weeks ago)
 - [hatchbed/log_view](https://github.com/hatchbed/log_view) - log_view provides a ncurses based terminal GUI for viewing and filtering published ROS log messages. (2 weeks ago)
 - [NVIDIA-ISAAC-ROS/isaac_ros_nvblox](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox) - Hardware-accelerated 3D scene reconstruction and Nav2 local costmap provider using nvblox (4 weeks ago)
-- [whatwg/html](https://github.com/whatwg/html) - HTML Standard (4 weeks ago)
+- [whatwg/html](https://github.com/whatwg/html) - HTML Standard (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 month ago)
 - [srmainwaring/ros_gz_rover](https://github.com/srmainwaring/ros_gz_rover) - An example demonstrating how to use the ROS2 - Ignition bridge for a skid-steer rover controlled by ArduPilot (1 month ago)
 - [stateful/rdme](https://github.com/stateful/rdme) - Execute commands directly from a README. (1 month ago)
