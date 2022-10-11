@@ -45,6 +45,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 🤓 Some fellow nerds who follow me!
 
+- [Johnvono](https://github.com/Johnvono)
 - [All7n](https://github.com/All7n)
 - [muesli](https://github.com/muesli)
 - [Heph0](https://github.com/Heph0)
@@ -54,6 +55,5 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [fivemoreminutes](https://github.com/fivemoreminutes)
 - [tli228](https://github.com/tli228)
 - [reneeverly](https://github.com/reneeverly)
-- [waffleston](https://github.com/waffleston)
 
 I used the awesome [readme-scribe](https://github.com/muesli/readme-scribe) to create this README, and you can too!
