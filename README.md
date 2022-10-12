@@ -14,7 +14,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (2 months ago)
 - [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (2 months ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (4 months ago)
-- [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (10 months ago)
+- [mcity/Mcity-vue-shared](https://github.com/mcity/Mcity-vue-shared) - Common vue files/themed components used across projects (11 months ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (11 months ago)
 
 ### ✍ My recent writing and projects
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (2 days ago)
-- [helloparthshah/StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game. (6 days ago)
+- [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (3 days ago)
+- [helloparthshah/StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game. (1 week ago)
 - [linuxserver/budge](https://github.com/linuxserver/budge) -  (1 week ago)
 - [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards (3 weeks ago)
 - [UMich-CURLY/husky_inekf](https://github.com/UMich-CURLY/husky_inekf) -  (3 weeks ago)
