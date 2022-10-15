@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (2 days ago)
-- [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (2 days ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (3 days ago)
+- [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (3 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 month ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 months ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (2 months ago)
@@ -21,7 +21,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (1 month ago)
 - [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (3 months ago)
-- [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (4 months ago)
+- [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (5 months ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (5 months ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (7 months ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (2 years ago)
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (today)
-- [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (5 days ago)
+- [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (1 day ago)
+- [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (6 days ago)
 - [helloparthshah/StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game. (1 week ago)
 - [linuxserver/budge](https://github.com/linuxserver/budge) -  (1 week ago)
 - [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards (3 weeks ago)
