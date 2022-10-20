@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (today)
 - [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (6 days ago)
 - [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (1 week ago)
 - [helloparthshah/StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game. (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [swri-robotics/swri_console](https://github.com/swri-robotics/swri_console) - Replacement for rqt_console (1 month ago)
 - [hatchbed/log_view](https://github.com/hatchbed/log_view) - log_view provides a ncurses based terminal GUI for viewing and filtering published ROS log messages. (1 month ago)
 - [NVIDIA-ISAAC-ROS/isaac_ros_nvblox](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox) - Hardware-accelerated 3D scene reconstruction and Nav2 local costmap provider using nvblox (1 month ago)
-- [whatwg/html](https://github.com/whatwg/html) - HTML Standard (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
