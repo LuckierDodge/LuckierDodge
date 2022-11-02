@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki (today)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (2 weeks ago)
 - [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [UMich-CURLY/husky_inekf](https://github.com/UMich-CURLY/husky_inekf) -  (1 month ago)
 - [swri-robotics/swri_console](https://github.com/swri-robotics/swri_console) - Replacement for rqt_console (1 month ago)
 - [hatchbed/log_view](https://github.com/hatchbed/log_view) - log_view provides a ncurses based terminal GUI for viewing and filtering published ROS log messages. (1 month ago)
-- [NVIDIA-ISAAC-ROS/isaac_ros_nvblox](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox) - Hardware-accelerated 3D scene reconstruction and Nav2 local costmap provider using nvblox (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
