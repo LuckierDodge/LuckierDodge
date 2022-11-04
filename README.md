@@ -32,11 +32,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki (1 day ago)
+- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki (2 days ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 weeks ago)
-- [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (2 weeks ago)
+- [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (3 weeks ago)
 - [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (3 weeks ago)
-- [helloparthshah/StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game. (4 weeks ago)
+- [helloparthshah/StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game. (1 month ago)
 - [linuxserver/budge](https://github.com/linuxserver/budge) -  (1 month ago)
 - [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards (1 month ago)
 - [UMich-CURLY/husky_inekf](https://github.com/UMich-CURLY/husky_inekf) -  (1 month ago)
