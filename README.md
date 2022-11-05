@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (today)
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki (3 days ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 weeks ago)
 - [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards (1 month ago)
 - [UMich-CURLY/husky_inekf](https://github.com/UMich-CURLY/husky_inekf) -  (1 month ago)
 - [swri-robotics/swri_console](https://github.com/swri-robotics/swri_console) - Replacement for rqt_console (1 month ago)
-- [hatchbed/log_view](https://github.com/hatchbed/log_view) - log_view provides a ncurses based terminal GUI for viewing and filtering published ROS log messages. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
