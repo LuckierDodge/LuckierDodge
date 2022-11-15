@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (4 days ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (5 days ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 weeks ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 month ago)
@@ -31,7 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm (2 days ago)
+- [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm (3 days ago)
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (1 week ago)
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki (1 week ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 weeks ago)
