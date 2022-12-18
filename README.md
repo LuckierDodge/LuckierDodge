@@ -31,6 +31,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Neumi/ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino. (today)
+- [cbedio/OpenScout](https://github.com/cbedio/OpenScout) -  (today)
 - [le-nn/vscode-vector-aquarium](https://github.com/le-nn/vscode-vector-aquarium) - An joke extension for vscode. Make your vscode an aquarium and heal you ! (4 weeks ago)
 - [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm (1 month ago)
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (1 month ago)
@@ -39,8 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (2 months ago)
 - [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (2 months ago)
 - [helloparthshah/StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game. (2 months ago)
-- [linuxserver/budge](https://github.com/linuxserver/budge) -  (2 months ago)
-- [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
