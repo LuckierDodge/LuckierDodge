@@ -31,6 +31,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars! (today)
+- [magnificus/Procedural-Cities](https://github.com/magnificus/Procedural-Cities) - master thesis (today)
 - [Neumi/ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino. (4 days ago)
 - [cbedio/OpenScout](https://github.com/cbedio/OpenScout) -  (4 days ago)
 - [le-nn/vscode-vector-aquarium](https://github.com/le-nn/vscode-vector-aquarium) - An joke extension for vscode. Make your vscode an aquarium and heal you ! (1 month ago)
@@ -39,8 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki (1 month ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 months ago)
 - [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (2 months ago)
-- [gramaziokohler/roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library (2 months ago)
-- [helloparthshah/StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game. (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
