@@ -19,7 +19,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### ✍ My recent writing and projects
 
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (3 months ago)
-- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (5 months ago)
+- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (6 months ago)
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (7 months ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (7 months ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (9 months ago)
@@ -31,8 +31,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Neumi/ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino. (3 days ago)
-- [cbedio/OpenScout](https://github.com/cbedio/OpenScout) -  (3 days ago)
+- [Neumi/ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino. (4 days ago)
+- [cbedio/OpenScout](https://github.com/cbedio/OpenScout) -  (4 days ago)
 - [le-nn/vscode-vector-aquarium](https://github.com/le-nn/vscode-vector-aquarium) - An joke extension for vscode. Make your vscode an aquarium and heal you ! (1 month ago)
 - [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm (1 month ago)
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (1 month ago)
