@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [jhavl/dkt](https://github.com/jhavl/dkt) - A Tutorial on Manipulator Differential Kinematics (today)
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars! (5 days ago)
 - [magnificus/Procedural-Cities](https://github.com/magnificus/Procedural-Cities) - master thesis (5 days ago)
 - [Neumi/ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino. (1 week ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (1 month ago)
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki (1 month ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 months ago)
-- [Syrkres/templates](https://github.com/Syrkres/templates) - Collection of Templates (and scripts) for use with Obsidian-Templater (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
