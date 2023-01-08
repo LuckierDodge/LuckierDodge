@@ -31,16 +31,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (today)
+- [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (today)
+- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Open terminals in Obsidian directly. (today)
+- [conneroisu/vim-toggle-obsidian](https://github.com/conneroisu/vim-toggle-obsidian) - This is a plugin that adds the ability to toggle on and off vim into obsidian with a nice notice to let you know when you switched. (today)
+- [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed. (today)
 - [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant! (today)
 - [jhavl/dkt](https://github.com/jhavl/dkt) - A Tutorial on Manipulator Differential Kinematics (1 week ago)
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars! (2 weeks ago)
 - [magnificus/Procedural-Cities](https://github.com/magnificus/Procedural-Cities) - master thesis (2 weeks ago)
 - [Neumi/ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino. (3 weeks ago)
-- [cbedio/OpenScout](https://github.com/cbedio/OpenScout) -  (3 weeks ago)
-- [le-nn/vscode-vector-aquarium](https://github.com/le-nn/vscode-vector-aquarium) - An joke extension for vscode. Make your vscode an aquarium and heal you ! (1 month ago)
-- [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm (1 month ago)
-- [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (2 months ago)
-- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
