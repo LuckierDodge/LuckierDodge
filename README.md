@@ -31,6 +31,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (today)
+- [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (today)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (2 days ago)
 - [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (2 days ago)
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Open terminals in Obsidian directly. (2 days ago)
@@ -39,8 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant! (2 days ago)
 - [jhavl/dkt](https://github.com/jhavl/dkt) - A Tutorial on Manipulator Differential Kinematics (2 weeks ago)
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars! (2 weeks ago)
-- [magnificus/Procedural-Cities](https://github.com/magnificus/Procedural-Cities) - master thesis (2 weeks ago)
-- [Neumi/ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino. (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
