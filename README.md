@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (5 days ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (6 days ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (3 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (1 month ago)
@@ -31,15 +31,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library (today)
-- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (4 days ago)
-- [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (4 days ago)
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (6 days ago)
-- [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (6 days ago)
-- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Open terminals in Obsidian directly. (6 days ago)
-- [conneroisu/vim-toggle-obsidian](https://github.com/conneroisu/vim-toggle-obsidian) - This is a plugin that adds the ability to toggle on and off vim into obsidian with a nice notice to let you know when you switched. (6 days ago)
-- [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed. (6 days ago)
-- [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant! (6 days ago)
+- [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library (1 day ago)
+- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (5 days ago)
+- [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (5 days ago)
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (1 week ago)
+- [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (1 week ago)
+- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Open terminals in Obsidian directly. (1 week ago)
+- [conneroisu/vim-toggle-obsidian](https://github.com/conneroisu/vim-toggle-obsidian) - This is a plugin that adds the ability to toggle on and off vim into obsidian with a nice notice to let you know when you switched. (1 week ago)
+- [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed. (1 week ago)
+- [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant! (1 week ago)
 - [jhavl/dkt](https://github.com/jhavl/dkt) - A Tutorial on Manipulator Differential Kinematics (2 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
