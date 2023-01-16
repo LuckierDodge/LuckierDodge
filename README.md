@@ -31,6 +31,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.  (today)
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Helps you stay organized by using OpenAI to display the most relevant notes in your Obsidian vault in real-time. (today)
+- [Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) - A plugin for you to add edges between notes in Canvas based on there links. (today)
 - [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library (2 days ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (6 days ago)
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (6 days ago)
@@ -38,9 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (1 week ago)
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Open terminals in Obsidian directly. (1 week ago)
 - [conneroisu/vim-toggle-obsidian](https://github.com/conneroisu/vim-toggle-obsidian) - This is a plugin that adds the ability to toggle on and off vim into obsidian with a nice notice to let you know when you switched. (1 week ago)
-- [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed. (1 week ago)
-- [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant! (1 week ago)
-- [jhavl/dkt](https://github.com/jhavl/dkt) - A Tutorial on Manipulator Differential Kinematics (2 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
