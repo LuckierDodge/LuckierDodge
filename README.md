@@ -39,7 +39,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (1 week ago)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (2 weeks ago)
 - [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (2 weeks ago)
-- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Open terminals in Obsidian directly. (2 weeks ago)
+- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles/shells/terminals inside Obsidian. (2 weeks ago)
 - [conneroisu/vim-toggle-obsidian](https://github.com/conneroisu/vim-toggle-obsidian) - This is a plugin that adds the ability to toggle on and off vim into obsidian with a nice notice to let you know when you switched. (2 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
