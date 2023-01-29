@@ -11,7 +11,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (1 month ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (1 month ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (3 months ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (4 months ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (4 months ago)
 - [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (5 months ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (7 months ago)
@@ -31,16 +31,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [nickcharron/waypoint_nav](https://github.com/nickcharron/waypoint_nav) - This package performs outdoor GPS waypoint navigation using move_base, robot_localization, gmapping and others. It can navigate while building a map, avoiding obstacles, and can navigate continuously between each goal.  (2 days ago)
+- [nickcharron/waypoint_nav](https://github.com/nickcharron/waypoint_nav) - This package performs outdoor GPS waypoint navigation using move_base, robot_localization, gmapping and others. It can navigate while building a map, avoiding obstacles, and can navigate continuously between each goal.  (3 days ago)
 - [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.  (1 week ago)
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Helps you stay organized by using OpenAI to display the most relevant notes in your Obsidian vault in real-time. (1 week ago)
 - [Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) - A plugin for you to add edges between notes in Canvas based on there links. (1 week ago)
 - [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library (2 weeks ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (2 weeks ago)
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (2 weeks ago)
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (2 weeks ago)
-- [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (2 weeks ago)
-- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles/shells/terminals inside Obsidian. (2 weeks ago)
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (3 weeks ago)
+- [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (3 weeks ago)
+- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles/shells/terminals inside Obsidian. (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
