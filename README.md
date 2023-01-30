@@ -6,14 +6,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (2 weeks ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (3 weeks ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (1 month ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (1 month ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (1 month ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (4 months ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (4 months ago)
-- [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (5 months ago)
+- [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (6 months ago)
 - [mcity/Mcity-tx-browser](https://github.com/mcity/Mcity-tx-browser) - File browser vue component for transmission.um.city (7 months ago)
 
 ### ✍ My recent writing and projects
@@ -21,8 +21,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (4 months ago)
 - [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (7 months ago)
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (8 months ago)
-- [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (8 months ago)
-- [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (10 months ago)
+- [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (9 months ago)
+- [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (11 months ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (2 years ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (2 years ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (2 years ago)
@@ -31,10 +31,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [nickcharron/waypoint_nav](https://github.com/nickcharron/waypoint_nav) - This package performs outdoor GPS waypoint navigation using move_base, robot_localization, gmapping and others. It can navigate while building a map, avoiding obstacles, and can navigate continuously between each goal.  (3 days ago)
-- [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.  (1 week ago)
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Helps you stay organized by using OpenAI to display the most relevant notes in your Obsidian vault in real-time. (1 week ago)
-- [Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) - A plugin for you to add edges between notes in Canvas based on there links. (1 week ago)
+- [nickcharron/waypoint_nav](https://github.com/nickcharron/waypoint_nav) - This package performs outdoor GPS waypoint navigation using move_base, robot_localization, gmapping and others. It can navigate while building a map, avoiding obstacles, and can navigate continuously between each goal.  (4 days ago)
+- [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.  (2 weeks ago)
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Helps you stay organized by using OpenAI to display the most relevant notes in your Obsidian vault in real-time. (2 weeks ago)
+- [Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) - A plugin for you to add edges between notes in Canvas based on there links. (2 weeks ago)
 - [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library (2 weeks ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (2 weeks ago)
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (2 weeks ago)
