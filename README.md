@@ -40,7 +40,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (2 weeks ago)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (3 weeks ago)
 - [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (3 weeks ago)
-- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles/shells/terminals inside Obsidian. (3 weeks ago)
+- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian. (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
