@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [ijnek/dev_containers_ros2](https://github.com/ijnek/dev_containers_ros2) -  (today)
 - [nickcharron/waypoint_nav](https://github.com/nickcharron/waypoint_nav) - This package performs outdoor GPS waypoint navigation using move_base, robot_localization, gmapping and others. It can navigate while building a map, avoiding obstacles, and can navigate continuously between each goal.  (6 days ago)
 - [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.  (2 weeks ago)
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Helps you stay organized by using OpenAI to display the most relevant notes in your Obsidian vault in real-time. (2 weeks ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories. (3 weeks ago)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (3 weeks ago)
 - [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Help to open a gate from Obsidian to internet. allow you to embed any website to your Obsidian. (3 weeks ago)
-- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian. (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
