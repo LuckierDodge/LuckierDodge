@@ -31,7 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [nickcharron/waypoint_nav](https://github.com/nickcharron/waypoint_nav) - This package performs outdoor GPS waypoint navigation using move_base, robot_localization, gmapping and others. It can navigate while building a map, avoiding obstacles, and can navigate continuously between each goal.  (5 days ago)
+- [nickcharron/waypoint_nav](https://github.com/nickcharron/waypoint_nav) - This package performs outdoor GPS waypoint navigation using move_base, robot_localization, gmapping and others. It can navigate while building a map, avoiding obstacles, and can navigate continuously between each goal.  (6 days ago)
 - [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.  (2 weeks ago)
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Helps you stay organized by using OpenAI to display the most relevant notes in your Obsidian vault in real-time. (2 weeks ago)
 - [Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) - A plugin for you to add edges between notes in Canvas based on there links. (2 weeks ago)
