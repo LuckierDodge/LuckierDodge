@@ -20,7 +20,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (5 months ago)
 - [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (7 months ago)
-- [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (8 months ago)
+- [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (9 months ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (9 months ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (11 months ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (2 years ago)
