@@ -36,10 +36,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another. (1 week ago)
 - [ijnek/dev_containers_ros2](https://github.com/ijnek/dev_containers_ros2) -  (1 week ago)
 - [nickcharron/waypoint_nav](https://github.com/nickcharron/waypoint_nav) - This package performs outdoor GPS waypoint navigation using move_base, robot_localization, gmapping and others. It can navigate while building a map, avoiding obstacles, and can navigate continuously between each goal.  (2 weeks ago)
-- [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.  (3 weeks ago)
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Helps you stay organized by using OpenAI to display the most relevant notes in your Obsidian vault in real-time. (3 weeks ago)
-- [Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) - A plugin for you to add edges between notes in Canvas based on there links. (3 weeks ago)
-- [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library (4 weeks ago)
+- [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.  (4 weeks ago)
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Helps you stay organized by using OpenAI to display the most relevant notes in your Obsidian vault in real-time. (4 weeks ago)
+- [Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) - A plugin for you to add edges between notes in Canvas based on there links. (4 weeks ago)
+- [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library (1 month ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
