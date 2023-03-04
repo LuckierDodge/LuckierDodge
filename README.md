@@ -38,9 +38,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [diepala/cantor](https://github.com/diepala/cantor) - Cantor keyboard, a 42 key diodeless split keyboard. (1 week ago)
 - [dheera/rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art (1 week ago)
 - [carzum/termviz](https://github.com/carzum/termviz) - ROS visualisation on the terminal (1 week ago)
-- [IKoshelev/Obsidian-Canvas-Filter](https://github.com/IKoshelev/Obsidian-Canvas-Filter) - Obsidian Canvas plugin that let&#39;s you show only pages / arrows with specific tags / colors / connections. (4 weeks ago)
-- [martinjo/obsidian-gym-log](https://github.com/martinjo/obsidian-gym-log) - Gym workout log for obsidian (4 weeks ago)
-- [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another. (4 weeks ago)
+- [IKoshelev/Obsidian-Canvas-Filter](https://github.com/IKoshelev/Obsidian-Canvas-Filter) - Obsidian Canvas plugin that let&#39;s you show only pages / arrows with specific tags / colors / connections. (1 month ago)
+- [martinjo/obsidian-gym-log](https://github.com/martinjo/obsidian-gym-log) - Gym workout log for obsidian (1 month ago)
+- [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
