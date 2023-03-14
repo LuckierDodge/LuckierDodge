@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (6 days ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (1 week ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (1 month ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (2 months ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 months ago)
@@ -20,7 +20,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (6 months ago)
 - [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (8 months ago)
-- [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (9 months ago)
+- [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (10 months ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (10 months ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (1 year ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (2 years ago)
@@ -31,13 +31,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (2 weeks ago)
-- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (2 weeks ago)
-- [krikun98/nijuni](https://github.com/krikun98/nijuni) - 44-key split keyboard with the Jian&#39;s stagger and the Corne&#39;s thumb cluster with a wireless focus. (2 weeks ago)
-- [davidphilipbarr/Sweep](https://github.com/davidphilipbarr/Sweep) - Sweep - a small promicro based keyboard inspired by the Ferris. (2 weeks ago)
-- [diepala/cantor](https://github.com/diepala/cantor) - Cantor keyboard, a 42 key diodeless split keyboard. (2 weeks ago)
-- [dheera/rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art (2 weeks ago)
-- [carzum/termviz](https://github.com/carzum/termviz) - ROS visualisation on the terminal (2 weeks ago)
+- [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (3 weeks ago)
+- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (3 weeks ago)
+- [krikun98/nijuni](https://github.com/krikun98/nijuni) - 44-key split keyboard with the Jian&#39;s stagger and the Corne&#39;s thumb cluster with a wireless focus. (3 weeks ago)
+- [davidphilipbarr/Sweep](https://github.com/davidphilipbarr/Sweep) - Sweep - a small promicro based keyboard inspired by the Ferris. (3 weeks ago)
+- [diepala/cantor](https://github.com/diepala/cantor) - Cantor keyboard, a 42 key diodeless split keyboard. (3 weeks ago)
+- [dheera/rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art (3 weeks ago)
+- [carzum/termviz](https://github.com/carzum/termviz) - ROS visualisation on the terminal (3 weeks ago)
 - [IKoshelev/Obsidian-Canvas-Filter](https://github.com/IKoshelev/Obsidian-Canvas-Filter) - Obsidian Canvas plugin that let&#39;s you show only pages / arrows with specific tags / colors / connections. (1 month ago)
 - [martinjo/obsidian-gym-log](https://github.com/martinjo/obsidian-gym-log) - Gym workout log for obsidian (1 month ago)
 - [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another. (1 month ago)
