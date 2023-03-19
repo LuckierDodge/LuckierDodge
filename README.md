@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [camkisailus/LLMPlan](https://github.com/camkisailus/LLMPlan) -  (today)
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (3 weeks ago)
 - [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (3 weeks ago)
 - [krikun98/nijuni](https://github.com/krikun98/nijuni) - 44-key split keyboard with the Jian&#39;s stagger and the Corne&#39;s thumb cluster with a wireless focus. (3 weeks ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [carzum/termviz](https://github.com/carzum/termviz) - ROS visualisation on the terminal (3 weeks ago)
 - [IKoshelev/Obsidian-Canvas-Filter](https://github.com/IKoshelev/Obsidian-Canvas-Filter) - Obsidian Canvas plugin that let&#39;s you show only pages / arrows with specific tags / colors / connections. (1 month ago)
 - [martinjo/obsidian-gym-log](https://github.com/martinjo/obsidian-gym-log) - Gym workout log for obsidian (1 month ago)
-- [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
