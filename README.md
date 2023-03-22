@@ -31,6 +31,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [kensanata/hex-mapping](https://github.com/kensanata/hex-mapping) - Tools to work with hex maps for roleplaying games. Usually web applications written in Perl and producing SVG output. (today)
 - [uleroboticsgroup/yasmin](https://github.com/uleroboticsgroup/yasmin) - YASMIN (Yet Another State MachINe) (1 day ago)
 - [camkisailus/LLMPlan](https://github.com/camkisailus/LLMPlan) -  (3 days ago)
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (4 weeks ago)
@@ -40,7 +41,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [diepala/cantor](https://github.com/diepala/cantor) - Cantor keyboard, a 42 key diodeless split keyboard. (4 weeks ago)
 - [dheera/rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art (4 weeks ago)
 - [carzum/termviz](https://github.com/carzum/termviz) - ROS visualisation on the terminal (4 weeks ago)
-- [IKoshelev/Obsidian-Canvas-Filter](https://github.com/IKoshelev/Obsidian-Canvas-Filter) - Obsidian Canvas plugin that let&#39;s you show only pages / arrows with specific tags / colors / connections. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
