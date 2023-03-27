@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/rmc_to_imu](https://github.com/LuckierDodge/rmc_to_imu) - Takes in NMEA sentences, parses RMC messages from them, and converts it to an absolute position IMU. (3 days ago)
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (6 days ago)
+- [LuckierDodge/rmc_to_imu](https://github.com/LuckierDodge/rmc_to_imu) - Takes in NMEA sentences, parses RMC messages from them, and converts it to an absolute position IMU. (4 days ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (1 week ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (1 week ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (1 month ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 months ago)
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [kensanata/hex-mapping](https://github.com/kensanata/hex-mapping) - Tools to work with hex maps for roleplaying games. Usually web applications written in Perl and producing SVG output. (4 days ago)
-- [uleroboticsgroup/yasmin](https://github.com/uleroboticsgroup/yasmin) - YASMIN (Yet Another State MachINe) (5 days ago)
+- [kensanata/hex-mapping](https://github.com/kensanata/hex-mapping) - Tools to work with hex maps for roleplaying games. Usually web applications written in Perl and producing SVG output. (5 days ago)
+- [uleroboticsgroup/yasmin](https://github.com/uleroboticsgroup/yasmin) - YASMIN (Yet Another State MachINe) (6 days ago)
 - [camkisailus/LLMPlan](https://github.com/camkisailus/LLMPlan) -  (1 week ago)
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (1 month ago)
 - [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (1 month ago)
