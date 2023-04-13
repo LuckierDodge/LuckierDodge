@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive &amp; portable high-performance programming in Python. (today)
 - [MRPT/mrpt](https://github.com/MRPT/mrpt) - :zap: The Mobile Robot Programming Toolkit (MRPT) (1 day ago)
 - [trey-wallis/obsidian-notion-like-tables](https://github.com/trey-wallis/obsidian-notion-like-tables) - Your premiere tool for creating and managing tabular data in Obsidian.md (5 days ago)
 - [kensanata/hex-mapping](https://github.com/kensanata/hex-mapping) - Tools to work with hex maps for roleplaying games. Usually web applications written in Perl and producing SVG output. (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (1 month ago)
 - [krikun98/nijuni](https://github.com/krikun98/nijuni) - 44-key split keyboard with the Jian&#39;s stagger and the Corne&#39;s thumb cluster with a wireless focus. (1 month ago)
 - [davidphilipbarr/Sweep](https://github.com/davidphilipbarr/Sweep) - Sweep - a small promicro based keyboard inspired by the Ferris. (1 month ago)
-- [diepala/cantor](https://github.com/diepala/cantor) - Cantor keyboard, a 42 key diodeless split keyboard. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
