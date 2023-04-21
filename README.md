@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (2 days ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (3 days ago)
 - [LuckierDodge/rmc_to_imu](https://github.com/LuckierDodge/rmc_to_imu) - Takes in NMEA sentences, parses RMC messages from them, and converts it to an absolute position IMU. (1 week ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (1 week ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (1 month ago)
@@ -20,7 +20,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### ✍ My recent writing and projects
 
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (7 months ago)
-- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (9 months ago)
+- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (10 months ago)
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (11 months ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (11 months ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (1 year ago)
@@ -32,11 +32,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms (2 days ago)
+- [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms (3 days ago)
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive &amp; portable high-performance programming in Python. (1 week ago)
 - [MRPT/mrpt](https://github.com/MRPT/mrpt) - :zap: The Mobile Robot Programming Toolkit (MRPT) (1 week ago)
 - [trey-wallis/obsidian-notion-like-tables](https://github.com/trey-wallis/obsidian-notion-like-tables) - Your premiere tool for creating and managing tabular data in Obsidian.md (1 week ago)
-- [kensanata/hex-mapping](https://github.com/kensanata/hex-mapping) - Tools to work with hex maps for roleplaying games. Usually web applications written in Perl and producing SVG output. (4 weeks ago)
+- [kensanata/hex-mapping](https://github.com/kensanata/hex-mapping) - Tools to work with hex maps for roleplaying games. Usually web applications written in Perl and producing SVG output. (1 month ago)
 - [uleroboticsgroup/yasmin](https://github.com/uleroboticsgroup/yasmin) - YASMIN (Yet Another State MachINe) (1 month ago)
 - [camkisailus/LLMPlan](https://github.com/camkisailus/LLMPlan) -  (1 month ago)
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (1 month ago)
