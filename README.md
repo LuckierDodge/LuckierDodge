@@ -33,7 +33,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### ⭐ Things I've starred lately
 
 - [erincayaz/obsidian-colored-text](https://github.com/erincayaz/obsidian-colored-text) -  (1 week ago)
-- [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip popup UX, dark mode, and typography (sidenotes&#43;dropcaps&#43;admonitions&#43;inflation-adjuster). (1 week ago)
+- [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip popup UX, dark mode, and typography (sidenotes&#43;dropcaps&#43;admonitions&#43;inflation-adjuster). (2 weeks ago)
 - [sea-bass/turtlebot3_behavior_demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - Example repository for autonomous behaviors using TurtleBot3, as well as Docker workflows in ROS based projects. (2 weeks ago)
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms (1 month ago)
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive &amp; portable high-performance programming in Python. (1 month ago)
