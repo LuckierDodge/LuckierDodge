@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian (today)
 - [erincayaz/obsidian-colored-text](https://github.com/erincayaz/obsidian-colored-text) -  (2 weeks ago)
 - [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip popup UX, dark mode, and typography (sidenotes&#43;dropcaps&#43;admonitions&#43;inflation-adjuster). (3 weeks ago)
 - [sea-bass/turtlebot3_behavior_demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - Example repository for autonomous behaviors using TurtleBot3, as well as Docker workflows in ROS based projects. (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [trey-wallis/obsidian-notion-like-tables](https://github.com/trey-wallis/obsidian-notion-like-tables) - Your premiere tool for creating and managing tabular data in Obsidian.md (1 month ago)
 - [kensanata/hex-mapping](https://github.com/kensanata/hex-mapping) - Tools to work with hex maps for roleplaying games. Usually web applications written in Perl and producing SVG output. (2 months ago)
 - [uleroboticsgroup/yasmin](https://github.com/uleroboticsgroup/yasmin) - YASMIN (Yet Another State MachINe) (2 months ago)
-- [camkisailus/LLMPlan](https://github.com/camkisailus/LLMPlan) -  (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
