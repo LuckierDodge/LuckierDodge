@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian (2 days ago)
+- [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian (3 days ago)
 - [erincayaz/obsidian-colored-text](https://github.com/erincayaz/obsidian-colored-text) -  (2 weeks ago)
 - [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip popup UX, dark mode, and typography (sidenotes&#43;dropcaps&#43;admonitions&#43;inflation-adjuster). (3 weeks ago)
 - [sea-bass/turtlebot3_behavior_demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - Example repository for autonomous behaviors using TurtleBot3, as well as Docker workflows in ROS based projects. (4 weeks ago)
