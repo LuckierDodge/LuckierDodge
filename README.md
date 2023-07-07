@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (6 days ago)
+- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (1 week ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (1 month ago)
 - [LuckierDodge/fix2nmea](https://github.com/LuckierDodge/fix2nmea) - Republishes NavSatFix messages as NMEA strings (2 months ago)
 - [LuckierDodge/rmc_to_imu](https://github.com/LuckierDodge/rmc_to_imu) - Takes in NMEA sentences, parses RMC messages from them, and converts it to an absolute position IMU. (2 months ago)
@@ -36,12 +36,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher, Glyph and Minecraft. Now with SD Card Support (1 month ago)
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian (1 month ago)
 - [erincayaz/obsidian-colored-text](https://github.com/erincayaz/obsidian-colored-text) -  (1 month ago)
-- [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip popup UX, dark mode, and typography (sidenotes&#43;dropcaps&#43;admonitions&#43;inflation-adjuster). (1 month ago)
+- [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip popup UX, dark mode, and typography (sidenotes&#43;dropcaps&#43;admonitions&#43;inflation-adjuster). (2 months ago)
 - [sea-bass/turtlebot3_behavior_demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - Example repository for autonomous behaviors using TurtleBot3, as well as Docker workflows in ROS based projects. (2 months ago)
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms (2 months ago)
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive &amp; portable high-performance programming in Python. (2 months ago)
 - [MRPT/mrpt](https://github.com/MRPT/mrpt) - :zap: The Mobile Robot Programming Toolkit (MRPT) (2 months ago)
-- [trey-wallis/obsidian-dashboards](https://github.com/trey-wallis/obsidian-dashboards) - Powerful dashboard suite inspired by Notion.so. (2 months ago)
+- [trey-wallis/obsidian-dashboards](https://github.com/trey-wallis/obsidian-dashboards) - Powerful dashboard suite inspired by Notion.so. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
