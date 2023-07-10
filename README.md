@@ -41,7 +41,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms (2 months ago)
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive &amp; portable high-performance programming in Python. (2 months ago)
 - [MRPT/mrpt](https://github.com/MRPT/mrpt) - :zap: The Mobile Robot Programming Toolkit (MRPT) (2 months ago)
-- [trey-wallis/obsidian-dataloom](https://github.com/trey-wallis/obsidian-dataloom) - Weave together data from diverse sources into a cohesive table view. Inspired by Excel Spreadsheets and Notion.so. (3 months ago)
+- [trey-wallis/obsidian-dataloom](https://github.com/trey-wallis/obsidian-dataloom) - Weave together data from diverse sources into a cohesive table view. Inspired by Excel spreadsheets and Notion.so. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
