@@ -32,6 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [farling42/obsidian-import-foundry](https://github.com/farling42/obsidian-import-foundry) - Import your Journals from Foundry into Obsidian (today)
+- [Praxxian/lava-flow](https://github.com/Praxxian/lava-flow) - A Foundry VTT module that allows you to import your notes from Obsidian MD into Foundry journal entries. (today)
 - [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray (today)
 - [Dwarf-Therapist/Dwarf-Therapist](https://github.com/Dwarf-Therapist/Dwarf-Therapist) - Dwarf management tool for Dwarf Fortress (1 week ago)
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better. (3 weeks ago)
@@ -40,8 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [erincayaz/obsidian-colored-text](https://github.com/erincayaz/obsidian-colored-text) -  (2 months ago)
 - [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip popup UX, dark mode, and typography (sidenotes&#43;dropcaps&#43;admonitions&#43;inflation-adjuster). (2 months ago)
 - [sea-bass/turtlebot3_behavior_demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - Example repository for autonomous behaviors using TurtleBot3, as well as Docker workflows in ROS based projects. (2 months ago)
-- [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms (3 months ago)
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive &amp; portable high-performance programming in Python. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
