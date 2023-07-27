@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (6 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 weeks ago)
 - [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (3 weeks ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (2 months ago)
@@ -32,13 +32,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (3 days ago)
-- [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server (3 days ago)
-- [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client. (3 days ago)
-- [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex (5 days ago)
-- [farling42/obsidian-import-foundry](https://github.com/farling42/obsidian-import-foundry) - Import your Journals from Foundry into Obsidian (5 days ago)
-- [Praxxian/lava-flow](https://github.com/Praxxian/lava-flow) - A Foundry VTT module that allows you to import your notes from Obsidian MD into Foundry journal entries. (5 days ago)
-- [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray (5 days ago)
+- [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (4 days ago)
+- [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server (4 days ago)
+- [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client. (4 days ago)
+- [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex (6 days ago)
+- [farling42/obsidian-import-foundry](https://github.com/farling42/obsidian-import-foundry) - Import your Journals from Foundry into Obsidian (6 days ago)
+- [Praxxian/lava-flow](https://github.com/Praxxian/lava-flow) - A Foundry VTT module that allows you to import your notes from Obsidian MD into Foundry journal entries. (6 days ago)
+- [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray (6 days ago)
 - [Dwarf-Therapist/Dwarf-Therapist](https://github.com/Dwarf-Therapist/Dwarf-Therapist) - Dwarf management tool for Dwarf Fortress (1 week ago)
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better. (4 weeks ago)
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher, Glyph and Minecraft. Now with SD Card Support (1 month ago)
