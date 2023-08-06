@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (3 days ago)
+- [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (4 days ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (1 week ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 weeks ago)
@@ -32,9 +32,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (1 week ago)
-- [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server (1 week ago)
-- [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client. (1 week ago)
+- [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (2 weeks ago)
+- [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server (2 weeks ago)
+- [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client. (2 weeks ago)
 - [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex (2 weeks ago)
 - [farling42/obsidian-import-foundry](https://github.com/farling42/obsidian-import-foundry) - Import your Journals from Foundry into Obsidian (2 weeks ago)
 - [Praxxian/lava-flow](https://github.com/Praxxian/lava-flow) - A Foundry VTT module that allows you to import your notes from Obsidian MD into Foundry journal entries. (2 weeks ago)
