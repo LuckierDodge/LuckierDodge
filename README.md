@@ -15,7 +15,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/fix2nmea](https://github.com/LuckierDodge/fix2nmea) - Republishes NavSatFix messages as NMEA strings (4 months ago)
 - [LuckierDodge/rmc_to_imu](https://github.com/LuckierDodge/rmc_to_imu) - Takes in NMEA sentences, parses RMC messages from them, and converts it to an absolute position IMU. (4 months ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (9 months ago)
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 year ago)
 
 ### ✍ My recent writing and projects
 
