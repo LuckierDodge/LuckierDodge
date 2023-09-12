@@ -7,6 +7,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### 💻 Stuff I've been working on
 
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) -  (today)
+- [AD-SDL/platecrane_driver](https://github.com/AD-SDL/platecrane_driver) - A python driver for the platecrane and sciclops instruments (today)
 - [AD-SDL/ot2_driver](https://github.com/AD-SDL/ot2_driver) - Driver repo for the OT2 drivers  (1 day ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (1 month ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (1 month ago)
@@ -15,7 +16,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (2 months ago)
 - [mcity/mcity_proxy_msgs](https://github.com/mcity/mcity_proxy_msgs) - ROS2 package providing messages and services for Mcity&#39;s autonomous proxy. (3 months ago)
 - [LuckierDodge/fix2nmea](https://github.com/LuckierDodge/fix2nmea) - Republishes NavSatFix messages as NMEA strings (4 months ago)
-- [LuckierDodge/rmc_to_imu](https://github.com/LuckierDodge/rmc_to_imu) - Takes in NMEA sentences, parses RMC messages from them, and converts it to an absolute position IMU. (5 months ago)
 
 ### ✍ My recent writing and projects
 
@@ -45,6 +45,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 🤓 Some fellow nerds who follow me!
 
+- [sgbaird](https://github.com/sgbaird)
 - [matt-swed](https://github.com/matt-swed)
 - [Johnvono](https://github.com/Johnvono)
 - [All7n](https://github.com/All7n)
@@ -54,6 +55,5 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [esin](https://github.com/esin)
 - [sudeep-chandra](https://github.com/sudeep-chandra)
 - [fivemoreminutes](https://github.com/fivemoreminutes)
-- [tli228](https://github.com/tli228)
 
 I used the awesome [readme-scribe](https://github.com/muesli/readme-scribe) to create this README, and you can too!
