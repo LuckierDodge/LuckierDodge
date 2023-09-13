@@ -7,15 +7,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### 💻 Stuff I've been working on
 
 - [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (1 day ago)
-- [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (1 day ago)
 - [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (1 day ago)
+- [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (1 day ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 day ago)
+- [AD-SDL/hidex_module_ros](https://github.com/AD-SDL/hidex_module_ros) - ROS Packages for the Hidex Instrument (1 day ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (2 days ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (1 month ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (1 month ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 month ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 months ago)
-- [mcity/mcity_proxy](https://github.com/mcity/mcity_proxy) - ROS2 package providing all of the core functionality for Mcity&#39;s autonomous proxy. (2 months ago)
 
 ### ✍ My recent writing and projects
 
