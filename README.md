@@ -6,15 +6,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (today)
-- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (today)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (today)
-- [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (1 day ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 day ago)
-- [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (1 day ago)
-- [AD-SDL/hidex_module_ros](https://github.com/AD-SDL/hidex_module_ros) - ROS Packages for the Hidex Instrument (1 day ago)
-- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (1 day ago)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (2 days ago)
+- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (1 day ago)
+- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (1 day ago)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 day ago)
+- [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (2 days ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (2 days ago)
+- [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (2 days ago)
+- [AD-SDL/hidex_module_ros](https://github.com/AD-SDL/hidex_module_ros) - ROS Packages for the Hidex Instrument (2 days ago)
+- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (2 days ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (3 days ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (1 month ago)
 
 ### ✍ My recent writing and projects
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (2 days ago)
+- [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (3 days ago)
 - [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages (3 weeks ago)
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (1 month ago)
 - [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server (1 month ago)
