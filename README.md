@@ -6,14 +6,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (1 day ago)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 day ago)
-- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (1 day ago)
-- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (2 days ago)
-- [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (2 days ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (2 days ago)
-- [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (2 days ago)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (3 days ago)
+- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (2 days ago)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 days ago)
+- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (2 days ago)
+- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (3 days ago)
+- [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (3 days ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 days ago)
+- [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (3 days ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (4 days ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (1 month ago)
 - [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (1 month ago)
 
@@ -32,9 +32,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (today)
-- [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (3 days ago)
-- [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages (3 weeks ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (1 day ago)
+- [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (4 days ago)
+- [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages (4 weeks ago)
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (1 month ago)
 - [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server (1 month ago)
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client. (1 month ago)
