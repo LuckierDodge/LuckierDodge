@@ -6,16 +6,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (today)
 - [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (2 days ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 days ago)
 - [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (2 days ago)
-- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (3 days ago)
 - [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (3 days ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 days ago)
+- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (3 days ago)
 - [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (3 days ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (4 days ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (1 month ago)
-- [mcity/Mcity-octane-examples](https://github.com/mcity/Mcity-octane-examples) - Example scripts for working with Mcity&#39;s implementation of OCTANE as a client. (1 month ago)
 
 ### ✍ My recent writing and projects
 
