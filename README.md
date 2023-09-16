@@ -6,15 +6,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (today)
-- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (2 days ago)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 days ago)
-- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (2 days ago)
-- [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (3 days ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 days ago)
-- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (3 days ago)
-- [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (3 days ago)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (4 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 day ago)
+- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (3 days ago)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (3 days ago)
+- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (3 days ago)
+- [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (4 days ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (4 days ago)
+- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (4 days ago)
+- [AD-SDL/hudson_platecrane_module_ros](https://github.com/AD-SDL/hudson_platecrane_module_ros) -  (4 days ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (5 days ago)
 - [mcity/mcity-vue-auth](https://github.com/mcity/mcity-vue-auth) - Common vue files used across Mcity projects. (1 month ago)
 
 ### ✍ My recent writing and projects
@@ -32,10 +32,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (today)
-- [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration. (today)
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (1 day ago)
-- [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (4 days ago)
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (1 day ago)
+- [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration. (1 day ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (2 days ago)
+- [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (5 days ago)
 - [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages (4 weeks ago)
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (1 month ago)
 - [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server (1 month ago)
