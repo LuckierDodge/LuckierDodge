@@ -6,11 +6,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 days ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (4 days ago)
-- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (6 days ago)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (6 days ago)
-- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (6 days ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (5 days ago)
+- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (1 week ago)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 week ago)
+- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (1 week ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 week ago)
 - [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (1 week ago)
 - [AD-SDL/ot2_module_ros](https://github.com/AD-SDL/ot2_module_ros) -  (1 week ago)
@@ -32,10 +32,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (2 days ago)
-- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (4 days ago)
-- [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration. (4 days ago)
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (5 days ago)
+- [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (3 days ago)
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (5 days ago)
+- [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration. (5 days ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (6 days ago)
 - [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (1 week ago)
 - [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages (1 month ago)
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (1 month ago)
