@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (today)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (5 days ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (1 day ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (6 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 weeks ago)
 - [AD-SDL/biometra_module](https://github.com/AD-SDL/biometra_module) -  (2 weeks ago)
 - [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (2 weeks ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 weeks ago)
@@ -34,8 +34,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types. (1 week ago)
 - [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (1 week ago)
-- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (1 week ago)
-- [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration. (1 week ago)
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS &#43; home-manager &#43; flakes. All the boilerplate you need! (2 weeks ago)
+- [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration. (2 weeks ago)
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (2 weeks ago)
 - [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (2 weeks ago)
 - [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages (1 month ago)
