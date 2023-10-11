@@ -6,16 +6,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 day ago)
+- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (today)
+- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (today)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (today)
+- [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (today)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (today)
 - [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 day ago)
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (5 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 day ago)
 - [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (5 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (5 days ago)
 - [AD-SDL/rpl_workcell](https://github.com/AD-SDL/rpl_workcell) - Container for various workcells/workflows for the RPL (6 days ago)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 weeks ago)
-- [AD-SDL/biometra_module_ros](https://github.com/AD-SDL/biometra_module_ros) -  (4 weeks ago)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (4 weeks ago)
-- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (4 weeks ago)
-- [AD-SDL/biometra_module](https://github.com/AD-SDL/biometra_module) -  (4 weeks ago)
 
 ### ✍ My recent writing and projects
 
