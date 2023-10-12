@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000&#39;s of insurances/hospitals/clinics (today)
 - [therealguy90/foundrytodiscord](https://github.com/therealguy90/foundrytodiscord) - A FoundryVTT module that sends all FoundryVTT messages to a Discord webhook. (1 week ago)
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types. (3 weeks ago)
 - [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (1 month ago)
 - [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages (1 month ago)
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless (2 months ago)
-- [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
