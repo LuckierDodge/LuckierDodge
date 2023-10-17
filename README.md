@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [norlab-ulaval/RTS_project](https://github.com/norlab-ulaval/RTS_project) - Code and Python library to process Robotic Total Stations data (today)
 - [rlane/oort3](https://github.com/rlane/oort3) - A space fleet programming game (1 day ago)
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000&#39;s of insurances/hospitals/clinics (5 days ago)
 - [therealguy90/foundrytodiscord](https://github.com/therealguy90/foundrytodiscord) - A FoundryVTT module that sends all FoundryVTT messages to a Discord webhook. (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration. (1 month ago)
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (1 month ago)
 - [simonw/pypi-rename](https://github.com/simonw/pypi-rename) - Cookiecutter template for creating renamed PyPI packages (1 month ago)
-- [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
