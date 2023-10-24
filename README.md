@@ -6,15 +6,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (4 days ago)
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (5 days ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (6 days ago)
+- [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (5 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (6 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 week ago)
 - [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (1 week ago)
 - [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (1 week ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 week ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 week ago)
-- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 week ago)
+- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (2 weeks ago)
 - [AD-SDL/rpl_workcell](https://github.com/AD-SDL/rpl_workcell) - Container for various workcells/workflows for the RPL (2 weeks ago)
 
 ### ✍ My recent writing and projects
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [zachdoty/BrainPress](https://github.com/zachdoty/BrainPress) - BrainPress is a simple NextJS app to self-publish Obsidian vaults. It supports the new canvas files. (2 days ago)
-- [norlab-ulaval/RTS_project](https://github.com/norlab-ulaval/RTS_project) - Code and Python library to process Robotic Total Stations data (6 days ago)
+- [zachdoty/BrainPress](https://github.com/zachdoty/BrainPress) - BrainPress is a simple NextJS app to self-publish Obsidian vaults. It supports the new canvas files. (3 days ago)
+- [norlab-ulaval/RTS_project](https://github.com/norlab-ulaval/RTS_project) - Code and Python library to process Robotic Total Stations data (1 week ago)
 - [rlane/oort3](https://github.com/rlane/oort3) - A space fleet programming game (1 week ago)
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000&#39;s of insurances/hospitals/clinics (1 week ago)
 - [therealguy90/foundrytodiscord](https://github.com/therealguy90/foundrytodiscord) - A FoundryVTT module that sends all FoundryVTT messages to a Discord webhook. (3 weeks ago)
