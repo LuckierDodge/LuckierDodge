@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -  (today)
 - [tchellomello/python-amcrest](https://github.com/tchellomello/python-amcrest) - A Python 2.7/3.x module for Amcrest and Dahua Cameras using the SDK HTTP API. (1 week ago)
 - [ReolinkCameraAPI/reolinkapipy](https://github.com/ReolinkCameraAPI/reolinkapipy) - Reolink Camera API written in Python 3.6 (1 week ago)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [rlane/oort3](https://github.com/rlane/oort3) - A space fleet programming game (3 weeks ago)
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000&#39;s of insurances/hospitals/clinics (3 weeks ago)
 - [therealguy90/foundrytodiscord](https://github.com/therealguy90/foundrytodiscord) - A FoundryVTT module that sends all FoundryVTT messages to a Discord webhook. (1 month ago)
-- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
