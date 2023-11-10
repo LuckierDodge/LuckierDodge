@@ -32,6 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (today)
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (today)
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -  (4 days ago)
 - [tchellomello/python-amcrest](https://github.com/tchellomello/python-amcrest) - A Python 2.7/3.x module for Amcrest and Dahua Cameras using the SDK HTTP API. (1 week ago)
 - [ReolinkCameraAPI/reolinkapipy](https://github.com/ReolinkCameraAPI/reolinkapipy) - Reolink Camera API written in Python 3.6 (1 week ago)
@@ -40,8 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [zachdoty/BrainPress](https://github.com/zachdoty/BrainPress) - BrainPress is a simple NextJS app to self-publish Obsidian vaults. It supports the new canvas files. (2 weeks ago)
 - [norlab-ulaval/RTS_project](https://github.com/norlab-ulaval/RTS_project) - Code and Python library to process Robotic Total Stations data (3 weeks ago)
 - [rlane/oort3](https://github.com/rlane/oort3) - A space fleet programming game (3 weeks ago)
-- [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000&#39;s of insurances/hospitals/clinics (4 weeks ago)
-- [therealguy90/foundrytodiscord](https://github.com/therealguy90/foundrytodiscord) - A FoundryVTT module that sends all FoundryVTT messages to a Discord webhook. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
