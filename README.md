@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [PyLabRobot/pylabrobot](https://github.com/PyLabRobot/pylabrobot) - A hardware agnostic interface and developer ecosystem for lab automation (today)
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system (3 days ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (4 days ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (4 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (2 weeks ago)
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals (2 weeks ago)
 - [zachdoty/BrainPress](https://github.com/zachdoty/BrainPress) - BrainPress is a simple NextJS app to self-publish Obsidian vaults. It supports the new canvas files. (3 weeks ago)
-- [norlab-ulaval/RTS_project](https://github.com/norlab-ulaval/RTS_project) - Code and Python library to process Robotic Total Stations data (4 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
