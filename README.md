@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (2 days ago)
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (4 days ago)
-- [AD-SDL/tecan_module](https://github.com/AD-SDL/tecan_module) - A repository for Tecan REST client and driver (5 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (3 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (5 days ago)
+- [AD-SDL/tecan_module](https://github.com/AD-SDL/tecan_module) - A repository for Tecan REST client and driver (6 days ago)
 - [LuckierDodge/AD-SDL-Notes](https://github.com/LuckierDodge/AD-SDL-Notes) - Personal notes related to ANL&#39;s AD-SDL Projects (2 weeks ago)
 - [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (3 weeks ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
@@ -32,16 +32,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system (2 days ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 days ago)
-- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (3 days ago)
+- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system (3 days ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (4 days ago)
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (4 days ago)
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -  (1 week ago)
 - [tchellomello/python-amcrest](https://github.com/tchellomello/python-amcrest) - A Python 2.7/3.x module for Amcrest and Dahua Cameras using the SDK HTTP API. (2 weeks ago)
 - [ReolinkCameraAPI/reolinkapipy](https://github.com/ReolinkCameraAPI/reolinkapipy) - Reolink Camera API written in Python 3.6 (2 weeks ago)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (2 weeks ago)
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals (2 weeks ago)
 - [zachdoty/BrainPress](https://github.com/zachdoty/BrainPress) - BrainPress is a simple NextJS app to self-publish Obsidian vaults. It supports the new canvas files. (3 weeks ago)
-- [norlab-ulaval/RTS_project](https://github.com/norlab-ulaval/RTS_project) - Code and Python library to process Robotic Total Stations data (3 weeks ago)
+- [norlab-ulaval/RTS_project](https://github.com/norlab-ulaval/RTS_project) - Code and Python library to process Robotic Total Stations data (4 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
