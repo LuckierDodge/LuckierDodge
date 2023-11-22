@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (5 days ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (6 days ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (1 week ago)
-- [AD-SDL/tecan_module](https://github.com/AD-SDL/tecan_module) - A repository for Tecan REST client and driver (1 week ago)
+- [AD-SDL/tecan_module](https://github.com/AD-SDL/tecan_module) - A repository for Tecan REST client and driver (2 weeks ago)
 - [LuckierDodge/AD-SDL-Notes](https://github.com/LuckierDodge/AD-SDL-Notes) - Personal notes related to ANL&#39;s AD-SDL Projects (3 weeks ago)
 - [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (1 month ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
