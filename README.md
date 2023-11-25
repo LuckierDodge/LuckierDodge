@@ -9,7 +9,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 week ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (2 weeks ago)
 - [AD-SDL/tecan_module](https://github.com/AD-SDL/tecan_module) - A repository for Tecan REST client and driver (2 weeks ago)
-- [LuckierDodge/AD-SDL-Notes](https://github.com/LuckierDodge/AD-SDL-Notes) - Personal notes related to ANL&#39;s AD-SDL Projects (4 weeks ago)
+- [LuckierDodge/AD-SDL-Notes](https://github.com/LuckierDodge/AD-SDL-Notes) - Personal notes related to ANL&#39;s AD-SDL Projects (1 month ago)
 - [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (1 month ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
 - [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (1 month ago)
@@ -33,7 +33,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### ⭐ Things I've starred lately
 
 - [PyLabRobot/pylabrobot](https://github.com/PyLabRobot/pylabrobot) - A hardware agnostic interface and developer ecosystem for lab automation (1 week ago)
-- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system (1 week ago)
+- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system (2 weeks ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 weeks ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (2 weeks ago)
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -  (2 weeks ago)
