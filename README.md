@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (today)
 - [Dheerajkumarbuchala/cs529FinalProject](https://github.com/Dheerajkumarbuchala/cs529FinalProject) -  (4 days ago)
 - [ironicbadger/nix-config](https://github.com/ironicbadger/nix-config) -  (6 days ago)
 - [PyLabRobot/pylabrobot](https://github.com/PyLabRobot/pylabrobot) - A hardware agnostic interface and developer ecosystem for lab automation (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -  (3 weeks ago)
 - [tchellomello/python-amcrest](https://github.com/tchellomello/python-amcrest) - A Python 2.7/3.x module for Amcrest and Dahua Cameras using the SDK HTTP API. (1 month ago)
 - [ReolinkCameraAPI/reolinkapipy](https://github.com/ReolinkCameraAPI/reolinkapipy) - Reolink Camera API written in Python 3.6 (1 month ago)
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
