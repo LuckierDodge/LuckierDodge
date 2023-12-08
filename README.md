@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (today)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 week ago)
 - [Dheerajkumarbuchala/cs529FinalProject](https://github.com/Dheerajkumarbuchala/cs529FinalProject) -  (1 week ago)
 - [ironicbadger/nix-config](https://github.com/ironicbadger/nix-config) -  (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (4 weeks ago)
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -  (1 month ago)
 - [tchellomello/python-amcrest](https://github.com/tchellomello/python-amcrest) - A Python 2.7/3.x module for Amcrest and Dahua Cameras using the SDK HTTP API. (1 month ago)
-- [ReolinkCameraAPI/reolinkapipy](https://github.com/ReolinkCameraAPI/reolinkapipy) - Reolink Camera API written in Python 3.6 (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
