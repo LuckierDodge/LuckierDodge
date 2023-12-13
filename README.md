@@ -8,13 +8,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [AD-SDL/wei_workflow_gen](https://github.com/AD-SDL/wei_workflow_gen) - Create workflows from natural language input (today)
 - [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (2 days ago)
-- [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (5 days ago)
 - [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (5 days ago)
+- [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (5 days ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (6 days ago)
-- [AD-SDL/hig_centrifuge_module](https://github.com/AD-SDL/hig_centrifuge_module) -  (2 weeks ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 weeks ago)
-- [AD-SDL/wei2023](https://github.com/AD-SDL/wei2023) -  (2 weeks ago)
+- [AD-SDL/hig_centrifuge_module](https://github.com/AD-SDL/hig_centrifuge_module) -  (2 weeks ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (2 weeks ago)
+- [AD-SDL/wei2023](https://github.com/AD-SDL/wei2023) -  (2 weeks ago)
 - [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (3 weeks ago)
 
 ### ✍ My recent writing and projects
