@@ -6,16 +6,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (1 day ago)
-- [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (1 day ago)
-- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (1 day ago)
-- [AD-SDL/wei_workflow_gen](https://github.com/AD-SDL/wei_workflow_gen) - Create workflows from natural language input (2 days ago)
+- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (2 days ago)
+- [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (2 days ago)
+- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (2 days ago)
+- [AD-SDL/wei_workflow_gen](https://github.com/AD-SDL/wei_workflow_gen) - Create workflows from natural language input (3 days ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 weeks ago)
 - [AD-SDL/hig_centrifuge_module](https://github.com/AD-SDL/hig_centrifuge_module) -  (2 weeks ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (2 weeks ago)
 - [AD-SDL/wei2023](https://github.com/AD-SDL/wei2023) -  (2 weeks ago)
-- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (4 weeks ago)
+- [LuckierDodge/configs](https://github.com/LuckierDodge/configs) - A version controlled backup of dotfiles for my Linux-based machines. (1 month ago)
 
 ### ✍ My recent writing and projects
 
@@ -32,12 +32,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [VincenzoScamarcio/main_scripts](https://github.com/VincenzoScamarcio/main_scripts) -  (today)
+- [VincenzoScamarcio/main_scripts](https://github.com/VincenzoScamarcio/main_scripts) -  (1 day ago)
 - [brianchowlab/OSP](https://github.com/brianchowlab/OSP) - An Open-source Plate Reader  (1 week ago)
 - [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (1 week ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (2 weeks ago)
 - [Dheerajkumarbuchala/cs529FinalProject](https://github.com/Dheerajkumarbuchala/cs529FinalProject) -  (2 weeks ago)
-- [ironicbadger/nix-config](https://github.com/ironicbadger/nix-config) -  (2 weeks ago)
+- [ironicbadger/nix-config](https://github.com/ironicbadger/nix-config) -  (3 weeks ago)
 - [PyLabRobot/pylabrobot](https://github.com/PyLabRobot/pylabrobot) - A hardware agnostic interface and developer ecosystem for lab automation (1 month ago)
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system (1 month ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 month ago)
