@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (today)
 - [VincenzoScamarcio/main_scripts](https://github.com/VincenzoScamarcio/main_scripts) -  (5 days ago)
 - [brianchowlab/OSP](https://github.com/brianchowlab/OSP) - An Open-source Plate Reader  (1 week ago)
 - [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [PyLabRobot/pylabrobot](https://github.com/PyLabRobot/pylabrobot) - A hardware agnostic interface and developer ecosystem for lab automation (1 month ago)
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system (1 month ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 month ago)
-- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
