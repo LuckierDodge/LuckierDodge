@@ -12,10 +12,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (2 weeks ago)
 - [AD-SDL/wei_workflow_gen](https://github.com/AD-SDL/wei_workflow_gen) - Create workflows from natural language input (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 weeks ago)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 month ago)
 - [AD-SDL/hig_centrifuge_module](https://github.com/AD-SDL/hig_centrifuge_module) -  (1 month ago)
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (1 month ago)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 month ago)
 - [AD-SDL/wei2023](https://github.com/AD-SDL/wei2023) -  (1 month ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (1 month ago)
 
 ### ✍ My recent writing and projects
 
