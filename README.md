@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (today)
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom functionality, and a hell of a lot more! It&#39;s using web sockets to retrieve information from your home assistant instance so there&#39;s 0 latency! (1 week ago)
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (2 weeks ago)
 - [VincenzoScamarcio/main_scripts](https://github.com/VincenzoScamarcio/main_scripts) -  (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Dheerajkumarbuchala/cs529FinalProject](https://github.com/Dheerajkumarbuchala/cs529FinalProject) -  (1 month ago)
 - [ironicbadger/nix-config](https://github.com/ironicbadger/nix-config) -  (1 month ago)
 - [PyLabRobot/pylabrobot](https://github.com/PyLabRobot/pylabrobot) - A hardware agnostic interface and developer ecosystem for lab automation (1 month ago)
-- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
