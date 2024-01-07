@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (2 days ago)
-- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (2 days ago)
+- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (3 days ago)
+- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (3 days ago)
 - [LuckierDodge/AD-SDL-Notes](https://github.com/LuckierDodge/AD-SDL-Notes) - Personal notes related to ANL&#39;s AD-SDL Projects (1 week ago)
 - [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (3 weeks ago)
 - [AD-SDL/wei_workflow_gen](https://github.com/AD-SDL/wei_workflow_gen) - Create workflows from natural language input (3 weeks ago)
@@ -32,12 +32,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (2 days ago)
-- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom functionality, and a hell of a lot more! It&#39;s using web sockets to retrieve information from your home assistant instance so there&#39;s 0 latency! (1 week ago)
+- [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (3 days ago)
+- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom functionality, and a hell of a lot more! It&#39;s using web sockets to retrieve information from your home assistant instance so there&#39;s 0 latency! (2 weeks ago)
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (2 weeks ago)
 - [VincenzoScamarcio/main_scripts](https://github.com/VincenzoScamarcio/main_scripts) -  (3 weeks ago)
-- [brianchowlab/OSP](https://github.com/brianchowlab/OSP) - An Open-source Plate Reader  (4 weeks ago)
-- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (4 weeks ago)
+- [brianchowlab/OSP](https://github.com/brianchowlab/OSP) - An Open-source Plate Reader  (1 month ago)
+- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (1 month ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 month ago)
 - [Dheerajkumarbuchala/cs529FinalProject](https://github.com/Dheerajkumarbuchala/cs529FinalProject) -  (1 month ago)
 - [ironicbadger/nix-config](https://github.com/ironicbadger/nix-config) -  (1 month ago)
