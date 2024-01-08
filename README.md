@@ -14,8 +14,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 month ago)
 - [AD-SDL/hig_centrifuge_module](https://github.com/AD-SDL/hig_centrifuge_module) -  (1 month ago)
-- [AD-SDL/wei2023](https://github.com/AD-SDL/wei2023) -  (1 month ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - RPL workcell execution interface (1 month ago)
+- [AD-SDL/wei2023](https://github.com/AD-SDL/wei2023) -  (1 month ago)
 
 ### ✍ My recent writing and projects
 
