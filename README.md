@@ -13,8 +13,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [LuckierDodge/AD-SDL-Notes](https://github.com/LuckierDodge/AD-SDL-Notes) - Personal notes related to ANL&#39;s AD-SDL Projects (2 weeks ago)
 - [AD-SDL/wei_workflow_gen](https://github.com/AD-SDL/wei_workflow_gen) - Create workflows from natural language input (1 month ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 month ago)
 - [AD-SDL/hig_centrifuge_module](https://github.com/AD-SDL/hig_centrifuge_module) -  (1 month ago)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 month ago)
 - [AD-SDL/wei2023](https://github.com/AD-SDL/wei2023) -  (1 month ago)
 
 ### ✍ My recent writing and projects
