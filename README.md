@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [maffettone/erobs](https://github.com/maffettone/erobs) -  (4 days ago)
-- [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (5 days ago)
+- [maffettone/erobs](https://github.com/maffettone/erobs) -  (5 days ago)
+- [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (6 days ago)
 - [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (2 weeks ago)
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom functionality, and a hell of a lot more! It&#39;s using web sockets to retrieve information from your home assistant instance so there&#39;s 0 latency! (1 month ago)
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (1 month ago)
