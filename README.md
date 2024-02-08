@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (today)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (2 weeks ago)
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (3 weeks ago)
 - [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [brianchowlab/OSP](https://github.com/brianchowlab/OSP) - An Open-source Plate Reader  (2 months ago)
 - [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (2 months ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (2 months ago)
-- [Dheerajkumarbuchala/cs529FinalProject](https://github.com/Dheerajkumarbuchala/cs529FinalProject) -  (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
