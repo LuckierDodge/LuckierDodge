@@ -6,10 +6,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (1 day ago)
-- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (6 days ago)
-- [AD-SDL/rpl_workcell](https://github.com/AD-SDL/rpl_workcell) - Container for various workcells/workflows for the RPL (6 days ago)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (6 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 days ago)
+- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (1 week ago)
+- [AD-SDL/rpl_workcell](https://github.com/AD-SDL/rpl_workcell) - Container for various workcells/workflows for the RPL (1 week ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 week ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (1 week ago)
 - [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (2 weeks ago)
 - [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (2 weeks ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (2 weeks ago)
+- [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (3 weeks ago)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (1 month ago)
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (1 month ago)
 - [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (1 month ago)
@@ -41,7 +41,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [VincenzoScamarcio/main_scripts](https://github.com/VincenzoScamarcio/main_scripts) -  (2 months ago)
 - [brianchowlab/OSP](https://github.com/brianchowlab/OSP) - An Open-source Plate Reader  (2 months ago)
 - [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (2 months ago)
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (2 months ago)
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
