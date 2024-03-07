@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS! (today)
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (4 weeks ago)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (1 month ago)
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [VincenzoScamarcio/main_scripts](https://github.com/VincenzoScamarcio/main_scripts) -  (2 months ago)
 - [brianchowlab/OSP](https://github.com/brianchowlab/OSP) - An Open-source Plate Reader  (3 months ago)
 - [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (3 months ago)
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
