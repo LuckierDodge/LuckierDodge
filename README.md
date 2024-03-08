@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS! (1 day ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (1 day ago)
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (4 weeks ago)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (1 month ago)
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (1 month ago)
