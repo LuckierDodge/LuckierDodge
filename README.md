@@ -6,15 +6,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (1 day ago)
-- [AD-SDL/liconic_module](https://github.com/AD-SDL/liconic_module) -  (1 day ago)
-- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 day ago)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 day ago)
-- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (2 days ago)
-- [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (2 days ago)
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 days ago)
-- [AD-SDL/brooks_xpeel_module](https://github.com/AD-SDL/brooks_xpeel_module) -  (3 days ago)
-- [AD-SDL/a4s_sealer_module](https://github.com/AD-SDL/a4s_sealer_module) -  (3 days ago)
+- [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (2 days ago)
+- [AD-SDL/liconic_module](https://github.com/AD-SDL/liconic_module) -  (2 days ago)
+- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (2 days ago)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 days ago)
+- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (3 days ago)
+- [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (3 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (3 days ago)
+- [AD-SDL/brooks_xpeel_module](https://github.com/AD-SDL/brooks_xpeel_module) -  (4 days ago)
+- [AD-SDL/a4s_sealer_module](https://github.com/AD-SDL/a4s_sealer_module) -  (4 days ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 week ago)
 
 ### ✍ My recent writing and projects
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS! (today)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS! (1 day ago)
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (4 weeks ago)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (1 month ago)
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (1 month ago)
