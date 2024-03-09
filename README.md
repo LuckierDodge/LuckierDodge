@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (today)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (2 days ago)
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (1 month ago)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (2 months ago)
 - [VincenzoScamarcio/main_scripts](https://github.com/VincenzoScamarcio/main_scripts) -  (2 months ago)
 - [brianchowlab/OSP](https://github.com/brianchowlab/OSP) - An Open-source Plate Reader  (3 months ago)
-- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
