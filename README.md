@@ -6,16 +6,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 days ago)
-- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (6 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (3 days ago)
+- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (1 week ago)
 - [AD-SDL/liconic_module](https://github.com/AD-SDL/liconic_module) -  (1 week ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 week ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 week ago)
 - [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (1 week ago)
 - [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (1 week ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (1 week ago)
-- [AD-SDL/a4s_sealer_module](https://github.com/AD-SDL/a4s_sealer_module) -  (1 week ago)
-- [AD-SDL/brooks_xpeel_module](https://github.com/AD-SDL/brooks_xpeel_module) -  (1 week ago)
+- [AD-SDL/a4s_sealer_module](https://github.com/AD-SDL/a4s_sealer_module) -  (2 weeks ago)
+- [AD-SDL/brooks_xpeel_module](https://github.com/AD-SDL/brooks_xpeel_module) -  (2 weeks ago)
 
 ### ✍ My recent writing and projects
 
@@ -32,13 +32,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (today)
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (2 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (1 day ago)
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (3 days ago)
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (1 week ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (1 week ago)
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (1 month ago)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (1 month ago)
-- [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (1 month ago)
+- [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (2 months ago)
 - [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (2 months ago)
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom functionality, and a hell of a lot more! It&#39;s using web sockets to retrieve information from your home assistant instance so there&#39;s 0 latency! (2 months ago)
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (2 months ago)
