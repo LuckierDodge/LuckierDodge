@@ -6,11 +6,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (today)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (today)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (3 days ago)
-- [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (3 days ago)
-- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (3 days ago)
 - [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (3 days ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 days ago)
+- [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (3 days ago)
 - [AD-SDL/rpl_workcell](https://github.com/AD-SDL/rpl_workcell) - Container for various workcells/workflows for the RPL (4 days ago)
 - [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (6 days ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 weeks ago)
