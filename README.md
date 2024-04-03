@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (1 day ago)
+- [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (2 days ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 week ago)
 - [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (1 week ago)
 - [AD-SDL/webcam_module](https://github.com/AD-SDL/webcam_module) - An example module that supports taking a snapshot with a webcam or other video device. (1 week ago)
@@ -14,8 +14,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (1 week ago)
 - [AD-SDL/rpl_workcell](https://github.com/AD-SDL/rpl_workcell) - Container for various workcells/workflows for the RPL (1 week ago)
 - [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (2 weeks ago)
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (3 weeks ago)
-- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (3 weeks ago)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (4 weeks ago)
+- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (4 weeks ago)
 
 ### ✍ My recent writing and projects
 
@@ -40,7 +40,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (1 month ago)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (2 months ago)
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (2 months ago)
-- [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (2 months ago)
+- [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (3 months ago)
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom functionality, and a hell of a lot more! It&#39;s using web sockets to retrieve information from your home assistant instance so there&#39;s 0 latency! (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
