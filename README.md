@@ -13,7 +13,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (2 weeks ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 weeks ago)
 - [AD-SDL/rpl_workcell](https://github.com/AD-SDL/rpl_workcell) - Container for various workcells/workflows for the RPL (2 weeks ago)
-- [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (2 weeks ago)
+- [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (3 weeks ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 month ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
 
