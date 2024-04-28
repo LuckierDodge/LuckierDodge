@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) -  (today)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
 - [j-palindrome/obsidian-time-ruler](https://github.com/j-palindrome/obsidian-time-ruler) - A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview). (1 month ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (2 months ago)
 - [maffettone/erobs](https://github.com/maffettone/erobs) -  (3 months ago)
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) -  (3 months ago)
-- [FooBarWidget/matchhostfsowner](https://github.com/FooBarWidget/matchhostfsowner) - Solves the Docker host filesystem owner matching problem (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
