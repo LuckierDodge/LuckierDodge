@@ -14,8 +14,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/biometra_module](https://github.com/AD-SDL/biometra_module) -  (1 month ago)
 - [AD-SDL/squid_frontend](https://github.com/AD-SDL/squid_frontend) - Vue-based frontend web app for controlling Workcells (1 month ago)
 - [AD-SDL/medal](https://github.com/AD-SDL/medal) -  (1 month ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 month ago)
 - [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (1 month ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 month ago)
 
 ### ✍ My recent writing and projects
 
