@@ -32,13 +32,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024) (2 weeks ago)
+- [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024) (3 weeks ago)
 - [Minituff/nautical-backup](https://github.com/Minituff/nautical-backup) - A simple Docker volume backup tool. (1 month ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 month ago)
 - [j-palindrome/obsidian-time-ruler](https://github.com/j-palindrome/obsidian-time-ruler) - A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview). (2 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (2 months ago)
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (2 months ago)
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (3 months ago)
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (3 months ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable. (3 months ago)
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (4 months ago)
