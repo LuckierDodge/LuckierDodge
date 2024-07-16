@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (5 days ago)
-- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (5 days ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (5 days ago)
+- [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (6 days ago)
+- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (6 days ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (6 days ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (2 weeks ago)
 - [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (2 weeks ago)
@@ -36,7 +36,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Minituff/nautical-backup](https://github.com/Minituff/nautical-backup) - A simple Docker volume backup tool. (2 months ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 months ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 months ago)
-- [j-palindrome/obsidian-time-ruler](https://github.com/j-palindrome/obsidian-time-ruler) - A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview). (3 months ago)
+- [j-palindrome/obsidian-time-ruler](https://github.com/j-palindrome/obsidian-time-ruler) - A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview). (4 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models. (4 months ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (4 months ago)
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (4 months ago)
