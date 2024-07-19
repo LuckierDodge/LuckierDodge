@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/biomedal_workcell](https://github.com/AD-SDL/biomedal_workcell) - A general purpose workcell in Building 446 for biology and training purposes. (today)
+- [AD-SDL/biomedal_workcell](https://github.com/AD-SDL/biomedal_workcell) - A general purpose workcell in Building 446 for biology and training purposes. (1 day ago)
 - [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (1 week ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 week ago)
 - [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (1 week ago)
@@ -14,7 +14,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (3 weeks ago)
 - [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (3 weeks ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (3 weeks ago)
-- [AD-SDL/a4s_sealer_module](https://github.com/AD-SDL/a4s_sealer_module) -  (4 weeks ago)
+- [AD-SDL/a4s_sealer_module](https://github.com/AD-SDL/a4s_sealer_module) -  (1 month ago)
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (1 month ago)
 
 ### ✍ My recent writing and projects
