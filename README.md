@@ -6,13 +6,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (2 days ago)
-- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (5 days ago)
+- [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (3 days ago)
+- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (6 days ago)
 - [AD-SDL/biomedal_workcell](https://github.com/AD-SDL/biomedal_workcell) - A general purpose workcell in Building 446 for biology and training purposes. (2 weeks ago)
 - [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (3 weeks ago)
 - [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (3 weeks ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 weeks ago)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 weeks ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (4 weeks ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (1 month ago)
 - [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (1 month ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (1 month ago)
@@ -40,7 +40,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (4 months ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (4 months ago)
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (4 months ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (4 months ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (5 months ago)
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application (5 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
