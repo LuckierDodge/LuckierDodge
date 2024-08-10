@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 day ago)
-- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (4 days ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (2 days ago)
+- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (5 days ago)
 - [AD-SDL/hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) - A python driver for the platecrane and sciclops instruments (1 week ago)
 - [AD-SDL/biomedal_workcell](https://github.com/AD-SDL/biomedal_workcell) - A general purpose workcell in Building 446 for biology and training purposes. (3 weeks ago)
 - [AD-SDL/sleep_module](https://github.com/AD-SDL/sleep_module) - An example module that implements a basic sleep(t) function (1 month ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [VentionCo/mm-python-api](https://github.com/VentionCo/mm-python-api) - MachineMotion Python API (today)
+- [VentionCo/mm-python-api](https://github.com/VentionCo/mm-python-api) - MachineMotion Python API (1 day ago)
 - [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024) (2 months ago)
 - [Minituff/nautical-backup](https://github.com/Minituff/nautical-backup) - A simple Docker volume backup tool. (2 months ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 months ago)
