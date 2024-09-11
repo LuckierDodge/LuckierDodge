@@ -13,8 +13,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (2 weeks ago)
 - [AD-SDL/liconic_module](https://github.com/AD-SDL/liconic_module) -  (2 weeks ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (3 weeks ago)
-- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (1 month ago)
 - [AD-SDL/pe_icp_module](https://github.com/AD-SDL/pe_icp_module) - A module for automatted control of a PerkinsElmer ICP, powered by WEI. (1 month ago)
+- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (1 month ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 month ago)
 
 ### ✍ My recent writing and projects
