@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (today)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (today)
+- [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (1 day ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 day ago)
 - [AD-SDL/biomedal_workcell](https://github.com/AD-SDL/biomedal_workcell) - A general purpose workcell in Building 446 for biology and training purposes. (1 week ago)
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (1 week ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 weeks ago)
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [sid5432/8020parts](https://github.com/sid5432/8020parts) - Some Openscad models for 8020.net parts  (3 days ago)
-- [robobenjie/posetree](https://github.com/robobenjie/posetree) - A python library for handling poses, transforms and frames for robotics applications (3 weeks ago)
+- [sid5432/8020parts](https://github.com/sid5432/8020parts) - Some Openscad models for 8020.net parts  (4 days ago)
+- [robobenjie/posetree](https://github.com/robobenjie/posetree) - A python library for handling poses, transforms and frames for robotics applications (4 weeks ago)
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier. (1 month ago)
 - [VentionCo/mm-python-api](https://github.com/VentionCo/mm-python-api) - MachineMotion Python API (1 month ago)
 - [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024) (3 months ago)
@@ -41,7 +41,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 months ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 months ago)
 - [j-palindrome/obsidian-time-ruler](https://github.com/j-palindrome/obsidian-time-ruler) - A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview). (5 months ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (5 months ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (6 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
