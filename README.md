@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (today)
+- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 day ago)
 - [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (1 week ago)
 - [AD-SDL/hidex_module](https://github.com/AD-SDL/hidex_module) -  (2 weeks ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (2 weeks ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [rcolyer/threads-scad](https://github.com/rcolyer/threads-scad) - OpenSCAD threading library (2 days ago)
+- [rcolyer/threads-scad](https://github.com/rcolyer/threads-scad) - OpenSCAD threading library (3 days ago)
 - [sid5432/8020parts](https://github.com/sid5432/8020parts) - Some Openscad models for 8020.net parts  (3 weeks ago)
 - [robobenjie/posetree](https://github.com/robobenjie/posetree) - A python library for handling poses, transforms and frames for robotics applications (1 month ago)
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier. (1 month ago)
