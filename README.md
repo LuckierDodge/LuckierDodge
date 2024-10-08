@@ -6,7 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/vention_rail_module](https://github.com/AD-SDL/vention_rail_module) - A repository to for the Vention Rail interfaces (5 days ago)
+- [AD-SDL/aarl200_workcell](https://github.com/AD-SDL/aarl200_workcell) - Workcell for the AARL-200 Autonomous Laboratory Workcell (today)
+- [AD-SDL/vention_rail_module](https://github.com/AD-SDL/vention_rail_module) - A repository to for the Vention Rail interfaces (today)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 week ago)
 - [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (2 weeks ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (3 weeks ago)
@@ -15,7 +16,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (1 month ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (1 month ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (1 month ago)
-- [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (1 month ago)
 
 ### ✍ My recent writing and projects
 
