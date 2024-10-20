@@ -6,10 +6,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (2 days ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 days ago)
-- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (3 days ago)
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (3 days ago)
+- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (3 days ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (4 days ago)
+- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (4 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (4 days ago)
 - [AD-SDL/aarl200_workcell](https://github.com/AD-SDL/aarl200_workcell) - Workcell for the AARL-200 Autonomous Laboratory Workcell (1 week ago)
 - [AD-SDL/vention_rail_module](https://github.com/AD-SDL/vention_rail_module) - A repository to for the Vention Rail interfaces (1 week ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (2 weeks ago)
@@ -38,7 +38,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [robobenjie/posetree](https://github.com/robobenjie/posetree) - A python library for handling poses, transforms and frames for robotics applications (2 months ago)
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier. (2 months ago)
 - [VentionCo/mm-python-api](https://github.com/VentionCo/mm-python-api) - MachineMotion Python API (2 months ago)
-- [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024) (4 months ago)
+- [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024) (5 months ago)
 - [Minituff/nautical-backup](https://github.com/Minituff/nautical-backup) - A simple Docker volume backup tool. (5 months ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (5 months ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 months ago)
