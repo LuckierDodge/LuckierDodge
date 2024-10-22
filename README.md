@@ -6,12 +6,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (4 days ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (5 days ago)
-- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (5 days ago)
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (5 days ago)
-- [AD-SDL/aarl200_workcell](https://github.com/AD-SDL/aarl200_workcell) - Workcell for the AARL-200 Autonomous Laboratory Workcell (1 week ago)
-- [AD-SDL/vention_rail_module](https://github.com/AD-SDL/vention_rail_module) - A repository to for the Vention Rail interfaces (1 week ago)
+- [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (5 days ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (6 days ago)
+- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (6 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (6 days ago)
+- [AD-SDL/aarl200_workcell](https://github.com/AD-SDL/aarl200_workcell) - Workcell for the AARL-200 Autonomous Laboratory Workcell (2 weeks ago)
+- [AD-SDL/vention_rail_module](https://github.com/AD-SDL/vention_rail_module) - A repository to for the Vention Rail interfaces (2 weeks ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (3 weeks ago)
 - [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (1 month ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 month ago)
@@ -28,11 +28,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (3 years ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (3 years ago)
 - [🖊 Graphics Modeling](https://ryandlewis.dev/projects/graphics/) (3 years ago)
-- [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (3 years ago)
+- [Personal Notes from ROS World 2020](https://ryandlewis.dev/posts/rosworld2020/) (4 years ago)
 
 ### ⭐ Things I've starred lately
 
-- [alaamaalouf/FollowAnything](https://github.com/alaamaalouf/FollowAnything) -  (today)
+- [alaamaalouf/FollowAnything](https://github.com/alaamaalouf/FollowAnything) -  (1 day ago)
 - [CederGroupHub/alabos](https://github.com/CederGroupHub/alabos) - AlabOS: Managing the workflows in the Autonomous lab (2 weeks ago)
 - [rcolyer/threads-scad](https://github.com/rcolyer/threads-scad) - OpenSCAD threading library (3 weeks ago)
 - [sid5432/8020parts](https://github.com/sid5432/8020parts) - Some Openscad models for 8020.net parts  (1 month ago)
