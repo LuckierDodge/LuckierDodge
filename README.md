@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (6 days ago)
 - [AD-SDL/pe_icp_module](https://github.com/AD-SDL/pe_icp_module) - A module for automatted control of a PerkinsElmer ICP, powered by WEI. (6 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (6 days ago)
 - [AD-SDL/aarl200_workcell](https://github.com/AD-SDL/aarl200_workcell) - Workcell for the AARL-200 Autonomous Laboratory Workcell (2 weeks ago)
 - [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (2 weeks ago)
 - [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (3 weeks ago)
