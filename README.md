@@ -11,7 +11,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (1 month ago)
 - [AD-SDL/pe_icp_module](https://github.com/AD-SDL/pe_icp_module) - A module for automatted control of a PerkinsElmer ICP, powered by WEI. (1 month ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (1 month ago)
-- [AD-SDL/aarl200_workcell](https://github.com/AD-SDL/aarl200_workcell) - Workcell for the AARL-200 Autonomous Laboratory Workcell (1 month ago)
+- [AD-SDL/aarl200_workcell](https://github.com/AD-SDL/aarl200_workcell) - Workcell for the AARL-200 Autonomous Laboratory Workcell (2 months ago)
 - [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (2 months ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (2 months ago)
 - [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (2 months ago)
@@ -32,10 +32,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome (1 day ago)
+- [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome (2 days ago)
 - [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) - Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose (3 weeks ago)
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (1 month ago)
-- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 month ago)
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (2 months ago)
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 months ago)
 - [alaamaalouf/FollowAnything](https://github.com/alaamaalouf/FollowAnything) -  (2 months ago)
 - [CederGroupHub/alabos](https://github.com/CederGroupHub/alabos) - AlabOS: Managing the workflows in the Autonomous lab (2 months ago)
 - [rcolyer/threads-scad](https://github.com/rcolyer/threads-scad) - OpenSCAD threading library (2 months ago)
