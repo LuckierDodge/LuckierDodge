@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (today)
 - [ironicbadger/gctest](https://github.com/ironicbadger/gctest) -  (2 days ago)
 - [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome (1 week ago)
 - [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) - Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose (4 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [CederGroupHub/alabos](https://github.com/CederGroupHub/alabos) - AlabOS: Managing the workflows in the Autonomous lab (2 months ago)
 - [rcolyer/threads-scad](https://github.com/rcolyer/threads-scad) - OpenSCAD threading library (3 months ago)
 - [sid5432/8020parts](https://github.com/sid5432/8020parts) - Some Openscad models for 8020.net parts  (3 months ago)
-- [robobenjie/posetree](https://github.com/robobenjie/posetree) - A python library for handling poses, transforms and frames for robotics applications (4 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
