@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/house-hack-ruleset-0e](https://github.com/LuckierDodge/house-hack-ruleset-0e) - A hacked together ruleset for running your own Fantasy RPG (1 day ago)
+- [LuckierDodge/house-hack-ruleset-0e](https://github.com/LuckierDodge/house-hack-ruleset-0e) - A hacked together ruleset for running your own Fantasy RPG (2 days ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (4 weeks ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 month ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (1 month ago)
@@ -32,10 +32,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (today)
-- [ironicbadger/gctest](https://github.com/ironicbadger/gctest) -  (2 days ago)
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (1 day ago)
+- [ironicbadger/gctest](https://github.com/ironicbadger/gctest) -  (3 days ago)
 - [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome (1 week ago)
-- [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) - Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose (4 weeks ago)
+- [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) - Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose (1 month ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (2 months ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 months ago)
 - [alaamaalouf/FollowAnything](https://github.com/alaamaalouf/FollowAnything) -  (2 months ago)
