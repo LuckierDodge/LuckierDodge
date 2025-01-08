@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (today)
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory. (6 days ago)
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (1 week ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (2 months ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 months ago)
 - [alaamaalouf/FollowAnything](https://github.com/alaamaalouf/FollowAnything) -  (2 months ago)
-- [CederGroupHub/alabos](https://github.com/CederGroupHub/alabos) - AlabOS: Managing the workflows in the Autonomous lab (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
