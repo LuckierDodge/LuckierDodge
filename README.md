@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (today)
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory. (6 days ago)
+- [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (1 day ago)
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory. (1 week ago)
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (1 week ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (1 week ago)
 - [ironicbadger/gctest](https://github.com/ironicbadger/gctest) -  (1 week ago)
