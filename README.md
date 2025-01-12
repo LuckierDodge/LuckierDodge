@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (today)
 - [veekaybee/viberary](https://github.com/veekaybee/viberary) - Good books, good vibes (3 days ago)
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app (3 days ago)
 - [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (4 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [ironicbadger/gctest](https://github.com/ironicbadger/gctest) -  (2 weeks ago)
 - [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome (3 weeks ago)
 - [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) - Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose (1 month ago)
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
