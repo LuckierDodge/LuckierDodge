@@ -14,8 +14,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 months ago)
 - [AD-SDL/aarl200_workcell](https://github.com/AD-SDL/aarl200_workcell) - Workcell for the AARL-200 Autonomous Laboratory Workcell (2 months ago)
 - [AD-SDL/python_template_module](https://github.com/AD-SDL/python_template_module) - A template module, implemented in python, for integrating a device into a WEI workcell (2 months ago)
-- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (3 months ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 months ago)
+- [AD-SDL/wei_template_workcell](https://github.com/AD-SDL/wei_template_workcell) -  (3 months ago)
 
 ### ✍ My recent writing and projects
 
