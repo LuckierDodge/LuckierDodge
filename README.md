@@ -8,7 +8,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [LuckierDodge/house-hack-ruleset-0e](https://github.com/LuckierDodge/house-hack-ruleset-0e) - A hacked together ruleset for running your own Fantasy RPG (2 weeks ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (1 month ago)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (1 month ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (2 months ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (2 months ago)
 - [AD-SDL/pe_icp_module](https://github.com/AD-SDL/pe_icp_module) - A module for automatted control of a PerkinsElmer ICP, powered by WEI. (2 months ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 months ago)
@@ -32,15 +32,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT) (today)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (5 days ago)
+- [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT) (1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (6 days ago)
 - [veekaybee/viberary](https://github.com/veekaybee/viberary) - Good books, good vibes (1 week ago)
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app (1 week ago)
 - [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (1 week ago)
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory. (2 weeks ago)
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (2 weeks ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (2 weeks ago)
-- [ironicbadger/gctest](https://github.com/ironicbadger/gctest) -  (2 weeks ago)
+- [ironicbadger/gctest](https://github.com/ironicbadger/gctest) -  (3 weeks ago)
 - [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
