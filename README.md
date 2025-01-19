@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (today)
-- [LuckierDodge/house-hack-ruleset-0e](https://github.com/LuckierDodge/house-hack-ruleset-0e) - A hacked together ruleset for running your own Fantasy RPG (2 weeks ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 day ago)
+- [LuckierDodge/house-hack-ruleset-0e](https://github.com/LuckierDodge/house-hack-ruleset-0e) - A hacked together ruleset for running your own Fantasy RPG (3 weeks ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (1 month ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (2 months ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (2 months ago)
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT) (1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (6 days ago)
+- [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT) (2 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 week ago)
 - [veekaybee/viberary](https://github.com/veekaybee/viberary) - Good books, good vibes (1 week ago)
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app (1 week ago)
 - [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (1 week ago)
@@ -41,7 +41,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (2 weeks ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (2 weeks ago)
 - [ironicbadger/gctest](https://github.com/ironicbadger/gctest) -  (3 weeks ago)
-- [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome (3 weeks ago)
+- [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome (4 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
