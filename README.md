@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (4 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (5 days ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [LuckierDodge/house-hack-ruleset-0e](https://github.com/LuckierDodge/house-hack-ruleset-0e) - A hacked together ruleset for running your own Fantasy RPG (4 weeks ago)
@@ -32,10 +32,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (2 days ago)
-- [p2p-ld/numpydantic](https://github.com/p2p-ld/numpydantic) - Type annotations for specifying, validating, and serializing arrays with arbitrary backends in Pydantic (and beyond) (3 days ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 days ago)
-- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (5 days ago)
+- [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (3 days ago)
+- [p2p-ld/numpydantic](https://github.com/p2p-ld/numpydantic) - Type annotations for specifying, validating, and serializing arrays with arbitrary backends in Pydantic (and beyond) (4 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (4 days ago)
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (6 days ago)
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT) (1 week ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 weeks ago)
 - [veekaybee/viberary](https://github.com/veekaybee/viberary) - Good books, good vibes (2 weeks ago)
