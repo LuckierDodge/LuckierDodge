@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (today)
 - [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (3 days ago)
 - [p2p-ld/numpydantic](https://github.com/p2p-ld/numpydantic) - Type annotations for specifying, validating, and serializing arrays with arbitrary backends in Pydantic (and beyond) (4 days ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (4 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [veekaybee/viberary](https://github.com/veekaybee/viberary) - Good books, good vibes (2 weeks ago)
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app (2 weeks ago)
 - [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop (2 weeks ago)
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory. (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
