@@ -6,10 +6,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (2 days ago)
-- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (5 days ago)
+- [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (3 days ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (6 days ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (1 week ago)
-- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (1 week ago)
+- [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 weeks ago)
 - [LuckierDodge/house-hack-ruleset-0e](https://github.com/LuckierDodge/house-hack-ruleset-0e) - A hacked together ruleset for running your own Fantasy RPG (1 month ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - Driver repo for the OT2 drivers  (2 months ago)
@@ -28,19 +28,19 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (2 years ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (3 years ago)
 - [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (3 years ago)
-- [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (3 years ago)
+- [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (4 years ago)
 
 ### ⭐ Things I've starred lately
 
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (today)
-- [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk) - A simple Raspberry Pi Kiosk app (4 days ago)
-- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (5 days ago)
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (1 day ago)
+- [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk) - A simple Raspberry Pi Kiosk app (5 days ago)
+- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (6 days ago)
 - [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (1 week ago)
 - [p2p-ld/numpydantic](https://github.com/p2p-ld/numpydantic) - Type annotations for specifying, validating, and serializing arrays with arbitrary backends in Pydantic (and beyond) (1 week ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 week ago)
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (1 week ago)
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT) (2 weeks ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 weeks ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (3 weeks ago)
 - [veekaybee/viberary](https://github.com/veekaybee/viberary) - Good books, good vibes (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
