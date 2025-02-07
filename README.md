@@ -27,20 +27,20 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (2 years ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (2 years ago)
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker/) (3 years ago)
-- [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (3 years ago)
+- [⌨ MCK142Pro.ahk](https://ryandlewis.dev/projects/mck142pro/) (4 years ago)
 - [Extending an Old-school Programmable Keyboard with AutoHotKey](https://ryandlewis.dev/posts/mck142pro/) (4 years ago)
 
 ### ⭐ Things I've starred lately
 
-- [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (1 day ago)
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (5 days ago)
+- [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (2 days ago)
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (6 days ago)
 - [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk) - A simple Raspberry Pi Kiosk app (1 week ago)
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (1 week ago)
-- [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (1 week ago)
+- [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (2 weeks ago)
 - [p2p-ld/numpydantic](https://github.com/p2p-ld/numpydantic) - Type annotations for specifying, validating, and serializing arrays with arbitrary backends in Pydantic (and beyond) (2 weeks ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 weeks ago)
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (2 weeks ago)
-- [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT) (2 weeks ago)
+- [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT) (3 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
