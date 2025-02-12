@@ -8,7 +8,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (1 week ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 weeks ago)
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (2 weeks ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (3 weeks ago)
 - [LuckierDodge/website](https://github.com/LuckierDodge/website) - My personal website (3 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 weeks ago)
 - [LuckierDodge/house-hack-ruleset-0e](https://github.com/LuckierDodge/house-hack-ruleset-0e) - A hacked together ruleset for running your own Fantasy RPG (1 month ago)
@@ -32,9 +32,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (1 day ago)
-- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (3 days ago)
-- [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (6 days ago)
+- [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (2 days ago)
+- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (4 days ago)
+- [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (1 week ago)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (1 week ago)
 - [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk) - A simple Raspberry Pi Kiosk app (2 weeks ago)
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (2 weeks ago)
