@@ -32,13 +32,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (3 days ago)
-- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (5 days ago)
+- [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (4 days ago)
+- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (6 days ago)
 - [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (1 week ago)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (1 week ago)
 - [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk) - A simple Raspberry Pi Kiosk app (2 weeks ago)
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (2 weeks ago)
-- [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (2 weeks ago)
+- [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (3 weeks ago)
 - [p2p-ld/numpydantic](https://github.com/p2p-ld/numpydantic) - Type annotations for specifying, validating, and serializing arrays with arbitrary backends in Pydantic (and beyond) (3 weeks ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 weeks ago)
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (3 weeks ago)
