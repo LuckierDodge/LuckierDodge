@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (today)
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (1 week ago)
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (1 week ago)
 - [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [runevision/Dither3D](https://github.com/runevision/Dither3D) - Surface-Stable Fractal Dithering (3 weeks ago)
 - [p2p-ld/numpydantic](https://github.com/p2p-ld/numpydantic) - Type annotations for specifying, validating, and serializing arrays with arbitrary backends in Pydantic (and beyond) (3 weeks ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 weeks ago)
-- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (4 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
