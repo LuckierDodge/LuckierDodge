@@ -1,6 +1,6 @@
 ## 👋 Hallo!
 
-I'm Ryan, a Software Developer, Roboticist, Researcher, and well-rounded nerd who wears many hats, both figuratively and literally.
+I'm Ryan, a Software Developer, Roboticist, Researcher, Student, and well-rounded nerd who wears many hats, both figuratively and literally.
 
 You can learn more about me at my [website](https://ryandlewis.dev), or check out some fun metrics below!
 
