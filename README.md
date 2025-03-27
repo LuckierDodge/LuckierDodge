@@ -7,6 +7,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### 💻 Stuff I've been working on
 
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (today)
+- [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (today)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (6 days ago)
 - [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (6 days ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 week ago)
@@ -15,7 +16,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/biomedal_workcell](https://github.com/AD-SDL/biomedal_workcell) - A general purpose workcell in Building 446 for biology and training purposes. (1 month ago)
 - [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (1 month ago)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (1 month ago)
-- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
 
 ### ✍ My recent writing and projects
 
