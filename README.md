@@ -15,7 +15,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [schireson/pytest-mock-resources](https://github.com/schireson/pytest-mock-resources) - Pytest Fixtures that let you actually test against external resource (Postgres, Mongo, Redshift...) dependent code. (3 weeks ago)
 - [AD-SDL/biomedal_workcell](https://github.com/AD-SDL/biomedal_workcell) - A general purpose workcell in Building 446 for biology and training purposes. (1 month ago)
 - [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (2 months ago)
-- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (2 months ago)
+- [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (2 months ago)
 
 ### ✍ My recent writing and projects
 
