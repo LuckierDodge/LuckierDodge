@@ -6,16 +6,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (today)
 - [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (2 days ago)
 - [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (3 days ago)
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MAD Sci) Framework (5 days ago)
 - [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (1 week ago)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 weeks ago)
 - [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (2 weeks ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 weeks ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (2 weeks ago)
+- [AD-SDL/rpl_sdl](https://github.com/AD-SDL/rpl_sdl) - Code and config for the Rapid Protoyping Laboratories in-house Self-Driving Lab (3 weeks ago)
 - [schireson/pytest-mock-resources](https://github.com/schireson/pytest-mock-resources) - Pytest Fixtures that let you actually test against external resource (Postgres, Mongo, Redshift...) dependent code. (1 month ago)
 - [AD-SDL/biomedal_workcell](https://github.com/AD-SDL/biomedal_workcell) - A general purpose workcell in Building 446 for biology and training purposes. (1 month ago)
-- [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (2 months ago)
 
 ### ✍ My recent writing and projects
 
