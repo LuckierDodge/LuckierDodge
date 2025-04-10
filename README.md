@@ -6,15 +6,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (today)
-- [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (today)
-- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (2 days ago)
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 days ago)
-- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (4 days ago)
-- [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (1 week ago)
+- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 day ago)
+- [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (1 day ago)
+- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (3 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 days ago)
+- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (5 days ago)
+- [AD-SDL/x4_workcell](https://github.com/AD-SDL/x4_workcell) - Workcell for controlling the X4 Exemplar experiment (2 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 weeks ago)
 - [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (2 weeks ago)
-- [AD-SDL/rpl_sdl](https://github.com/AD-SDL/rpl_sdl) - Code and config for the Rapid Protoyping Laboratories in-house Self-Driving Lab (3 weeks ago)
+- [AD-SDL/rpl_sdl](https://github.com/AD-SDL/rpl_sdl) - Code and config for the Rapid Protoyping Laboratories in-house Self-Driving Lab (4 weeks ago)
 - [schireson/pytest-mock-resources](https://github.com/schireson/pytest-mock-resources) - Pytest Fixtures that let you actually test against external resource (Postgres, Mongo, Redshift...) dependent code. (1 month ago)
 
 ### ✍ My recent writing and projects
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (1 week ago)
+- [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (2 weeks ago)
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (1 month ago)
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (1 month ago)
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (2 months ago)
