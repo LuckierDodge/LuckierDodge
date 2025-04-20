@@ -6,13 +6,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (2 days ago)
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (4 days ago)
-- [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (4 days ago)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (4 days ago)
-- [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (5 days ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (5 days ago)
-- [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (6 days ago)
+- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (3 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (5 days ago)
+- [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (5 days ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (5 days ago)
+- [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (6 days ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (6 days ago)
+- [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (1 week ago)
 - [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (1 week ago)
 - [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 week ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 week ago)
@@ -33,7 +33,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### ⭐ Things I've starred lately
 
 - [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (3 weeks ago)
-- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (1 month ago)
+- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (2 months ago)
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (2 months ago)
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (2 months ago)
 - [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (2 months ago)
