@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image (today)
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code. (today)
 - [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (2 months ago)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. (2 months ago)
 - [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk) - A simple Raspberry Pi Kiosk app (2 months ago)
-- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
