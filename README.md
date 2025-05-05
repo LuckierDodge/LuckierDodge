@@ -6,6 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (today)
 - [AD-SDL/vention_rail_module](https://github.com/AD-SDL/vention_rail_module) - A repository to for the Vention Rail interfaces (today)
 - [AD-SDL/wei](https://github.com/AD-SDL/wei) - The Workcell Execution Interface (WEI) for Autonomous Discovery/Self Driving Laboratories (AD/SDLs) (3 days ago)
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (5 days ago)
@@ -14,7 +15,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (2 weeks ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (2 weeks ago)
 - [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (3 weeks ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 weeks ago)
 - [AD-SDL/rpl_cad](https://github.com/AD-SDL/rpl_cad) - Various designs created by the RPL to solve problems while building Autonomous Laboratories (3 weeks ago)
 
 ### ✍ My recent writing and projects
