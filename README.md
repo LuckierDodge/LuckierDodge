@@ -32,13 +32,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export) - Export your Pydantic settings to documentation with ease! (6 days ago)
-- [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100 (2 weeks ago)
+- [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export) - Export your Pydantic settings to documentation with ease! (1 week ago)
+- [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100 (3 weeks ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 weeks ago)
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image (3 weeks ago)
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code. (3 weeks ago)
 - [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (1 month ago)
-- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (2 months ago)
+- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (3 months ago)
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (3 months ago)
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (3 months ago)
 - [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (3 months ago)
