@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [seeddisperser/kelmscott-mono](https://github.com/seeddisperser/kelmscott-mono) - A black letter for the text editor (today)
 - [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export) - Export your Pydantic settings to documentation with ease! (1 week ago)
 - [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100 (3 weeks ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (3 months ago)
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display. (3 months ago)
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. (3 months ago)
-- [mikeferguson/graceful_controller](https://github.com/mikeferguson/graceful_controller) - A better local controller for ROS Navigation. (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
