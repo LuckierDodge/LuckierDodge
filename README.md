@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (4 days ago)
+- [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (5 days ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 weeks ago)
 - [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (2 weeks ago)
 - [AD-SDL/AMEWS_big_kahuna_code](https://github.com/AD-SDL/AMEWS_big_kahuna_code) -  (2 weeks ago)
@@ -32,11 +32,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers. (today)
-- [DRMacIver/notebook](https://github.com/DRMacIver/notebook) -  (3 days ago)
-- [seeddisperser/kelmscott-mono](https://github.com/seeddisperser/kelmscott-mono) - A black letter for the text editor (4 days ago)
-- [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export) - Export your Pydantic settings to documentation with ease! (1 week ago)
-- [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100 (3 weeks ago)
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers. (1 day ago)
+- [DRMacIver/notebook](https://github.com/DRMacIver/notebook) -  (4 days ago)
+- [seeddisperser/kelmscott-mono](https://github.com/seeddisperser/kelmscott-mono) - A black letter for the text editor (5 days ago)
+- [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export) - Export your Pydantic settings to documentation with ease! (2 weeks ago)
+- [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100 (4 weeks ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 month ago)
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image (1 month ago)
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code. (1 month ago)
