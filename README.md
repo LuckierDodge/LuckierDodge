@@ -6,12 +6,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (2 days ago)
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 days ago)
-- [AD-SDL/redoxmer_python_kinetics_analysis](https://github.com/AD-SDL/redoxmer_python_kinetics_analysis) -  (5 days ago)
-- [AD-SDL/redoxmer_ot2_software](https://github.com/AD-SDL/redoxmer_ot2_software) -  (5 days ago)
-- [AD-SDL/redoxmer_igor_kinetics_processing](https://github.com/AD-SDL/redoxmer_igor_kinetics_processing) -  (5 days ago)
-- [AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm](https://github.com/AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm) -  (5 days ago)
+- [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (3 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 days ago)
+- [AD-SDL/redoxmer_python_kinetics_analysis](https://github.com/AD-SDL/redoxmer_python_kinetics_analysis) -  (6 days ago)
+- [AD-SDL/redoxmer_ot2_software](https://github.com/AD-SDL/redoxmer_ot2_software) -  (6 days ago)
+- [AD-SDL/redoxmer_igor_kinetics_processing](https://github.com/AD-SDL/redoxmer_igor_kinetics_processing) -  (6 days ago)
+- [AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm](https://github.com/AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm) -  (6 days ago)
 - [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (1 week ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (1 week ago)
 - [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (4 weeks ago)
@@ -22,7 +22,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [🦑 The Modular Autonomous Discovery for Science (MADSci) Framework](https://ryandlewis.dev/projects/madsci/) (7 months ago)
 - [🧪 The Workflow Execution Interface (WEI)](https://ryandlewis.dev/projects/wei/) (2 years ago)
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch/) (2 years ago)
-- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (2 years ago)
+- [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027/) (3 years ago)
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026/) (3 years ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog/) (3 years ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker/) (3 years ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers. (1 week ago)
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers. (2 weeks ago)
 - [DRMacIver/notebook](https://github.com/DRMacIver/notebook) -  (2 weeks ago)
 - [seeddisperser/kelmscott-mono](https://github.com/seeddisperser/kelmscott-mono) - A black letter for the text editor (2 weeks ago)
 - [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export) - Export your Pydantic settings to documentation with ease! (3 weeks ago)
