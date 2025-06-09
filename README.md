@@ -6,16 +6,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [AD-SDL/redoxmer_machine_readable_tables](https://github.com/AD-SDL/redoxmer_machine_readable_tables) -  (today)
 - [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (3 days ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 days ago)
 - [AD-SDL/redoxmer_python_kinetics_analysis](https://github.com/AD-SDL/redoxmer_python_kinetics_analysis) -  (6 days ago)
 - [AD-SDL/redoxmer_ot2_software](https://github.com/AD-SDL/redoxmer_ot2_software) -  (6 days ago)
-- [AD-SDL/redoxmer_igor_kinetics_processing](https://github.com/AD-SDL/redoxmer_igor_kinetics_processing) -  (6 days ago)
 - [AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm](https://github.com/AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm) -  (6 days ago)
+- [AD-SDL/redoxmer_igor_kinetics_processing](https://github.com/AD-SDL/redoxmer_igor_kinetics_processing) -  (6 days ago)
 - [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (1 week ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (1 week ago)
 - [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (4 weeks ago)
-- [AD-SDL/AMEWS_big_kahuna_code](https://github.com/AD-SDL/AMEWS_big_kahuna_code) -  (1 month ago)
 
 ### ✍ My recent writing and projects
 
