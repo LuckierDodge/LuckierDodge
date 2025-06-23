@@ -8,12 +8,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (6 days ago)
 - [AD-SDL/redoxmer_machine_readable_tables](https://github.com/AD-SDL/redoxmer_machine_readable_tables) -  (2 weeks ago)
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 weeks ago)
 - [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (2 weeks ago)
-- [AD-SDL/redoxmer_igor_kinetics_processing](https://github.com/AD-SDL/redoxmer_igor_kinetics_processing) -  (2 weeks ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 weeks ago)
 - [AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm](https://github.com/AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm) -  (2 weeks ago)
-- [AD-SDL/redoxmer_ot2_software](https://github.com/AD-SDL/redoxmer_ot2_software) -  (2 weeks ago)
 - [AD-SDL/redoxmer_python_kinetics_analysis](https://github.com/AD-SDL/redoxmer_python_kinetics_analysis) -  (2 weeks ago)
+- [AD-SDL/redoxmer_igor_kinetics_processing](https://github.com/AD-SDL/redoxmer_igor_kinetics_processing) -  (2 weeks ago)
+- [AD-SDL/redoxmer_ot2_software](https://github.com/AD-SDL/redoxmer_ot2_software) -  (2 weeks ago)
 - [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A client for the hudson solo using C# (3 weeks ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (3 weeks ago)
 
