@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [pollen-robotics/AmazingHand](https://github.com/pollen-robotics/AmazingHand) - Code and model to control the AH! (today)
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers. (1 month ago)
 - [DRMacIver/notebook](https://github.com/DRMacIver/notebook) -  (1 month ago)
 - [seeddisperser/kelmscott-mono](https://github.com/seeddisperser/kelmscott-mono) - A black letter for the text editor (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image (2 months ago)
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code. (2 months ago)
 - [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) - LibVirt domain management for Nix (3 months ago)
-- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (4 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
