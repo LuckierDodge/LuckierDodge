@@ -13,8 +13,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (3 weeks ago)
 - [AD-SDL/redoxmer_machine_readable_tables](https://github.com/AD-SDL/redoxmer_machine_readable_tables) -  (1 month ago)
 - [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (1 month ago)
-- [AD-SDL/redoxmer_python_kinetics_analysis](https://github.com/AD-SDL/redoxmer_python_kinetics_analysis) -  (1 month ago)
 - [AD-SDL/redoxmer_ot2_software](https://github.com/AD-SDL/redoxmer_ot2_software) -  (1 month ago)
+- [AD-SDL/redoxmer_igor_kinetics_processing](https://github.com/AD-SDL/redoxmer_igor_kinetics_processing) -  (1 month ago)
 - [AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm](https://github.com/AD-SDL/redoxmer_igor_modeling_with_genetic_algorithm) -  (1 month ago)
 
 ### ✍ My recent writing and projects
