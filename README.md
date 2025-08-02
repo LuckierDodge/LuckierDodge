@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 days ago)
-- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (4 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (4 days ago)
+- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (5 days ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (2 weeks ago)
 - [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (3 weeks ago)
 - [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (1 month ago)
@@ -15,7 +15,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (1 month ago)
 - [AD-SDL/redoxmer_machine_readable_tables](https://github.com/AD-SDL/redoxmer_machine_readable_tables) -  (1 month ago)
 - [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (1 month ago)
-- [AD-SDL/redoxmer_python_kinetics_analysis](https://github.com/AD-SDL/redoxmer_python_kinetics_analysis) -  (1 month ago)
+- [AD-SDL/redoxmer_python_kinetics_analysis](https://github.com/AD-SDL/redoxmer_python_kinetics_analysis) -  (2 months ago)
 
 ### ✍ My recent writing and projects
 
@@ -32,10 +32,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (1 day ago)
-- [AccelerationConsortium/ac-training-lab](https://github.com/AccelerationConsortium/ac-training-lab) - Codebase for controlling and managing the Acceleration Consortium (AC) Training Lab. (1 day ago)
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 days ago)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (4 days ago)
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (2 days ago)
+- [AccelerationConsortium/ac-training-lab](https://github.com/AccelerationConsortium/ac-training-lab) - Codebase for controlling and managing the Acceleration Consortium (AC) Training Lab. (2 days ago)
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (4 days ago)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (5 days ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (1 week ago)
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. (1 week ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (1 week ago)
