@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 week ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (today)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 week ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (3 weeks ago)
 - [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (3 weeks ago)
