@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [swarm-workflows/SwarmAgents](https://github.com/swarm-workflows/SwarmAgents) - Multi agent consensus for Job Selection (today)
 - [AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs) - A community-curated list of resources related to self-driving labs which combine hardware automation and artificial intelligence to accelerate scientific discovery. (3 days ago)
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs. (3 days ago)
 - [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization &#43; Python (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (4 weeks ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (1 month ago)
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. (1 month ago)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
