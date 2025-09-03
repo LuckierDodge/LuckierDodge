@@ -37,7 +37,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [swarm-workflows/SwarmAgents](https://github.com/swarm-workflows/SwarmAgents) - Multi agent consensus for Job Selection (1 week ago)
 - [AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs) - A community-curated list of resources related to self-driving labs which combine hardware automation and artificial intelligence to accelerate scientific discovery. (1 week ago)
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs. (1 week ago)
-- [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization &#43; Python (4 weeks ago)
+- [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization &#43; Python (1 month ago)
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (1 month ago)
 - [AccelerationConsortium/ac-training-lab](https://github.com/AccelerationConsortium/ac-training-lab) - Codebase for controlling and managing the Acceleration Consortium (AC) Training Lab. (1 month ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 month ago)
