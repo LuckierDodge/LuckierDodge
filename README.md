@@ -6,11 +6,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (today)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (today)
-- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (1 week ago)
+- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (today)
 - [AD-SDL/redoxmer_machine_readable_tables](https://github.com/AD-SDL/redoxmer_machine_readable_tables) -  (2 weeks ago)
 - [AD-SDL/MADSci_Examples](https://github.com/AD-SDL/MADSci_Examples) - A collection of notebooks for demonstrating how to build Self Driving Labs with MADSci (3 weeks ago)
-- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (3 weeks ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 month ago)
 - [LuckierDodge/segwayrmp](https://github.com/LuckierDodge/segwayrmp) - Modified version of the ROS2 segwayrmp package (1 month ago)
 - [LuckierDodge/segway_msgs](https://github.com/LuckierDodge/segway_msgs) - Broken out package for ROS2 segway_msgs, based on the segway original code. (1 month ago)
@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [splintered-reality/py_trees](https://github.com/splintered-reality/py_trees) - Python implementation of behaviour trees. (today)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 week ago)
 - [Oaklight/argo-proxy](https://github.com/Oaklight/argo-proxy) - Proxy server to Argo API, OpenAI format compatible (1 week ago)
 - [swarm-workflows/SwarmAgents](https://github.com/swarm-workflows/SwarmAgents) - Multi agent consensus for Job Selection (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (1 month ago)
 - [AccelerationConsortium/ac-training-lab](https://github.com/AccelerationConsortium/ac-training-lab) - Codebase for controlling and managing the Acceleration Consortium (AC) Training Lab. (1 month ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 month ago)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
