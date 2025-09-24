@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [datalab-org/datalab](https://github.com/datalab-org/datalab) - datalab is a place to store experimental data and the connections between them. (today)
 - [splintered-reality/py_trees](https://github.com/splintered-reality/py_trees) - Python implementation of behaviour trees. (2 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (4 weeks ago)
 - [Oaklight/argo-proxy](https://github.com/Oaklight/argo-proxy) - Proxy server to Argo API, OpenAI format compatible (4 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization &#43; Python (1 month ago)
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (1 month ago)
 - [AccelerationConsortium/ac-dev-lab](https://github.com/AccelerationConsortium/ac-dev-lab) - Codebase for controlling and managing the Acceleration Consortium (AC) Training Lab. (1 month ago)
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
