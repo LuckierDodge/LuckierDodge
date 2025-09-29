@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (4 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (5 days ago)
 - [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (1 week ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (2 weeks ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [datalab-org/datalab](https://github.com/datalab-org/datalab) - datalab is a place to store experimental data and the connections between them. (4 days ago)
+- [datalab-org/datalab](https://github.com/datalab-org/datalab) - datalab is a place to store experimental data and the connections between them. (5 days ago)
 - [splintered-reality/py_trees](https://github.com/splintered-reality/py_trees) - Python implementation of behaviour trees. (3 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 month ago)
 - [Oaklight/argo-proxy](https://github.com/Oaklight/argo-proxy) - Proxy server to Argo API, OpenAI format compatible (1 month ago)
@@ -40,8 +40,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs) - A community-curated list of resources related to self-driving labs which combine hardware automation and artificial intelligence to accelerate scientific discovery. (1 month ago)
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs. (1 month ago)
 - [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization &#43; Python (1 month ago)
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (1 month ago)
-- [AccelerationConsortium/ac-dev-lab](https://github.com/AccelerationConsortium/ac-dev-lab) - Codebase for controlling and managing the Acceleration Consortium (AC) Training Lab. (1 month ago)
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (2 months ago)
+- [AccelerationConsortium/ac-dev-lab](https://github.com/AccelerationConsortium/ac-dev-lab) - Codebase for controlling and managing the Acceleration Consortium (AC) Training Lab. (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
