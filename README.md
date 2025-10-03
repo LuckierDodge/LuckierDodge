@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [naonak/plex-amdgpu](https://github.com/naonak/plex-amdgpu) - Plex Docker with AMDGPU-Pro for Hardware Transcoding (1 day ago)
+- [naonak/plex-amdgpu](https://github.com/naonak/plex-amdgpu) - Plex Docker with AMDGPU-Pro for Hardware Transcoding (2 days ago)
 - [datalab-org/datalab](https://github.com/datalab-org/datalab) - datalab is a place to store experimental data and the connections between them. (1 week ago)
 - [splintered-reality/py_trees](https://github.com/splintered-reality/py_trees) - Python implementation of behaviour trees. (4 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 month ago)
@@ -40,7 +40,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [swarm-workflows/SwarmAgents](https://github.com/swarm-workflows/SwarmAgents) - Swarm Greedy multi-agent consensus in distributed environment (1 month ago)
 - [AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs) - A community-curated list of resources related to self-driving labs which combine hardware automation and artificial intelligence to accelerate scientific discovery. (1 month ago)
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs. (1 month ago)
-- [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization &#43; Python (1 month ago)
+- [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization &#43; Python (2 months ago)
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
