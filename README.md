@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [naonak/plex-amdgpu](https://github.com/naonak/plex-amdgpu) - Plex Docker with AMDGPU-Pro for Hardware Transcoding (4 days ago)
+- [naonak/plex-amdgpu](https://github.com/naonak/plex-amdgpu) - Plex Docker with AMDGPU-Pro for Hardware Transcoding (5 days ago)
 - [datalab-org/datalab](https://github.com/datalab-org/datalab) - datalab is a place to store experimental data and the connections between them. (1 week ago)
 - [splintered-reality/py_trees](https://github.com/splintered-reality/py_trees) - Python implementation of behaviour trees. (1 month ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 month ago)
