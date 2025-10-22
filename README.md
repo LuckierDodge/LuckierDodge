@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (today)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code (1 week ago)
 - [naonak/plex-amdgpu](https://github.com/naonak/plex-amdgpu) - Plex Docker with AMDGPU-Pro for Hardware Transcoding (3 weeks ago)
 - [datalab-org/datalab](https://github.com/datalab-org/datalab) - datalab is a place to store experimental data and the connections between them. (4 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [swarm-workflows/SwarmAgents](https://github.com/swarm-workflows/SwarmAgents) - Swarm Greedy multi-agent consensus in distributed environment (1 month ago)
 - [AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs) - A community-curated list of resources related to self-driving labs which combine hardware automation and artificial intelligence to accelerate scientific discovery. (2 months ago)
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs. (2 months ago)
-- [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization &#43; Python (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
