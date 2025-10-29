@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [doismellburning/import-essentials](https://github.com/doismellburning/import-essentials) - Tools for better Python (today)
 - [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Copper is a user friendly and deterministic runtime for building production-ready robots. (2 days ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (1 week ago)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 months ago)
 - [Oaklight/argo-proxy](https://github.com/Oaklight/argo-proxy) - Proxy server to Argo API, OpenAI format compatible (2 months ago)
 - [swarm-workflows/SwarmAgents](https://github.com/swarm-workflows/SwarmAgents) - Swarm Greedy multi-agent consensus in distributed environment (2 months ago)
-- [AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs) - A community-curated list of resources related to self-driving labs which combine hardware automation and artificial intelligence to accelerate scientific discovery. (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
