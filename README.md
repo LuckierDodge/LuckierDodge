@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [ziatdinovmax/NeuroBayes](https://github.com/ziatdinovmax/NeuroBayes) - Fully and Partially Bayesian Neural Nets (today)
 - [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) - Chat with your robotics, drone, and IoT data — ChatGPT for the physical world. (3 days ago)
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (5 days ago)
 - [doismellburning/import-essentials](https://github.com/doismellburning/import-essentials) - Tools for better Python (6 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [naonak/plex-amdgpu](https://github.com/naonak/plex-amdgpu) - Plex Docker with AMDGPU-Pro for Hardware Transcoding (1 month ago)
 - [datalab-org/datalab](https://github.com/datalab-org/datalab) - datalab is a place to store experimental data and the connections between them. (1 month ago)
 - [splintered-reality/py_trees](https://github.com/splintered-reality/py_trees) - Python implementation of behaviour trees. (2 months ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
