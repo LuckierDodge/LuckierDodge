@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/labjack_module](https://github.com/AD-SDL/labjack_module) - an interface and set of modules that interact with LabJack DAC based sensors (3 days ago)
+- [AD-SDL/labjack_module](https://github.com/AD-SDL/labjack_module) - an interface and set of modules that interact with LabJack DAC based sensors (4 days ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 week ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (1 week ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 week ago)
@@ -32,9 +32,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [ziatdinovmax/NeuroBayes](https://github.com/ziatdinovmax/NeuroBayes) - Fully and Partially Bayesian Neural Nets (1 day ago)
-- [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) - Chat with your robotics, drone, and IoT data — ChatGPT for the physical world. (4 days ago)
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (6 days ago)
+- [ziatdinovmax/NeuroBayes](https://github.com/ziatdinovmax/NeuroBayes) - Fully and Partially Bayesian Neural Nets (2 days ago)
+- [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) - Chat with your robotics, drone, and IoT data — ChatGPT for the physical world. (5 days ago)
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (1 week ago)
 - [doismellburning/import-essentials](https://github.com/doismellburning/import-essentials) - Tools for better Python (1 week ago)
 - [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Copper is a user friendly and deterministic runtime for building production-ready robots. (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (2 weeks ago)
