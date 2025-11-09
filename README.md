@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (today)
-- [AD-SDL/labjack_module](https://github.com/AD-SDL/labjack_module) - an interface and set of modules that interact with LabJack DAC based sensors (6 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 day ago)
+- [AD-SDL/labjack_module](https://github.com/AD-SDL/labjack_module) - an interface and set of modules that interact with LabJack DAC based sensors (1 week ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 week ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 week ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 week ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [ziatdinovmax/NeuroBayes](https://github.com/ziatdinovmax/NeuroBayes) - Fully and Partially Bayesian Neural Nets (4 days ago)
+- [ziatdinovmax/NeuroBayes](https://github.com/ziatdinovmax/NeuroBayes) - Fully and Partially Bayesian Neural Nets (5 days ago)
 - [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) - Chat with your robotics, drone, and IoT data — ChatGPT for the physical world. (1 week ago)
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (1 week ago)
 - [doismellburning/import-essentials](https://github.com/doismellburning/import-essentials) - Tools for better Python (1 week ago)
