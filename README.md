@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/rapid446_applications](https://github.com/AD-SDL/rapid446_applications) - Experiment Applications for the RAPID446 Robotic Workcell (today)
-- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 days ago)
-- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (3 days ago)
+- [AD-SDL/rapid446_applications](https://github.com/AD-SDL/rapid446_applications) - Experiment Applications for the RAPID446 Robotic Workcell (1 day ago)
+- [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (4 days ago)
+- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (4 days ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 week ago)
 - [AD-SDL/labjack_module](https://github.com/AD-SDL/labjack_module) - an interface and set of modules that interact with LabJack DAC based sensors (2 weeks ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (3 weeks ago)
@@ -32,13 +32,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage (3 days ago)
+- [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage (4 days ago)
 - [ziatdinovmax/NeuroBayes](https://github.com/ziatdinovmax/NeuroBayes) - Fully and Partially Bayesian Neural Nets (2 weeks ago)
 - [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) - Chat with your robotics, drone, and IoT data — ChatGPT for the physical world. (2 weeks ago)
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (2 weeks ago)
-- [doismellburning/import-essentials](https://github.com/doismellburning/import-essentials) - Tools for better Python (2 weeks ago)
+- [doismellburning/import-essentials](https://github.com/doismellburning/import-essentials) - Tools for better Python (3 weeks ago)
 - [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Copper is a user friendly and deterministic runtime for building production-ready robots. (3 weeks ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (3 weeks ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (4 weeks ago)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code (1 month ago)
 - [naonak/plex-amdgpu](https://github.com/naonak/plex-amdgpu) - Plex Docker with AMDGPU-Pro for Hardware Transcoding (1 month ago)
 - [datalab-org/datalab](https://github.com/datalab-org/datalab) - datalab is a place to store experimental data and the connections between them. (1 month ago)
