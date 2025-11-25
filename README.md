@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) -  (today)
 - [open-planning/roboplan](https://github.com/open-planning/roboplan) - Modern robot motion planning library based on Pinocchio. (1 day ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (1 day ago)
 - [selkies-project/sealskin](https://github.com/selkies-project/sealskin) - A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling. (2 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) - Chat with your robotics, drone, and IoT data — ChatGPT for the physical world. (3 weeks ago)
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (3 weeks ago)
 - [doismellburning/import-essentials](https://github.com/doismellburning/import-essentials) - Tools for better Python (3 weeks ago)
-- [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Copper is a user friendly and deterministic runtime for building production-ready robots. (4 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
