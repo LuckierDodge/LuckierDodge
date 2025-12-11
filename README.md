@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 days ago)
-- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (5 days ago)
-- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (5 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 days ago)
+- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (6 days ago)
+- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (6 days ago)
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (1 week ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (3 weeks ago)
 - [AD-SDL/rapid446_applications](https://github.com/AD-SDL/rapid446_applications) - Experiment Applications for the RAPID446 Robotic Workcell (3 weeks ago)
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples) - Agent Framework Samples  - showcasing ways in which agent framework can be utilized. (today)
+- [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples) - Agent Framework Samples  - showcasing ways in which agent framework can be utilized. (1 day ago)
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) -  (2 weeks ago)
 - [open-planning/roboplan](https://github.com/open-planning/roboplan) - Modern robot motion planning library based on Pinocchio. (2 weeks ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (2 weeks ago)
