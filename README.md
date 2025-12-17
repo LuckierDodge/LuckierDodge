@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. (today)
 - [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples) - Agent Framework Samples  - showcasing ways in which agent framework can be utilized. (1 week ago)
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) -  (3 weeks ago)
 - [open-planning/roboplan](https://github.com/open-planning/roboplan) - Modern robot motion planning library based on Pinocchio. (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage (1 month ago)
 - [ziatdinovmax/NeuroBayes](https://github.com/ziatdinovmax/NeuroBayes) - Fully and Partially Bayesian Neural Nets (1 month ago)
 - [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) - Chat with your robotics, drone, and IoT data — ChatGPT for the physical world. (1 month ago)
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
