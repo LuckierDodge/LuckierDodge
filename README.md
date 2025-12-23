@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (today)
 - [lambdamechanic/tooltest](https://github.com/lambdamechanic/tooltest) -  (1 day ago)
 - [lambdamechanic/pctx](https://github.com/lambdamechanic/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls. (4 days ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. (6 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (4 weeks ago)
 - [selkies-project/sealskin](https://github.com/selkies-project/sealskin) - A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling. (1 month ago)
 - [linuxserver/docker-sealskin](https://github.com/linuxserver/docker-sealskin) - SealSkin server component dockerized for use with the Sealskin browser extension. A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling. (1 month ago)
-- [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
