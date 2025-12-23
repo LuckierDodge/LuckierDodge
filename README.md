@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (today)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (today)
 - [lambdamechanic/tooltest](https://github.com/lambdamechanic/tooltest) -  (1 day ago)
 - [lambdamechanic/pctx](https://github.com/lambdamechanic/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls. (4 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [open-planning/roboplan](https://github.com/open-planning/roboplan) - Modern robot motion planning library based on Pinocchio. (4 weeks ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (4 weeks ago)
 - [selkies-project/sealskin](https://github.com/selkies-project/sealskin) - A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling. (1 month ago)
-- [linuxserver/docker-sealskin](https://github.com/linuxserver/docker-sealskin) - SealSkin server component dockerized for use with the Sealskin browser extension. A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
