@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [lambdamechanic/sk](https://github.com/lambdamechanic/sk) -  (today)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 day ago)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (1 day ago)
 - [lambdamechanic/tooltest](https://github.com/lambdamechanic/tooltest) -  (2 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) -  (4 weeks ago)
 - [open-planning/roboplan](https://github.com/open-planning/roboplan) - Modern robot motion planning library based on Pinocchio. (1 month ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (1 month ago)
-- [selkies-project/sealskin](https://github.com/selkies-project/sealskin) - A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
