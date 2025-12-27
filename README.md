@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (2 days ago)
+- [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (3 days ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 week ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 week ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (2 weeks ago)
@@ -32,10 +32,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [lambdamechanic/sk](https://github.com/lambdamechanic/sk) -  (2 days ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (3 days ago)
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 days ago)
-- [lambdamechanic/tooltest](https://github.com/lambdamechanic/tooltest) -  (4 days ago)
+- [lambdamechanic/sk](https://github.com/lambdamechanic/sk) -  (3 days ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (4 days ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (4 days ago)
+- [lambdamechanic/tooltest](https://github.com/lambdamechanic/tooltest) -  (5 days ago)
 - [lambdamechanic/pctx](https://github.com/lambdamechanic/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls. (1 week ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. (1 week ago)
 - [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples) - Agent Framework Samples  - showcasing ways in which agent framework can be utilized. (2 weeks ago)
