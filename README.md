@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (today)
 - [lambdamechanic/sk](https://github.com/lambdamechanic/sk) -  (6 days ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples) - Agent Framework Samples  - showcasing ways in which agent framework can be utilized. (2 weeks ago)
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) -  (1 month ago)
 - [open-planning/roboplan](https://github.com/open-planning/roboplan) - Modern robot motion planning library based on Pinocchio. (1 month ago)
-- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
