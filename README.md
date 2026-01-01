@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls. (today)
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (2 days ago)
 - [lambdamechanic/sk](https://github.com/lambdamechanic/sk) -  (1 week ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. (2 weeks ago)
 - [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples) - Agent Framework Samples  - showcasing ways in which agent framework can be utilized. (3 weeks ago)
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) -  (1 month ago)
-- [open-planning/roboplan](https://github.com/open-planning/roboplan) - Modern robot motion planning library based on Pinocchio. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
