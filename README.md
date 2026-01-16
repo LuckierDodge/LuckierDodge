@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (today)
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation. (1 week ago)
 - [rail-berkeley/hil-serl](https://github.com/rail-berkeley/hil-serl) -  (1 week ago)
 - [rail-berkeley/serl](https://github.com/rail-berkeley/serl) - SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [lambdamechanic/sk](https://github.com/lambdamechanic/sk) -  (3 weeks ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (3 weeks ago)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 weeks ago)
-- [lambdamechanic/tooltest](https://github.com/lambdamechanic/tooltest) -  (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
