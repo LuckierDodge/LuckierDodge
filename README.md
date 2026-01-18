@@ -13,7 +13,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 month ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (1 month ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 month ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (2 months ago)
 - [AD-SDL/rapid446_applications](https://github.com/AD-SDL/rapid446_applications) - Experiment Applications for the RAPID446 Robotic Workcell (2 months ago)
 - [AD-SDL/vention_rail_module](https://github.com/AD-SDL/vention_rail_module) - A repository to for the Vention Rail interfaces (2 months ago)
 
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (1 day ago)
-- [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (1 day ago)
+- [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (2 days ago)
+- [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (2 days ago)
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation. (1 week ago)
 - [rail-berkeley/hil-serl](https://github.com/rail-berkeley/hil-serl) -  (1 week ago)
 - [rail-berkeley/serl](https://github.com/rail-berkeley/serl) - SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning (1 week ago)
