@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (today)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 day ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 day ago)
 - [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (3 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [rail-berkeley/serl](https://github.com/rail-berkeley/serl) - SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning (1 week ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (2 weeks ago)
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls. (2 weeks ago)
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (2 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
