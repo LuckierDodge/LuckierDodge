@@ -32,14 +32,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (today)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (today)
-- [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (2 days ago)
-- [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (2 days ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 day ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 day ago)
+- [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (3 days ago)
+- [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (3 days ago)
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation. (1 week ago)
 - [rail-berkeley/hil-serl](https://github.com/rail-berkeley/hil-serl) -  (1 week ago)
 - [rail-berkeley/serl](https://github.com/rail-berkeley/serl) - SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning (1 week ago)
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 week ago)
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (2 weeks ago)
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls. (2 weeks ago)
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (2 weeks ago)
 
