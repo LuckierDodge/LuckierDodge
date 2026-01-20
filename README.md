@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [pdm-project/pdm-example-monorepo](https://github.com/pdm-project/pdm-example-monorepo) - An example of a monorepo managed by PDM (today)
 - [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (today)
 - [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) -  (1 day ago)
 - [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) - Build simulation-ready robots in Blender. Professional URDF/XACRO exporter with validation, sensors, and ros2_control support. (1 day ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (4 days ago)
 - [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (4 days ago)
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation. (1 week ago)
-- [rail-berkeley/hil-serl](https://github.com/rail-berkeley/hil-serl) -  (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
