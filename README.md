@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (today)
 - [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) -  (1 day ago)
 - [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) - Build simulation-ready robots in Blender. Professional URDF/XACRO exporter with validation, sensors, and ros2_control support. (1 day ago)
 - [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (1 day ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (4 days ago)
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation. (1 week ago)
 - [rail-berkeley/hil-serl](https://github.com/rail-berkeley/hil-serl) -  (1 week ago)
-- [rail-berkeley/serl](https://github.com/rail-berkeley/serl) - SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
