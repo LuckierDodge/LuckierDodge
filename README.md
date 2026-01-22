@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 days ago)
-- [LuckierDodge/skills](https://github.com/LuckierDodge/skills) -  (2 weeks ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 days ago)
+- [LuckierDodge/skills](https://github.com/LuckierDodge/skills) -  (3 weeks ago)
 - [LuckierDodge/dockerfiles](https://github.com/LuckierDodge/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 weeks ago)
 - [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (3 weeks ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 month ago)
@@ -32,15 +32,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [pdm-project/pdm-example-monorepo](https://github.com/pdm-project/pdm-example-monorepo) - An example of a monorepo managed by PDM (1 day ago)
-- [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (1 day ago)
-- [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) -  (2 days ago)
-- [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) - Build simulation-ready robots in Blender. Professional URDF/XACRO exporter with validation, sensors, and ros2_control support. (2 days ago)
-- [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (2 days ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (3 days ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (3 days ago)
-- [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (5 days ago)
-- [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (5 days ago)
+- [pdm-project/pdm-example-monorepo](https://github.com/pdm-project/pdm-example-monorepo) - An example of a monorepo managed by PDM (2 days ago)
+- [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (2 days ago)
+- [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) -  (3 days ago)
+- [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) - Build simulation-ready robots in Blender. Professional URDF/XACRO exporter with validation, sensors, and ros2_control support. (3 days ago)
+- [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (3 days ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (4 days ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (4 days ago)
+- [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (6 days ago)
+- [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (6 days ago)
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation. (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
