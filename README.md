@@ -6,6 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (today)
 - [LuckierDodge/nix-config](https://github.com/LuckierDodge/nix-config) - Nix configuration (1 day ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 days ago)
 - [LuckierDodge/skills](https://github.com/LuckierDodge/skills) -  (3 weeks ago)
@@ -15,7 +16,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (1 month ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (2 months ago)
 - [AD-SDL/rapid446_applications](https://github.com/AD-SDL/rapid446_applications) - Experiment Applications for the RAPID446 Robotic Workcell (2 months ago)
-- [AD-SDL/vention_rail_module](https://github.com/AD-SDL/vention_rail_module) - A repository to for the Vention Rail interfaces (2 months ago)
 
 ### ✍ My recent writing and projects
 
