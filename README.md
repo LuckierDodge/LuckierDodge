@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (today)
 - [pdm-project/pdm-example-monorepo](https://github.com/pdm-project/pdm-example-monorepo) - An example of a monorepo managed by PDM (2 days ago)
 - [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (2 days ago)
 - [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) -  (3 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (4 days ago)
 - [EmpaEconversion/aurora-cycler-manager](https://github.com/EmpaEconversion/aurora-cycler-manager) - Battery cycler management, data analysis and visualisation. (6 days ago)
 - [swri-robotics/ConnTact](https://github.com/swri-robotics/ConnTact) - assembly software framework (6 days ago)
-- [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation. (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
