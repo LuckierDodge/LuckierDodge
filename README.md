@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (today)
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt (1 day ago)
 - [DRMacIver/drmaciver-project](https://github.com/DRMacIver/drmaciver-project) -  (1 day ago)
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (2 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) - Build simulation-ready robots in Blender. Professional URDF/XACRO exporter with validation, sensors, and ros2_control support. (5 days ago)
 - [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (5 days ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (6 days ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (6 days ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
