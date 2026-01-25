@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Snagnar/Factompiler](https://github.com/Snagnar/Factompiler) - A compiled language for Factorio Blueprints. (today)
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (1 day ago)
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt (2 days ago)
 - [DRMacIver/drmaciver-project](https://github.com/DRMacIver/drmaciver-project) -  (2 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) -  (6 days ago)
 - [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) - Build simulation-ready robots in Blender. Professional URDF/XACRO exporter with validation, sensors, and ros2_control support. (6 days ago)
 - [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (6 days ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
