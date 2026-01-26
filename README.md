@@ -32,6 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (today)
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (today)
 - [Snagnar/Factompiler](https://github.com/Snagnar/Factompiler) - A compiled language for Factorio Blueprints. (1 day ago)
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (2 days ago)
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt (3 days ago)
@@ -40,8 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [pdm-project/pdm-example-monorepo](https://github.com/pdm-project/pdm-example-monorepo) - An example of a monorepo managed by PDM (6 days ago)
 - [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (6 days ago)
 - [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) -  (1 week ago)
-- [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) - Build simulation-ready robots in Blender. Professional URDF/XACRO exporter with validation, sensors, and ros2_control support. (1 week ago)
-- [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
