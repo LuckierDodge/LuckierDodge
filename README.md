@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development (today)
 - [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖  (today)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (1 day ago)
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (1 day ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [DRMacIver/drmaciver-project](https://github.com/DRMacIver/drmaciver-project) -  (4 days ago)
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (5 days ago)
 - [pdm-project/pdm-example-monorepo](https://github.com/pdm-project/pdm-example-monorepo) - An example of a monorepo managed by PDM (1 week ago)
-- [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
