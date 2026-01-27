@@ -6,9 +6,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (today)
-- [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 days ago)
-- [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (4 days ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 day ago)
+- [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 days ago)
+- [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (5 days ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 week ago)
 - [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (3 weeks ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 month ago)
@@ -32,15 +32,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (today)
-- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (today)
-- [Snagnar/Factompiler](https://github.com/Snagnar/Factompiler) - A compiled language for Factorio Blueprints. (1 day ago)
-- [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (2 days ago)
-- [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt (3 days ago)
-- [DRMacIver/drmaciver-project](https://github.com/DRMacIver/drmaciver-project) -  (3 days ago)
-- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (4 days ago)
-- [pdm-project/pdm-example-monorepo](https://github.com/pdm-project/pdm-example-monorepo) - An example of a monorepo managed by PDM (6 days ago)
-- [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (6 days ago)
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (1 day ago)
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (1 day ago)
+- [Snagnar/Factompiler](https://github.com/Snagnar/Factompiler) - A compiled language for Factorio Blueprints. (2 days ago)
+- [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (3 days ago)
+- [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt (4 days ago)
+- [DRMacIver/drmaciver-project](https://github.com/DRMacIver/drmaciver-project) -  (4 days ago)
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (5 days ago)
+- [pdm-project/pdm-example-monorepo](https://github.com/pdm-project/pdm-example-monorepo) - An example of a monorepo managed by PDM (1 week ago)
+- [DRMacIver/claude-reliability](https://github.com/DRMacIver/claude-reliability) -  (1 week ago)
 - [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) -  (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
