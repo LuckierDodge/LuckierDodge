@@ -6,10 +6,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (today)
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (4 days ago)
-- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (4 days ago)
-- [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (5 days ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 day ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (5 days ago)
+- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (5 days ago)
+- [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (6 days ago)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (1 week ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 month ago)
@@ -32,12 +32,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [huggingface/upskill](https://github.com/huggingface/upskill) - Generate and evaluate agent skills for code agents like Claude Code, Open Code, OpenAI Codex (1 day ago)
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development (4 days ago)
-- [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖  (4 days ago)
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (5 days ago)
-- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (5 days ago)
-- [Snagnar/Factompiler](https://github.com/Snagnar/Factompiler) - A compiled language for Factorio Blueprints. (6 days ago)
+- [huggingface/upskill](https://github.com/huggingface/upskill) - Generate and evaluate agent skills for code agents like Claude Code, Open Code, OpenAI Codex (2 days ago)
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development (5 days ago)
+- [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖  (5 days ago)
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (6 days ago)
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (6 days ago)
+- [Snagnar/Factompiler](https://github.com/Snagnar/Factompiler) - A compiled language for Factorio Blueprints. (1 week ago)
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (1 week ago)
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt (1 week ago)
 - [DRMacIver/drmaciver-project](https://github.com/DRMacIver/drmaciver-project) -  (1 week ago)
